@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/seesaebel.html",
   "title": "Seesäbel",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Schwerter",
+    "Reguläre Schwerter"
+  ],
   "text": "﻿\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nSeesäbel\n1W6+3\nGE/KK 15\n0/0\nmittel\n0,75 Stein\n90 HF\n180 S\neinf\nWaffenvorteil:\nIn beengter Umgebung erleidet der Seesäbel 2 Punkte weniger Abzüge auf AT und PA.\nWaffennachteil:\nGegen Rüstungen mit RS 4 oder höher richtet die Waffe –1 TP an."
 }

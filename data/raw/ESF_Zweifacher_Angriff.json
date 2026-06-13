@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/ESF_Zweifacher_Angriff.html",
   "title": "Zweifacher Reiterangriff",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Profane Sonderfertigkeiten",
+    "Erweiterte Kampfstilsonderfertigkeiten"
+  ],
   "text": "(Spezialmanöver)\nRegel:\nDieses Spezialmanöver kann im berittenen Kampf verwendet werden. Man muss zwei unterschiedliche Gegner angreifen. Die beiden angegriffenen Gegner dürfen auf den Angriff getrennt reagieren. Die erste Attacke ist um –2 und die zweite um –4 erschwert. Wenn die Verteidigung der Gegner misslingt, wird für jeden Gegner einzeln Schaden ausgewürfelt. Ein Patzer bei einem der Angriffe bedeutet, dass keine weiteren Attacken des Angriffs in dieser KR ausgeführt werden können. Pro Angriff sinken die TP um jeweils –1 (also –1/–2 TP beim ersten/zweiten Angriff). Das ausgewürfelte Minimum beträgt aber mindestens jeweils 1 TP.\nErschwernis:\n–2 (erster Attacke); –4 (zweite Attacke)\nVoraussetzungen:\nGE 15, Berittener Kampf, passende Kampfstilsonderfertigkeit\nKampftechniken:\nHiebwaffen, Kettenwaffen, Schwerter\nAP-Wert:\n12 Abenteuerpunkte\nPublikationen:\nAventurisches Kompendium 2, Seite 149\nKodex des Schwertes, Seite 350"
 }

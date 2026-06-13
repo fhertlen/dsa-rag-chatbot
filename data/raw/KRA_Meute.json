@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/KRA_Meute.html",
   "title": "Meute",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Magische Sonderfertigkeiten"
+  ],
   "text": "Wirkung:\nPro Kampfgefährten innerhalb einer Angriffsdistanz von 3 Schritt erhält die Animistin +1 AT (bis zu einem Maximum von +4).\nVoraussetzungen:\nkeine\nVolumen:\n4 Punkte\nAsP-Kosten:\n4 AsP pro 5 KR\nMerkmal:\nHeilung\nAP-Wert:\n15 Abenteuerpunkte\nPublikationen:\nGeisterwald & Knochenklippen (Die Gestade des Gottwals), Seite 15"
 }

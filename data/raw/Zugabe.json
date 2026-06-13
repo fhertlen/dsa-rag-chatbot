@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/Zugabe.html",
   "title": "Zugabe",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Magische Sonderfertigkeiten"
+  ],
   "text": "Wirkung:\nEin Lied ist noch 5 Minuten lang zu hören, nachdem der Zauberbarde das Stück bereits beendet hat. Es kann sich um ein anderes Stück als das letzte seiner Darbietung handeln. Das Zentrum des Zugabelieds ist der Ort, an dem der Zauberbarde den Instrumentzauber aktiviert hat. Der Zauberbarde kann keine Zaubermelodie mit diesem Instrumentzauber einsetzen, sondern nur normale Lieder.\nVoraussetzungen:\nkeine\nVolumen:\n2 Punkte\nAsP-Kosten:\n2 AsP\nMerkmal:\nIllusion\nAP-Wert:\n5 Abenteuerpunkte"
 }

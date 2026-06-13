@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/eisenhuetter-kriegshammer-2h.html",
   "title": "Eisenhuetter Kriegshammer (2H)",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Zweihandhiebwaffen",
+    "Reguläre Zweihandhiebwaffen"
+  ],
   "text": "Eisenhuetter Kriegshammer\n﻿\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nEisenhuetter Kriegshammer\n1W6+6\nKK 14\n0/-2\nmittel\n4 Stein\n130 HF\n280 S\neinf\nWaffenvorteil:\nMit dem Eisenhuetter Kriegshammer kann man das Manöver\nZu Fall bringen\nausführen, auch wenn die Kampftechnik Zweihandhiebwaffen dies eigentlich nicht gestattet. Das Manöver\nWuchtschlag\n(oder ein Manöver, für das der\nWuchtschlag\neine Voraussetzung ist) kann Platten- und Gestechrüstungen verbeulen. Für jeweils 12 volle erlittene TP erleidet der Träger eine kumulative Erschwernis von –1 auf AT, Verteidigung und GS, bis die Rüstung wieder repariert wurde (Probe auf Metallbearbeitung +2, 30 Minuten).\nWaffennachteil:\nBei einem bestätigten Patzer bei AT oder PA erhält der Träger zusätzlich\neine Stufe\nBetäubung\n."
 }

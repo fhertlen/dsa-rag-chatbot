@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/wolfsmesser.html",
   "title": "Wolfsmesser",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Fechtwaffen",
+    "Reguläre Fechtwaffen"
+  ],
   "text": "﻿Name\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nWolfsmesser\n1W6+3\nGE 15\n+1/+1\nmittel\n0,5 Stein\n100 HF\n300 S\nkomp (3 AP)\nAnmerkung:\nUm das Wolfsmesser bei der Heldenerschaffung zu erwerben, muss der Held der\nauelfischen\noder\nwaldelfischen Kultur\nangehören.\nWaffenvorteil:\nVerfügen zwei Kämpfer über den gleichen INI-Wert, schlägt der Träger eines Wolfsmessers immer zuerst zu. Führt der Gegner ebenfalls ein Wolfsmesser, kommen die normalen Regeln zur\nReihenfolge des Handelns\nzum Tragen.\nWaffennachteil:\nWird das Wolfsmesser von Nichtelfen geführt, erhält es einen Malus von -1 auf AT, PA und TP. Greift der Träger eines Wolfsmessers im\nBeidhändigen Kampf\nin der gleichen KR mit einer Waffe der Reichweite mittel an, erhält es eine Erschwernis von 1 auf Attacke für die zweite Attacke.\nPublikation(en):\nAventurische Rüstkammer, Seite 92\nKodex des Schwertes, Seite 376\nArchiv der Ausrüstung, Seite 141"
 }

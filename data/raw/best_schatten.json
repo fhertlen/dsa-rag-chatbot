@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/best_schatten.html",
   "title": "Schatten",
+  "categories": [
+    "Bestiarium",
+    "Übernatürliche Wesen"
+  ],
   "text": "MU\n15\nKL\n12\nIN\n13\nCH\n12\nFF\n12\nGE\n13\nKO\n13\nKK\n14\nLeP\n25\nAsP\n-\nKaP\n-\nINI\n14+1W6\nAW\n7\nSK\n3\nZK\n1\nGS\n8\nAngriff*\n:\nAT\n13\nPA\n8\nTP\n1W6+3\nRW\nmittel\nRS/BE\n: 2/0\nAktionen\n: 1\nSonderfertigkeiten\n: keine\nTalente\n: Einschüchtern 10, Klettern 6, Körperbeherrschung 7, Kraftakt 7, Selbstbeherrschung 10, Sinnesschärfe 7, Verbergen 12, Willenskraft 7\nGrößenkategorie\n: mittel\nTypus\n: übernatürliches Wesen, humanoid\nKampfverhalten\n: Der Schatten folgt dem Zauberer und verteidigt ihn, so gut er kann. Wenn sein Meis-ter nicht angegriffen wird, greift er auch von sich aus potenzielle Feinde an. Er führt jedoch keine Befehle des Zaubernden aus. Der Schatten wird sich immer in einem Radius von 13 Schritten um den Zauberer herum aufhalten. Wird er aus diesem Bereich hinausgedrängt, versucht er, den Radius wieder zu erreichen.\nFlucht\n: flieht nicht\n*) Unabhängig von der geführten Waffe des Schattens gelten die hier angegebenen Werte.\nBoni durch erreichte QS\n[Zauber\nEcliptifactus\n]\n#\nQS 1\n: keine Änderungen\n#\nQS 2\n: +1 AT, +5 LeP, +1 SK\n#\nQS 3\n: +1 AT, +1 PA, +1 AW, +1 TP, +5 LeP, +1 SK, Finte I\n#\nQS 4\n: +2 AT, +1 PA, +1 AW, +1 TP, +1 RS, +10 LeP, +1 SK, Finte I\n#\nQS 5\n: +2 AT, +2 PA, +2 AW, +1 TP, +1 RS, +10 LeP, +2 SK, Finte I\n#\nQS 6\n: +3 AT, +2 PA, +2 AW, +2 TP, +1 RS, +15 LeP, +2 SK, Finte I+II*\n*): Die SF Finte II kann der Schatten einsetzen, obwohl er die Voraussetzungen dazu nicht erfüllt.\nPublikation(en):\nAventurische Magie, Seite 125\nGrimorum Cantiones, Seite 502"
 }

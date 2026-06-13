@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/matrosenkleidung.html",
   "title": "Matrosenkleidung",
+  "categories": [
+    "Rüstkammer",
+    "Rüstung",
+    "Schwere Kleidung/Winterkleidung"
+  ],
   "text": "﻿\nRüstungsschutz\nBelastungsstufe\nzusätzliche Abzüge\nGewicht\nPreis\nKomplexität\nMatrosenkleidung\n1\n0\n-1 GS, -1 INI\n2 Stein\n25 S\nprim\nAnmerkung:\nDie Matrosenkleidung ist eine Variante der schweren Kleidung.\nRüstungsvorteil:\nWind erhöht die Kältestufe gegenüber einem Träger der Matrosenkleidung nicht (siehe Regelwerk Seite 346).\nRüstungsnachteil:\nGegen einen Treffer mit 10+ TP bietet die Matrosenkleidung keinen RS."
 }

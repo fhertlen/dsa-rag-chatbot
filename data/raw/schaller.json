@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/schaller.html",
   "title": "Schaller",
+  "categories": [
+    "Rüstkammer",
+    "Helme"
+  ],
   "text": "Anmerkung:\nDie Schaller gilt als Plattenrüstung für die Trefferzone Kopf. Sie kann mit einem Bart kombiniert werden. Für die Trefferzone Kopf zählt dann der RS der Schaller und zusätzlich ein Bonus von +1 RS durch den Bart. Der so ermittelte RS der Trefferzone Kopf dient als Grundlage zur Berechnung der Belastung nach den Regeln für Trefferzonen-Rüstungsschutz.\nHelmvorteil:\nGegen Waffen der Kampftechniken\nArmbrüste\n,\nBögen\n,\nDolche\nund\nSchwerter\nschützt die Schaller die Trefferzone Kopf mit RS 7.\nHelmnachteil:\nProben auf\nSinnesschärfe\nsind um 1 erschwert, wenn es ums Hören geht."
 }

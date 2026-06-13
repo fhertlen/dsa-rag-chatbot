@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/kettenstab.html",
   "title": "Kettenstab",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Kettenwaffen",
+    "Reguläre Kettenwaffen"
+  ],
   "text": "﻿\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nKettenstab\n1W6+2\nKK 14\n0/-\nmittel\n2,5 Stein\n120 HF\n120 S\neinf\nWaffenvorteil:\nDas Manöver Entwaffnen ist um 4 erleichtert.\nWaffennachteil:\nNach einem Patzer wird das Würfelergebnis des Bestätigungswurfes um 1 erhöht."
 }

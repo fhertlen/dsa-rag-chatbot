@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/gratenfelser-malchus.html",
   "title": "Gratenfelser Malchus",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Schwerter",
+    "Reguläre Schwerter"
+  ],
   "text": "﻿\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nGratenfelser Malchus\n1W6+3\nGE 16/KK 14\n0/-1\nmittel\n1,25 Stein\n80 HF\n130 S\neinf\nWaffenvorteil:\nFührt der Träger des Gratenfelser Malchus das Manöver\nWuchtschlag\n(oder ein Manöver, für das der Wuchtschlag eine Voraussetzung ist) aus, erhält er einen Bonus von +1 TP.\nWaffennachteil:\nGegen Waffen der Kampftechniken Dolche, Fechtwaffen und Raufen erleidet der Träger des Gratenfelser Malchus einen Malus von 1 auf PA."
 }

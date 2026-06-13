@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/BEST_Kontrolle_mehrerer_Untoter.html",
   "title": "Kontrolle mehrerer Untoter",
+  "categories": [
+    "Regeln",
+    "Fokusregeln",
+    "Themenkomplex: Beschwörung"
+  ],
   "text": "Die vorliegende Regel ist eine Fokusregel der Stufe I für den Themenkomplex Beschwörung.\nEin Erschaffer muss einen Großteil seiner Konzentration aufwenden, um einen Untoten zu kontrollieren. Sollte ein Erschaffer eine bestimmte Anzahl von Wesen gleichzeitig kontrollieren müssen, so erschwert dies alle seine Proben auf Zauber.\nEs gilt Folgendes:\n# Für eine angefangene Gruppe von jeweils 5 Untoten nach der ersten Gruppe, die ein Erschaffer kontrollieren muss, erhält er eine Erschwernis von –1 für Zauberproben. Bei 6-10 Untoten also eine Erschwernis von –1, bei 11-15 Untoten eine Erschwernis von –2 usw.\n# Zusätzlich zu oben genannter Erschwernis erhält er eine Erschwernis von –1, wenn er insgesamt 2 oder mehr Untote des Komplexitätsgrades einfach kontrolliert, und eine  Erschwernis von –2, wenn er mindestens 2 Untote des Komplexitätsgrades komplex kontrolliert. Die beiden Erschwernisse sind auch zueinander kumulativ (2 einfache und 2 komplexe Untote bringen eine Erschwernis von –3 ein).\n# Möchte der Erschaffer die Erschwernisse nicht mehr tragen, kann er Untote aus seinen Diensten entlassen. Ein Wurf auf 1W20 entscheidet, wie der entlassene Untote anschließend handelt: 1-13: Er zerfällt zu einem Knochenhaufen oder wird wieder zu einer Leiche; 14-18: Er wird zu einem freien Untoten 19-20: Er greift den Erschaffer an.\n# Es gibt Dämonen die einem Erschaffer die Kontrolle über Untote abnehmen können. In diesem Fall zählen die von dem Dämon kontrollierten Untoten nicht zu den Erschwernissen.\nPublikation(en)\n:\nAventurisches Nekromanthäum, Seite 138"
 }

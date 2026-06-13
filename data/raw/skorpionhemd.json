@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/skorpionhemd.html",
   "title": "Skorpionhemd",
+  "categories": [
+    "Rüstkammer",
+    "Rüstung",
+    "Kettenrüstung",
+    "Reguläre Kettenrüstungen"
+  ],
   "text": "﻿\nRüstungsschutz\nBelastungsstufe\nzusätzliche Abzüge\nGewicht\nPreis\nKomplexität\nSkorpionhemd\n4\n2\n-\n12 Stein\n300 S\neinf\nAnmerkung:\nDas Skorpionhemd ist eine Variante der Kettenrüstung. Die Rüstung ist nur von Korgeweihten erwerbbar.\nRüstungsvorteil:\nGegen Waffen der Kampftechniken Armbrüste, Bögen, Dolche und Schwerter schützt das Skorpionhemd mit RS 5. Bei einem Treffer mit einer Waffe einer anderen Kampftechnik muss zusätzlich mit 1W6 gewürfelt werden. Bei einer 5 und 6 besteht ein RS von 5 (nicht nur gegen die beschriebenen Kampftechniken).\nRüstungsnachteil:\nSinnesschärfe-Proben, um einen Träger des Skorpionhemds zu bemerken, sind um 1 erleichtert. Die INI des Trägers sinkt um 1."
 }

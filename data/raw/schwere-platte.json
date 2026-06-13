@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/schwere-platte.html",
   "title": "Schwere Platte",
+  "categories": [
+    "Rüstkammer",
+    "Rüstung",
+    "Gestechrüstung"
+  ],
   "text": "﻿\nRüstungsschutz\nBelastungsstufe\nzusätzliche Abzüge\nGewicht\nPreis\nKomplexität\nSchwere Platte\n7\n4\n-\n32 Stein\n2200 S\nkomp (4 AP)\nAnmerkung:\nDie Schwere Platte ist eine Variante der Gestechrüstung.\nRüstungsvorteil:\nGegen Waffen der Kampftechniken\nDolche\nund\nFechtwaffen\nschützt die Schwere Platte mit RS 9.\nRüstungsnachteil:\nGegen Waffen der Kampftechniken\nHiebwaffen\n,\nKettenwaffen\nund\nZweihandhiebwaffen\nschützt die Schwere Platte mit RS 5."
 }

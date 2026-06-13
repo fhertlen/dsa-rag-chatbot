@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/kurzschwert.html",
   "title": "Kurzschwert",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Schwerter",
+    "Reguläre Schwerter"
+  ],
   "text": "﻿\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nKurzschwert\n1W6+2\nGE/KK 15\n0/0\nkurz\n0,75 Stein\n60 HF\n140 S\neinf\nWaffenvorteil:\nMit einem Kurzschwert ist das Manöver\nUnterlaufen\n(siehe\nAventurisches Kompendium\nSeite\n155\n) zusammen mit dem Manöver\nWuchtschlag\nausführbar.\nWaffennachteil:\nMit einem Kurzschwert sind Paraden gegen Zweihandhiebwaffen und Zweihandschwerter um 1 erschwert."
 }

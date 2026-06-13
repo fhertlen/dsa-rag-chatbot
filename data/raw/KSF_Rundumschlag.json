@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/KSF_Rundumschlag.html",
   "title": "Rundumschlag I-II",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Profane Sonderfertigkeiten",
+    "Kampfsonderfertigkeiten"
+  ],
   "text": "(Spezialmanöver)\nRegel:\nDie angegriffenen Gegner dürfen auf den Angriffgetrennt reagieren. Die erste Attacke ist um -2, die zweite um -4 und die dritte um -10 erschwert. Wenn die Verteidigung der Gegner misslingt, wird für jeden Gegner einzeln der Schaden ausgewürfelt. Rundumschlag I erlaubt den Angriff auf zwei Gegner, Rundumschlag II den Angriff auf drei Gegner. Wird eine AT bei einem Rundumschlag mit einem Basismanöver kombiniert, so profitiert immer nur diese einzelne AT davon. Ein Patzer bei einem der Angriffe bedeutet, dass keine weiteren Attacken des Rundumschlags in dieser KR ausgeführt werden können. Pro Angriff sinken die TP um jeweils -1 (also -1/-2/-3 TP beim ersten/zweiten/dritten Angriff). Das ausgewürfelte Minimum beträgt aber mindestens jeweils 1 TP.\nErschwernis:\n-2 (erste Attacke); -4 (zweite Attacke); -10 (dritte Attacke)\nVoraussetzungen:\nStufe I: GE 15; Stufe II: GE 17, Rundumschlag I\nKampftechniken:\nHiebwaffen, Kettenwaffen, Schilde, Schwerter, Stangenwaffen, Zweihandhiebwaffen, Zweihandschwerter\nAP-Wert:\nStufe I/II: 25/35 Abenteuerpunkte\nErrata:\nAktuelle Version des Kodex des Schwertes – Die vorherige Version findet sich in vorher erschienenen Werken.\nPublikation(en):\nRegelwerk, Seite 249\nKodex des Schwertes, Seiten 302 - 303"
 }

@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/bastardschwert.html",
   "title": "Bastardschwert (2H)",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Zweihandschwerter",
+    "Reguläre Zweihandschwerter"
+  ],
   "text": "﻿Name\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nBastardschwert (2H)\n1W6+6\nKK 13\n0/-2\nmittel\n3 Stein\n110 HF\n200 S\neinf\nWaffenvorteil:\nDas Manöver\nVorstoß\nverleiht dem Träger der Waffe einen Bonus von +3 AT (statt +2).\nWaffennachteil:\nDas Manöver\nVerteidigungshaltung\nverleiht dem Träger der Waffe nur einen Bonus von +3 VW (statt +4).\nPublikation(en):\nArchiv der Ausrüstung, Seiten 85, 273\nAventurische Rüstkammer 2, Seite 42\nKodex des Schwertes, Seite 380\nRitter der Wacht, Seite 117\nSpielsteine der Macht, Seite 46\nStraßenstaub & Halsabschneider, Seite 33"
 }

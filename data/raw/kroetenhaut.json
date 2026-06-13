@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/kroetenhaut.html",
   "title": "Krötenhaut",
+  "categories": [
+    "Rüstkammer",
+    "Rüstung",
+    "Lederrüstung",
+    "Reguläre Lederrüstungen"
+  ],
   "text": "﻿\nRüstungsschutz\nBelastungsstufe\nzusätzliche Abzüge\nGewicht\nPreis\nKomplexität\nKrötenhaut\n3\n1\n-1 GS, -1 INI\n5 Stein\n200 S\neinf\nAnmerkung:\nDie Krötenhaut ist eine Variante der Lederrüstung.\nRüstungsvorteil:\nDie Krötenhaut erschwert beim\nSchwimmen\nund\nKörperbeherrschung\n(Balance) die Probe nicht durch ihre Belastung.\nRüstungsnachteil:\nGegen Fernkampfwaffen schützt die Krötenhaut nur mit RS 2."
 }

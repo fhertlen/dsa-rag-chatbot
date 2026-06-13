@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/handspiegel.html",
   "title": "Handspiegel (i)",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Hiebwaffen",
+    "Improvisierte Hiebwaffen"
+  ],
   "text": "﻿\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nHandspiegel (i)\n1W6+1\nKK 16\n-2/-3\nkurz\n0,5 Stein\n20 HF\n60 S\neinf\nWaffenvorteil:\nDas Manöver Betäubungsschlag (siehe Aventurisches Kompendium Seite 152) richtet 1W3+1 statt nur 1W3 TP an.\nWaffennachteil:\nUnterläuft dem Träger der Waffe ein Patzer, zerbricht seine Waffe. Dies geschieht zusätzlich den üblichen Auswirkungen eines Patzers, solange dessen Resultat nicht ebenfalls ein Zerbrechen der Waffe ist."
 }

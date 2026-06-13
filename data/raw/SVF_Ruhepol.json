@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/SVF_Ruhepol.html",
   "title": "Ruhepol",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Tierische Sonderfertigkeiten",
+    "Vertrautentricks"
+  ],
   "text": "Wirkung:\nDas Vertrautentier hat eine beruhigende Wirkung auf den Hexer, sodass er pro Minute, die er es in beiden Armen hält, eine Stufe\nFurcht\noder\nVerwirrung\nheilen kann. Es ist ebenso möglich dadurch pro Minute eine Stufe\nSchmerz\nzu heilen, wobei dies nur so lange gilt, wie das Tier in den Armen des Hexers verweilt. Lässt er es los, kehrt der\nSchmerz\nmit einer Stufe pro Minute mit sämtlichen Auswirkungen zurück. Es ist nicht möglich, pro Minute mehr als eine Stufe insgesamt zu heilen.\nTierarten\n: alle\nAsP-Kosten\n: 2 AsP pro geheilter Zustandsstufe\nWirkungsdauer\n: sofort\nMerkmal\n: Heilung\nAP-Wert\n: 10 Abenteuerpunkte\nPublikation(en):\nKodex der Magie, Seite 370"
 }

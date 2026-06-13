@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/langbogen.html",
   "title": "Langbogen",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Bögen",
+    "Reguläre Bögen"
+  ],
   "text": "﻿Name\nTP\nLZ\nRW\nMunition\nGewicht\nLänge\nPreis\nKomplexität\nLangbogen\n1W6+8\n2 Aktionen\n20/100/160\nPfeile\n0,75 Stein\n200 HF\n80 S\neinf\nWaffenvorteil:\nFührt der Träger eines Langbogens einen\nBallistischen Schuss\naus, entfällt die Erschwernis von -2.\nWaffennachteil:\nEs ist nicht möglich, einen Langbogen vom Rücken eines Reittiers aus einzusetzen. In Wäldern, die als schwierige oder schlechtere Geländetypen eingestuft werden, erleiden Schützen mit dem Langbogen eine Erschwernis von -2 zusätzlich zu\nallen weiteren Modifikatoren des Schusses\n.\nPublikation(en):\nAventurische Rüstkammer I, Seite 99\nKodex des Schwertes, Seite 382\nArchiv der Ausrüstung, Seite 151"
 }

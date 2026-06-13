@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/jagdmesser.html",
   "title": "Jagdmesser",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Dolche",
+    "Reguläre Dolche"
+  ],
   "text": "﻿Name\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nJagdmesser\n1W6+1\nGE 14\n0/-2\nkurz\n0,25 Stein\n30 HF\n50 S\neinf\nWaffenvorteil:\nIm Kampf gegen Tiere der Größenkategorie mittel und klein erhält der Held einen Bonus von +1 TP.\nWaffennachteil:\nDas Jagdmesser kann das Manöver\nKreuzblock\ngegen Zweihandwaffen nicht benutzen.\nPublikation(en):\nAventurische Rüstkammer I, Seite 70\nKodex des Schwertes, Seite 375\nArchiv der Ausrüstung, Seite 103"
 }

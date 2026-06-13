@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/Best_Verrechnung_von_Eigenschaften_bei_Routine.html",
   "title": "Verrechnung von Eigenschaften bei Routine",
+  "categories": [
+    "Regeln",
+    "Optionale Regeln"
+  ],
   "text": "Optionale Regel\nStatt einen fixen Wert von 13 in den Eigenschaften anzunehmen und daran festzumachen, ob eine Probe zur Routine erklärt kann, kann der Spielleiter auch gestatten, dass einige Eigenschafswerte weniger Punkte aufweisen. Für jeden Eigenschaftspunkt weniger als 13 muss der Held jedoch einen um 3 höheren FW aufweisen als üblich, um die Probe zur Routine zu erklären. Jemand der also zwei 13er-Werte und einen 12er Wert aufweist, der benötigt einen FW von 10 oder mehr, um Proben mit einem Modifikator von +1 oder besser zur Routine zu erklären (anstatt einem Wert von 7). Durch den Einsatz dieser Optionalregel wird das Spiel etwas komplexer.\nPublikation:\nRegelwerk (3. überarbeitete Auflage), Seite 185"
 }

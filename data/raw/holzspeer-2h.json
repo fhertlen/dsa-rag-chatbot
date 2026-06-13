@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/holzspeer-2h.html",
   "title": "Holzspeer (2H)",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Stangenwaffen",
+    "Reguläre Stangenwaffen"
+  ],
   "text": "﻿\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nHolzspeer (2H)\n1W6+2\nGE/KK 15\n0/0\nlang\n1 Stein\n150 HF\n1 S\nprim\nWaffenvorteil:\nGegen Rüstungen mit RS 2 oder niedriger richtet der Holzspeer +1 TP an.\nWaffennachteil:\nGegen Rüstungen mit RS 5 oder höher richtet der Holzspeer –1 TP an."
 }

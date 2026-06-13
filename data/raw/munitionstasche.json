@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/munitionstasche.html",
   "title": "Munitionstasche",
+  "categories": [
+    "Rüstkammer",
+    "Waffenausrüstung"
+  ],
   "text": "Regel:\nWenn ein Held keine Munitionstasche griffbereit umgeschnallt hat, so steigt die Ladezeit um 1 Aktion, wenn er seine Waffe (also Bolzen) bereitmachen will.\nKosten:\n15 Silbertaler\nWaffen:\nArmbrüste\nPublikation(en):\nAventurische Rüstkammer II, Seite 121"
 }

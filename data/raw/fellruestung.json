@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/fellruestung.html",
   "title": "Fellrüstung",
+  "categories": [
+    "Rüstkammer",
+    "Rüstung",
+    "Normale Kleidung/Felle/Nackt"
+  ],
   "text": "﻿\nRüstungsschutz\nBelastungsstufe\nzusätzliche Abzüge\nGewicht\nPreis\nKomplexität\nFellrüstung\n0\n0\n-\n1,5 Stein\n20 S\nprim\nAnmerkung:\nDie Fellrüstung ist eine Variante der normalen Kleidung.\nRüstungsvorteil:\nDie Fellrüstung bietet eine Kälteschutzstufe.\nRüstungsnachteil:\nDer Träger der Fellrüstung erhält einen Abzug von 1 auf INI."
 }

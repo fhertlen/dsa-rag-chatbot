@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/SPZ_KaempfendesSpielzeug.html",
   "title": "Kämpfendes Spielzeug",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Magische Sonderfertigkeiten"
+  ],
   "text": "Wirkung:\nDas Spielzeug kommt dem Schelm im Kampf zur Hilfe und klammert sich am Gegner fest oder springt ihm zwischen die Beine. Der Gegner erleidet eine Erschwernis von 1 auf AT und FK. Der Schelm kann jede KR entscheiden, ob die Wirkung aufrechterhalten werden soll.\nVoraussetzungen:\nSpielbewegung\nVolumen:\n5 Punkte\nAsP-Kosten:\n1 AsP pro KR\nMerkmal:\nTelekinese\nAP-Wert:\n10 Abenteuerpunkte\nPublikation: Aventurische Magie II Seite 38"
 }

@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/RK_Ausr_Brotbeutel.html",
   "title": "Brotbeutel",
+  "categories": [
+    "Rüstkammer",
+    "Ausrüstung"
+  ],
   "text": "﻿Gegenstand\nGewicht\nStrukturpunkte\nPreis\nKomplexität\nBrotbeutel, groß\n0,1 Stn\n2 StP\n0,6 S\nprim\nBrotbeutel, klein\n0,05 Stn\n1 StP\n0,3 S\nprim\nRegeltechnik:\nEin kleiner/großer Brotbeutel kann bis zu 2/4 Stein Gewicht an Gegenständen aufnehmen.\nPublikation:\nAventurische Rüstkammer 2, Seite 16"
 }

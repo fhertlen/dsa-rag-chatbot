@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/holzhammer-i.html",
   "title": "Holzhammer (i)",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Hiebwaffen",
+    "Improvisierte Hiebwaffen"
+  ],
   "text": "﻿\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nHolzhammer (i)\n1W6+2\nKK 14\n-1/-3\nkurz\n0,5 Stein\n50 HF\n3 S\nprim\nWaffenvorteil:\nDas Manöver\nBetäubungsschlag\n(siehe Aventurisches Kompendium Seite 152) richtet 1W3+1 statt nur 1W3 TP an.\nWaffennachteil:\nUnterläuft dem Träger des Holzhammers ein Patzer, zerbricht seine Waffe. Dies geschieht zusätzlich den üblichen Auswirkungen eines Patzers, solange dessen Resultat nicht ebenfalls ein Zerbrechen der Waffe ist."
 }

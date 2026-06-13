@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/traditionsartefakt_kugelzauber_schutz_untote.html",
   "title": "Schutz gegen Untote",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Magische Sonderfertigkeiten"
+  ],
   "text": "Wirkung:\nUm die Magierkugel entsteht ein kugelförmiges Schutzfeld, das von Wesen des Typus Untote nicht betreten werden kann. Die Reichweite ist so groß wie die Angriffsdistanz des Magiers. Die Aktivierung dauert 2 Aktionen. Bewegt sich der Magier mit der Kugel, weichen die Untoten aus. Haben sie keine Ausweichmöglichkeit, können sie den Radius der Kugel betreten, haben aber Erschwernisse von 1 auf alle Proben und versuchen, so bald wie möglich die Zone zu verlassen.\nVoraussetzungen:\nkeine\nVolumen:\n7 Punkte\nAsP-Kosten:\n1 AsP pro 10 KR\nMerkmal:\nAntimagie\nAP-Wert:\n15 Abenteuerpunkte\nPublikation: Aventurische Magie II Seite 18"
 }

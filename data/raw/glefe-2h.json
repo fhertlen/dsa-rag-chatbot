@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/glefe-2h.html",
   "title": "Glefe (2H)",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Stangenwaffen",
+    "Reguläre Stangenwaffen"
+  ],
   "text": "﻿\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nGlefe (2H)\n1W6+5\nGE/KK 15\n0/-2\nlang\n2 Stein\n200 HF\n50 S\nprim\nWaffenvorteil:\nEin Kämpfer mit einer Glefe kann mit mindestens einem weiteren gleichbewaffneten Kämpfer einen Wall bilden. Der Kampfpartner darf sich maximal einen halben Schritt neben ihm befinden und muss in die gleiche Richtung ausgerichtet sein. Solange die Bedingungen erfüllt sind, kann der Wall aus beliebig vielen Kämpfern bestehen. Alle Kämpfer, die diesen Wall bilden, erhalten einen Bonus von +1 auf PA. Führen die Kämpfer stattdessen gemeinsam das Manöver\nSturmangriff\naus, verfällt der Bonus auf die PA, aber sie richten mit der Glefe jeweils zusätzlich +1 TP an (siehe\nRegelwerk\nSeite\n249\n).\nWaffennachteil:\nWendet der Träger die Sonderfertigkeit\nPikenwall\n(siehe\nAventurisches Kompendium\nSeite\n154\n) an, ist seine AT zusätzlich um 1 erschwert."
 }

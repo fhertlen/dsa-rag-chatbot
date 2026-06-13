@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/nudel-teigholz-i.html",
   "title": "Nudel-/Teigholz (i)",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Hiebwaffen",
+    "Improvisierte Hiebwaffen"
+  ],
   "text": "﻿\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nNudel-/Teigholz (i)\n1W6+1\nKK 14\n-1/-2\nmittel\n0,5 Stein\n40 HF\n10 S\nprim\nWaffenvorteil:\nDas Manöver\nBetäubungsschlag\n(siehe\nAventurisches Kompendium\nSeite\n152\n) richtet 1W3+1 statt nur 1W3 TP an.\nWaffennachteil:\nUnterläuft dem Träger der Waffe ein bestätigter Patzer, zerbricht sie. Dies geschieht zusätzlich den üblichen Auswirkungen eines Patzers, solange dessen Resultat nicht ebenfalls ein Zerbrechen der Waffe ist."
 }

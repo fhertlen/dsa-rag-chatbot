@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/her_a_schlaftrunk.html",
   "title": "Schlaftrunk",
+  "categories": [
+    "Herbarium",
+    "Rezepte",
+    "Alchimistische Rezepte",
+    "Elixiere"
+  ],
   "text": "Rezepttyp:\nHeilung\nRezeptbeschreibung:\nDer Schlaftrunk sorgt für erholsamen Schlaf und verbessert die Regeneration. Allerdings muss der Anwender des Schlaftrunks auch tatsächlich schlafen, um von der Wirkung zu profitieren.\nTypische Ingredenzien:\nEinbeere, Gulmond, Kamille, weißer Khômsand, Minze, Rabenfedern, klares Regenwasser, Schwarzer Mohn, Yagannüsse\nKosten der Ingredenzienstufe:\n20 Silbertaler pro Stufe\nLabor:\narchaisches Labor\nBrauschwierigkeit:\n+/-0\nVorraussetzungen (Brauvorgang):\nkeine\nAP-Wert (Berufsgeheimnis):\n2 AP (Voraussetzungen: keine)\nQualitätsstufen:\n1: Regeneration von 1 zusätzlichen Punkt LE, AE und KE im Schlaf während der nächsten Regenerationsphase.\n2: Regeneration von 2 zusätzlichen Punkten LE, AE und KE im Schlaf während der nächsten Regenerationsphase.\n3: Regeneration von 3 zusätzlichen Punkten LE, AE und KE im Schlaf während der nächsten Regenerationsphase.\n4: Regeneration von 4 zusätzlichen Punkten LE, AE und KE im Schlaf während der nächsten Regenerationsphase.\n5: Regeneration von 5 zusätzlichen Punkten LE, AE und KE im Schlaf während der nächsten Regenerationsphase.\n6: Regeneration von 6 zusätzlichen Punkten LE, AE und KE im Schlaf während der nächsten Regenerationsphase.\nPublikation(en):\nAventurisches Herbarium, Seite 87 ff."
 }

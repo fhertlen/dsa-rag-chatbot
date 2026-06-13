@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/knochenkeule.html",
   "title": "Knochenkeule",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Hiebwaffen",
+    "Reguläre Hiebwaffen"
+  ],
   "text": "﻿\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nKnochenkeule\n1W6+1\nKK 14\n0/-1\nmittel\n0,5 Stein\n80 HF\n0,6 S\nprim\nWaffenvorteil:\nBei einem Kritischen Treffer kann der Benutzer der Waffe entscheiden, ob die Waffe zersplittert. Entscheidet er sich dafür, ist die Waffe zwar zerstört, aber nach dem Verdoppeln der TP werden der Schaden nochmals um 1W3 erhöht.\nWaffennachteil:\nRüstungen mit RS 4 oder höher erhalten gegenüber einer Knochenkeule einen Bonus von +1 auf RS. Unterläuft dem Träger der Waffe ein bestätigter Patzer, zerbricht sie. Dies geschieht zusätzlich den üblichen Auswirkungen eines Patzers, solange dessen Resultat nicht ebenfalls ein Zerbrechen der Waffe ist."
 }

@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/schwere-armbrust.html",
   "title": "Schwere Armbrust",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Armbrüste",
+    "Reguläre Armbrüste"
+  ],
   "text": "﻿Name\nTP\nLZ\nRW\nMunition\nGewicht\nLänge\nPreis\nKomplexität\nSchwere Armbrust\n2W6+6\n15 Aktionen\n20/100/180\nBolzen\n7,25 Stein\n80 HF\n360 S\nkomp (4 AP)\nWaffenvorteil:\nBei Schüssen auf\nnahe\nDistanz steigen die TP um 1 weiteren Punkt (also insgesamt 2W6+8, wenn der TP-Bonus für Reichweite\nkurz\nmiteingerechnet wird).\nWaffennachteil:\nBei Schüssen auf die Distanz\nweit\nsinken die TP um 1 weiteren Punkt (also insgesamt 2W6+4, wenn der TP Malus für die Reichweite\nweit\nmiteingerechnet wird).\nPublikation(en):\nAventurische Rüstkammer I, Seite 101\nKodex des Schwertes, Seite 381\nArchiv der Ausrüstung, Seite 153"
 }

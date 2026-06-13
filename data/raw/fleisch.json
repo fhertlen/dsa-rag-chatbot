@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/fleisch.html",
   "title": "Fleisch",
+  "categories": [
+    "Regeln",
+    "Fokusregeln",
+    "Jagd",
+    "Beuteverwertung"
+  ],
   "text": "Viele Tiere sind essbar und einige gelten sogar als Delikatesse. Nur die Zubereitung will gelernt sein, denn ein falscher Schnitt beim Ausnehmen und aus einem köstlichen Braten wird ein bitteres, übelriechendes Etwas.\nRegel:\nUm ein Tier auszunehmen, ist eine Probe auf\nLebensmittelbearbeitung (Ausnehmen)\nnötig. Als Faustformel gilt, dass von einem Säugetier etwas mehr als die Hälfte seines Gewichts an verwertbarem Fleisch übrig bleibt. Die bei den Tieren angegebenen Rationen Fleisch können immer leicht nach oben oder unten abweichen. Die Qualität des Fleisches ist abhängig vom jeweiligen Tier. Misslingt die Probe, wird die Menge des verwertbaren Fleischs halbiert und die Qualität um eine Stufe gesenkt. Sinkt die Stufe auf ungenießbar oder darunter, kann man das Fleisch niemandem mehr vorsetzen, außer er verfügt über den Vorteil\nSaumagen\n(siehe Seite 121). Oft eignet es sich aber zumindest noch als Hundefutter oder Köder für Aasfresser. Eine gelungene Probe kann je nach QS die Menge des verwendbaren Fleischs erhöhen. Jede QS über 1 erhöhte die Menge um 5%.\nQualität von Fleisch\nDie Verarbeitung von Fleisch ist stark abhängig von seiner Qualität. Anfallende Proben auf\nLebensmittelbearbeitung\nwerden wie folgt durch die Verwendung unterschiedlicher Fleischqualitäten modifiziert. In der Beschreibung ist unter Beute nur ein Eintrag zur Qualität enthalten, wenn das Fleisch nicht der Qualität mittelmäßig entspricht.\nQualität\nBeispiel\nMod. für Lebensmittelbearbeitung\nUngenießbar\nGruftassel\n-4\nZäh\nZugochse\n-2\nMittelmäßig\nRind, Huhn\n+/- 0\nHochwertig\nWachtel, Mastschwein\n+2\nQS für mehr Rationen Fleisch\nQS 1\nnormale Menge\nQS 2\n5% mehr Fleisch als unter Beute angegeben\nQS 3\n10% mehr Fleisch als unter Beute angegeben\nQS 4\n15% mehr Fleisch als unter Beute angegeben\nQS 5\n20% mehr Fleisch als unter Beute angegeben\nQS 6\n25% mehr Fleisch als unter Beute angegeben\nPublikation:\nAventurisches Bestiarium, Seite 123"
 }

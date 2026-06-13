@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/RK_Hirschfaenger.html",
   "title": "Hirschfänger",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Schwerter",
+    "Reguläre Schwerter"
+  ],
   "text": "﻿Waffe\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\n﻿Hirschfänger\n1W6+2\nGE/KK 14\n0/–1\nkurz\n1 Stn\n60 HF\n100 S\neinf\nWaffenvorteil:\nIm Kampf gegen Tiere der Größenkategorie mittel und größer richtet der Hirschfänger +1 TP an.\nWaffennachteil:\nMit dem Hirschfänger kann das Manöver Unterlaufen nicht genutzt werden (siehe Aventurisches Kompendium).\nPublikation:\nRüstkammer der Streitenden Königreiche, Seite 7"
 }

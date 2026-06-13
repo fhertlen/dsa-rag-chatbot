@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/RK_Ausr_Verband.html",
   "title": "Verband",
+  "categories": [
+    "Rüstkammer",
+    "Ausrüstung",
+    "Heilkunde Wunden (Werkzeuge & Utensilien)"
+  ],
   "text": "﻿Gegenstand\nGewicht\nStrukturpunkte\nPreis\nKomplexität\nVerband, 10 Stück\n0,05 Stn\n3 StruPu\n12,5 S\nprim\nRegeltechnik:\nFingerfertigkeit erhält bei\nHeilkunde Wunden\neinen Bonus von +1, sofern ein Verband verwendet werden kann (Stofffetzen bringen keinen Bonus!).\nPublikation:\nAventurische Rüstkammer, Seite 50"
 }

@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/einkerbung.html",
   "title": "Einkerbung",
+  "categories": [
+    "Rüstkammer",
+    "Waffenausrüstung"
+  ],
   "text": "Regel:\nDer Schaden der Waffe erhöht sich um +1 TP. Die Probe auf FK ist um 1 erschwert.\nKosten:\nPreis x 2\nWaffen:\nArmbrüste, die als Munitionsart Kugeln verwenden\nPublikation(en):\nAventurische Rüstkammer II, Seite 120"
 }

@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/orchidee.html",
   "title": "Orchidee",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Raufen",
+    "Reguläre Waffen (Raufen)"
+  ],
   "text": "TP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nOrchidee\n1W6+2\nGE/KK 15\n0/-1\nkurz\n1 Stein\n40 HF\n60 S\neinf\nWaffenvorteil:\nWird ein mit der Orchidee ausgeführter Angriff pariert, erhält der Träger nicht wie beim Raufen üblich den halben Waffenschaden. Bei Angriffen mit der Orchidee muss man nicht die Paraden bewaffneter Gegner fürchten, allerdings immer noch ihre Angriffe.\nWaffennachteil:\nUnterläuft dem Träger ein bestätigter Patzer, gilt die Waffe als zerstört. Dies gilt zusätzlich zur normalen Patzerwirkung."
 }

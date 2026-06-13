@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/SF_Giftverstaerkung.html",
   "title": "Giftverstärkung (Giftart)",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Profane Sonderfertigkeiten",
+    "Allgemeine Sonderfertigkeiten"
+  ],
   "text": "Regel:\nDer Held kann versuchen, die Giftstufe eines Giftes zu verstärken. Dazu legt er eine Probe auf Alchimie (für alchimistische Gifte), Pflanzenkunde (für pflanzliche Gifte), Steinbearbeitung (für mineralische Gifte) oder Tierkunde (für tierische Gifte) ab, die um die bisherige Stufe des Giftes erschwert ist. Pro Probe muss er dabei ursprüngliche Giftstufe x 10 Silbertaler an Zusatzmaterial ausgeben. Ist die Probe gelungen, erhöht sich die Stufe um 1 (bis zu einem Maximum von 6). Ein Gift kann auf diese Weise nur einmal einen Bonus von 1 auf seine Stufe bekommen. Jede Probe dauert 4 Stunden. Diese Sonderfertigkeit muss für jede Giftart einzeln erworben werden: alchimistisch, mineralisch, pflanzlich, tierisch.\nVoraussetzungen:\nje nach verwendeter Giftart: Alchimie 8, Pflanzenkunde 8, Steinbearbeitung 8 oder Tierkunde 8\nAP-Wert:\n12 Abenteuerpunkte pro Giftart\nPublikation:\nAventurisches Kompendium 2, Seite 72"
 }

@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/steinbeil.html",
   "title": "Steinbeil",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Hiebwaffen",
+    "Reguläre Hiebwaffen"
+  ],
   "text": "﻿\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nSteinbeil\n1W6+1\nKK 14\n-1/-2\nmittel\n0,5 Stein\n40 HF\n4 S\nprim\nWaffenvorteil:\nBei einem Kritischen Treffer erhöhen sich die TP nach dem Verdoppeln nochmals um +2 TP.\nWaffennachteil:\nRüstungen mit RS 4 oder höher erhalten gegenüber einem Steinbeil einen Bonus von +1 auf RS. Unterläuft dem Träger der Waffe ein bestätigter Patzer, zerbricht sie. Dies geschieht zusätzlich den üblichen Auswirkungen eines Patzers, solange dessen Resultat nicht ebenfalls ein Zerbrechen der Waffe ist."
 }

@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/ESK_WuchtigerWurf.html",
   "title": "Wuchtiger Wurf",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Profane Sonderfertigkeiten",
+    "Erweiterte Kampfstilsonderfertigkeiten"
+  ],
   "text": "(Spezialmanöver)\nRegel:\nVerfügt ein Abenteurer über die SF Wuchtiger Wurf, aktiviert er für Wurfwaffen die Schadensschwelle KK 14. Mit jedem KK-Punkt über 14 richtet er +1 TP mit Wurfwaffen an.\nVoraussetzungen:\nKK15, passende Kampfstilsonderfertigkeit\nKampftechniken:\nWurfwaffen\nAP-Wert:\n15 Abenteuerpunkte\nPublikationen:\nAventurisches Kompendium, Seite 166\nKodex des Schwertes, Seite 349 ff."
 }

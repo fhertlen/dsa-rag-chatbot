@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/luchs.html",
   "title": "Luchs",
+  "categories": [
+    "Bestiarium",
+    "Tiere"
+  ],
   "text": "Größe:\n0,80 bis 1,20 Schritt (ohne Schwanz), 0,95 bis 1,45 Schritt (mit Schwanz), 0,50\nbis 0,70 Schritt Schulterhöhe\nGewicht:\n20 bis 30 Stein\nMU\n14\nKL\n11 (t)\nIN\n13\nCH\n13\nFF\n12\nGE\n15\nKO\n12\nKK\n11\nLeP\n15\nAsP\n–\nKaP\n–\nINI\n15+1W6\nVW\n9\nSK\n-1\nZK\n0\nGS\n15\nBiss:\nAT 15 TP 1W6+3 RW kurz\nPranke:\nAT 14 TP 1W6+1 RW kurz\nRS/BE\n0/0\nAktionen:\n2 (max. 1 x Biss)\nVorteile/Nachteile:\nDunkelsicht I, Herausragender Sinn (Gehör)\nSonderfertigkeiten:\nAnspringen (Pranke), Finte I (Pranke, Biss), Verbeißen (Biss), Verbessertes Ausweichen I\nTalente:\nEinschüchtern 6, Klettern 7, Körperbeherrschung 12, Kraftakt 4, Selbstbeherrschung 4, Sinnesschärfe 9, Verbergen 12, Willenskraft 4\nAnzahl:\n1\nGrößenkategorie:\nklein\nTypus:\nTier, nicht humanoid\nBeute:\n10 Rationen Fleisch (zäh), Trophäe (Fell, 10 Silbertaler)\nKampfverhalten:\nLuchse verstecken sich und lauern ihrer Beute auf oder schleichen sich an diese an.\nSchmerz +1 bei:\n12 LeP, 9 LeP, 6 LeP, 3 LeP\nFlucht:\nVerlust von 50% der LeP\nTierkunde (Wildtiere):\nQS 1:\nLuchse greifen den Menschen nur an, wenn sie ihre Jungen bedroht sehen.\nQS 2:\nLuchse sind Einzelgänger und verteidigen ihr Revier gegen Fressfeinde.\nQS 3+:\nLuchse gelten in Nordaventurien als der Göttin Rondra heilig. Sie bringen ihre Beute an einen sicheren Ort.\nSonderregeln:\nBeute verschleppen:\nWenn ein Luchs größere Beutetiere erlegt hat oder sie Handlungsunfähig sind, schleppt er sie vom Kampfplatz weg, um sie zu einem sicheren Versteck zu bringen (unter Blättern oder Ästen). In dieser Situation lässt er von seiner Beute nur ab, wenn er stark verwundet wird (unter 25% seiner LeP). So lange er seine Beute mittschleppt, ist er sehr langsam (GS 4)."
 }

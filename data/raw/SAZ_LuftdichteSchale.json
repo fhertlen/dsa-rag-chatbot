@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/SAZ_LuftdichteSchale.html",
   "title": "Luftdichte Schale",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Magische Sonderfertigkeiten"
+  ],
   "text": "Wirkung:\nIm Inneren der Schale befindet sich während der Wirkungsdauer keine Luft.\nVoraussetzungen:\nkeine\nVolumen:\n3 Punkte\nAsP-Kosten:\n1 AsP pro 5 Minuten\nMerkmal:\nObjekt\nAP-Wert:\n5 Abenteuerpunkte\nPublikation: Aventurische Magie II Seite 42"
 }

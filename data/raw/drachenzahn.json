@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/drachenzahn.html",
   "title": "Drachenzahn",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Dolche",
+    "Reguläre Dolche"
+  ],
   "text": "Name\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nDrachenzahn\n1W6+2\nGE 14\n0/-1\nkurz\n0,75 Stein\n40 HF\n70 S\nkomp (2 AP)\nAnmerkung:\nUm den Drachenzahn bei der Heldenerschaffung zu erwerben, muss der Held einer\nzwergischen Kultur\nangehören.\nWaffenvorteil:\nIm Kampf gegen Echsen(wesen) erhält der Held einen Bonus von +1 TP.\nWaffennachteil:\nWird der Drachenzahn von Nichtzwergen geführt, erhält er einen Malus von -1 auf AT, PA und TP. Das Manöver\nPräziser Stich\nist nur um -1 erschwert auszuführen.\nPublikation(en):\nArchiv der Ausrüstung, Seiten 90, 275\nAventurische Rüstkammer, Seite 62\nAventurisches Kompendium, Seite 96\nEin Thron aus Adamant, Seite 20\nKodex des Schwertes, Seite 375\nArchiv der Ausrüstung, Seite 90\nStraßenstaub & Halsabschneider, Seite 26"
 }

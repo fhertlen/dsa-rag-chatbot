@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/intelligentes-werwesen.html",
   "title": "Intelligentes Werwesen",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Magische Sonderfertigkeiten",
+    "Lykanthropische Gaben"
+  ],
   "text": "Regel:\nWährend des Status Wergestalt bekommt ein Lykanthrop kein t für seinen KL-Wert. Er behält seine menschliche Intelligenz und kann z. B. auch Waffen einsetzen. Er kann allerdings weiterhin nicht sprechen oder Zauber und Liturgien wirken.\nVoraussetzungen:\nStatus Lykanthrop\nAP-Wert:\n20 Abenteuerpunkte\nPublikation(en):\nAventurisches Bestiarium II, Seite 126"
 }

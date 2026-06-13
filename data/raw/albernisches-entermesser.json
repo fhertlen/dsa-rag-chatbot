@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/albernisches-entermesser.html",
   "title": "Albernisches Entermesser",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Schwerter",
+    "Reguläre Schwerter"
+  ],
   "text": "﻿Name\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nAlbernisches Entermesser\n1W6+3\nGE/KK 15\n0/-1\nmittel\n0,75 Stein\n75 HF\n120 S\neinf\nWaffenvorteil:\nGegen Dolche, Fechtwaffen und Schwerter erhält das Albernische Entermesser einen Bonus von +1 PA. Droht der Verlust der Waffe durch einen Patzer oder ein Entwaffnungs-Manöver, würfele mit 1W6. Bei 1-2 wurde die Waffe nicht fallengelassen, allerdings können bis zum Ende der nächsten KR keine AT ausgeführt werden.\nWaffennachteil:\nParaden gegen Zweihandwaffen sind mit dem Albernischen Entermesser um 1 erschwert. Das Albernische Entermesser kann nicht zweihändig geführt werden (siehe Regelwerk Seite 266).\nPublikation:\nRüstkammer der Siebenwindküste, Seite 9"
 }

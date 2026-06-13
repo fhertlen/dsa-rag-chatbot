@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/AW_Waffe_gegen_boese_Wesen.html",
   "title": "Waffe gegen böse Wesen",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Magische Sonderfertigkeiten"
+  ],
   "text": "Wirkung:\nDie Waffe richtet gegen Dämonen und Geister +1 TP an.\nVoraussetzungen:\nkeine\nVolumen:\n4 Punkte\nAsP-Kosten:\nkeine\nMerkmal:\nObjekt\nAP-Wert:\n10 Abenteuerpunkte\nPublikationen:\nAventurische Magie 3, Seite 21\nGeisterwald & Knochenklippen (Die Gestade des Gottwals), Seite 13"
 }

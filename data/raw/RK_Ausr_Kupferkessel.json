@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/RK_Ausr_Kupferkessel.html",
   "title": "Kupferkessel",
+  "categories": [
+    "Rüstkammer",
+    "Ausrüstung",
+    "Alchimie (Labore & Werkzeuge)"
+  ],
   "text": "﻿Gegenstand\nGewicht\nStrukturpunkte\nPreis\nKomplexität\nKupferkessel\n4 Stn\n60 StruPu\n24 S\nprim\nRegeltechnik:\nFingerfertigkeit erhält bei\nAlchimie (Elixiere)\neinen Bonus von +1, wenn der Held zur Herstellung den Kupferkessel verwendet.\nPublikation:\nAventurische Rüstkammer, Seite 32"
 }

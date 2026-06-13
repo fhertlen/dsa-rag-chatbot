@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/Fokus_Kontrolle_mehrerer_Daemonen.html",
   "title": "Kontrolle mehrerer Dämonen",
+  "categories": [
+    "Regeln",
+    "Fokusregeln",
+    "Themenkomplex: Beschwörung"
+  ],
   "text": "Die vorliegende Regel ist eine Fokusregel der Stufe I für den Themenkomplex Beschwörung.\nEin Beschwörer muss einen Großteil seiner Konzentration aufwenden, um einen Dämon oder andere beschworene oder erschaffene Wesen (wie Untote) zu kontrollieren. Sollte ein Beschwörer eine bestimmte Anzahl von Wesen gleichzeitig kontrollieren müssen, so erschwert dies alle seine Proben auf Zauber. Es gilt Folgendes:\n# Für jeden Dämon nach dem ersten, den ein Beschwörer kontrollieren muss, erhält er eine Erschwernis von 1 pro Dämon für Zauberproben. Bei zwei Dämonen also eine Erschwernis von 1, bei drei Dämonen eine Erschwernis von 2 usw.\n# Zusätzlich zu oben genannter Erschwernis erhält er eine Erschwernis von 1 pro gehörnten Dämon mit bis zu 5 Hörnern und eine Erschwernis von 2 pro gehörnten Dämon ab 6 Hörnern.\n# Möchte der Beschwörer die Erschwernisse nicht mehr tragen, kann er Dämonen aus seinen Diensten entlassen. Ein Wurf auf 1W20 entscheidet, wie der entlassene Dämon anschließend handelt:\n1-10\nEr kehrt in seine Sphäre zurück\n11-17\nEr greift den Beschwörer an\n18-20\nEr wird zu einem freien Dämon\n# Es gibt Dämonen, die einem Beschwörer die Kontrolle über andere Dämonen abnehmen. In diesem Fall zählen die von dem anderen Dämon kontrollierten Dämonen nicht zu den Erschwernissen, der Kontrolldämon allerdings schon.\n*) Für Untote gelten die gleichen Regeln, allerdings kann der Erschaffer 5 Untote gleichzeitig kontrollieren. Eine weitere angefangene Gruppe von 5 Untoten bringt dann entsprechend eine Erschwernis von 1, wie dies bei Dämonen der Fall ist.\nPublikation(en):\nAventurisches Pandämonium, Seite 157ff."
 }

@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/spaten-2h-i.html",
   "title": "Spaten (2H, i)",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Zweihandhiebwaffen",
+    "Improvisierte Zweihandhiebwaffen"
+  ],
   "text": "﻿\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nSpaten (2H, i)\n1W6+4\nKK 14\n-2/-4\nmittel\n2 Stein\n90 HF\n8,5 S\nprim\nWaffenvorteil:\nWerden mit einem Spaten 10 oder mehr SP verursacht, muss dem Gegner eine Probe auf\nSelbstbeherrschung (Handlungsfähigkeit bewahren)\ngelingen, ansonsten erleidet er 1 Stufe\nBetäubung\n.\nWaffennachteil:\nEine erfolgreiche PA mit dem Spaten erschwert wegen der Schwerfälligkeit der Waffe bis zum Ende der nächsten KR die AT des Helden um 2."
 }

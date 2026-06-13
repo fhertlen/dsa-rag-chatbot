@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/VieleInstrumente.html",
   "title": "Viele Instrumente",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Magische Sonderfertigkeiten"
+  ],
   "text": "Wirkung:\nDie Zuhörer vernehmen neben dem Zauberinstrument noch weitere Instrumente, die das Lied unterstützen. Dadurch erhält der Zauberbarde bei gelungener Probe auf eine Zaubermelodie +1 FP.\nVoraussetzungen:\nkeine\nVolumen:\n3 Punkte\nAsP-Kosten:\n4 AsP\nMerkmal:\nIllusion\nAP-Wert:\n5 Abenteuerpunkte"
 }

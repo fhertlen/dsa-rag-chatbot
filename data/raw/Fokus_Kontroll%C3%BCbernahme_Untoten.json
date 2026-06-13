@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/Fokus_Kontroll%C3%BCbernahme_Untoten.html",
   "title": "Kontrollübernahme von Untoten",
+  "categories": [
+    "Regeln",
+    "Fokusregeln",
+    "Themenkomplex: Beschwörung"
+  ],
   "text": "Die vorliegende Regel ist eine Fokusregel der Stufe I für den Themenkomplex Beschwörung.\nNekromanten können versuchen, freie Untote zu kontrollieren oder die Kontrolle über die Untoten eines anderen Erschaffers zu übernehmen. Dazu muss ihnen eine Vergleichsprobe auf Willenskraft erschwert um die doppelte Erschaffungsschwierigkeit (aber mindestens erschwert um –3) gegen die Willenskraft des freien Untoten oder des gegnerischen Nekromanten gelingen. Diese Probe wird außerdem durch die Art des Untoten modifiziert. Bei Beseelten scheitert die Probe automatisch. Der Untote darf sich zu Beginn des Kontrollversuchs maximal 8 Schritt entfernt befinden. Das Übernehmen dauert 7–QS KR. Gelingt die Probe, wurde die Loyalität des Untoten erlangt. Die Startloyalität ist folgender Tabelle zu entnehmen. Misslingt die Probe, wendet sich der Untote 24 Stunden lang gegen den Zauberer, der versucht hat, die Kontrolle zu übernehmen. Dies kann je nach Untotem bedeuten, dass dieser den Zauberer angreift oder Zauber und andere Kräfte einsetzt.\nVoraussetzung:\nSonderfertigkeit\nNekromant\nModifikatoren bei der Übernahme der Kontrolle\nUntotenart\nModifikator bei Kontrollprobe\nStartloyalität\nLebender\nLeichnam\n-1\n5+QS/2\nSkelettt\n-2\n7+QS/2\nMumie\n-3\n4+QS/2\nFreier Untoter*\nzusätzlich –1\nwie Untotenart, aber –2\n*) Für freie Untote gelten die Werte der Untotenart, sie werden aber mit den Angaben des freien Untoten modifiziert.\nPublikation(en)\n:\nAventurisches Nekromanthäum, Seite 139"
 }

@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/OR_HelmeRuestungsteile-ohneFokusregel.html",
   "title": "Helme und Rüstungsteile ohne Fokusregeln",
+  "categories": [
+    "Regeln",
+    "Optionale Regeln"
+  ],
   "text": "Optionale Regel\n> Kampf\nWenn du Wert auf Regeln zu Helmen und Rüstungsteilen legst, aber die Regeln für Trefferzonen-Rüstungsschutz nicht verwenden möchtest, kannst du auch folgende Optionalregeln verwenden. Ein Helm verleiht +1 RS, aber auch +1 BE und eine Erschwernis von 1 auf Proben auf Sinnesschärfe. Belastungsgewöhnung kann den BE nicht abbauen.\nPublikation:\nAventurische Rüstkammer 2, Seite 128"
 }

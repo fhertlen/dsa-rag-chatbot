@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/besen-i.html",
   "title": "Besen (i)",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Hiebwaffen",
+    "Improvisierte Hiebwaffen"
+  ],
   "text": "﻿Name\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nBesen (i)\n1W6+2\nKK 15\n-1/-\nmittel\n0,75 Stein\n160 HF\n0,5 S\nprim\nWaffenvorteil:\nDas Manöver\nBetäubungsschlag\nrichtet 1W3+1 statt nur 1W3 TP an.\nWaffennachteil:\nUnterläuft dem Träger der Waffe ein Patzer, zerbricht seine Waffe. Dies geschieht zusätzlich den üblichen Auswirkungen eines Patzers, solange dessen Resultat nicht ebenfalls ein Zerbrechen der Waffe ist.\nPublikation(en):\nAventurische Rüstkammer II, Seite 137\nArchiv der Ausrüstung, Seiten 213, 273"
 }

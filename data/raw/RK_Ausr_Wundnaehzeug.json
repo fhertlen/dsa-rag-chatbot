@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/RK_Ausr_Wundnaehzeug.html",
   "title": "Wundnähzeug",
+  "categories": [
+    "Rüstkammer",
+    "Ausrüstung",
+    "Heilkunde Wunden (Werkzeuge & Utensilien)"
+  ],
   "text": "﻿Gegenstand\nGewicht\nStrukturpunkte\nPreis\nKomplexität\nWundnähzeug\n0,1 Stn\n2 StP\n4,5 S\neinf\nRegeltechnik:\nProben auf Heilkunde Wunden sind um 1 erleichtert, vorausgesetzt, die Verletzung muss genäht werden.\nPublikation:\nAventurische Rüstkammer 2, Seite 36"
 }

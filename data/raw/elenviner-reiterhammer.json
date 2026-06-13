@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/elenviner-reiterhammer.html",
   "title": "Elenviner Reiterhammer",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Hiebwaffen",
+    "Reguläre Hiebwaffen"
+  ],
   "text": "﻿\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nElenviner Reiterhammer\n1W6+4\nKK 14\n0/-1\nmittel\n2 Stein\n120 HF\n100 S\neinf\nWaffenvorteil:\nAlle Rüstungen erhalten gegenüber einem Elenviner Reiterhammer einen Malus von –1 auf RS. Von einem Reittier aus geführt, bekommt der Träger des Elenviner Reiterhammers einen Bonus von +1 TP sowie zusätzlich +1 AT.\nWaffennachteil:\nGegen Fußkämpfer erleidet der Träger eines Elenviner Reiterhammers einen Malus von –1 PA. Im Status\nEingeengt\nsind AT und PA mit dem Elenviner Reiterhammer zusätzlich um jeweils 1 erschwert."
 }

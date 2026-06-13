@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/SF_Vieharzt.html",
   "title": "Vieharzt (Tierart)",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Profane Sonderfertigkeiten",
+    "Allgemeine Sonderfertigkeiten"
+  ],
   "text": "Regel:\nVerfügt der Held über diese Sonderfertigkeit, so erhält er im Talent\nHeilkunde Krankheiten\ndas neue Anwendungsgebiet\nTierkrankheiten behandeln\n. Für jede Tierart (Esel/Pferde/Ponys, Hunde, Katzen, Vögel etc.) existiert eine eigene Sonderfertigkeit.\nVoraussetzungen:\nHeilkunde Krankheiten 8, Tierkunde 8\nAP-Wert:\n2 Abenteuerpunkte\nPublikation:\nAventurische Tiergefährten, Seite 128"
 }

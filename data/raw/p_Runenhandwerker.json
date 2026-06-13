@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/p_Runenhandwerker.html",
   "title": "Runenhandwerker / Bannglyphenhandwerker",
+  "categories": [
+    "Regeln",
+    "Fokusregeln",
+    "Prägungen",
+    "Bannzeichner- und Runenschöpferprägungen"
+  ],
   "text": "Meisterarbeit\n: Setzt ein Runenhandwerker eine Zauberrune\nlangsam\nein, erhält er +1 FP bei der Handwerksprobe (bis zu einem Maximum von 18 FP).\nTräge\n: Setzt ein Runenhandwerker eine Zauberrune\nschnell\nein, erhöht sich die Zauberdauer um 1 Aktion.\nVoraussetzungen\n: Tradition Bannzeichner oder Runenschöpfer\nPublikation(en):\nGlaube, Macht & Heldenmut - Die Gestade des Gottwals, Seite 32\nKodex der Magie, Seite 253"
 }

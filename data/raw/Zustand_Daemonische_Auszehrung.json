@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/Zustand_Daemonische_Auszehrung.html",
   "title": "Dämonische Auszehrung",
+  "categories": [
+    "Regeln",
+    "Grundregeln",
+    "Zustand"
+  ],
   "text": "Durch manche Paktgeschenke kann der Paktierer Zustandsstufen in Dämonischer Auszehrung erleiden. Ein Paktierer, der seine Paktgeschenke einsetzt, kann dabei innerhalb von 24 Stunden so viele dadurch erlittene Stufen des Zustands ignorieren, wie sein KdV-Wert beträgt. Regeltechnisch erleidet er diese Stufen nicht, erst alle weiteren, die über den KdV-Wert hinausgehen, werden als Stufen der Dämonischen Auszehrung gezählt. Ein Paktierer im 3. Kreis der Verdammnis könnte also beispielsweise 3 Stufen des Zustands durch Einsatz von Paktgeschenks-Fähigkeiten am Tag ignorieren, jede weitere Stufe würde aber auf den Zustand aufgerechnet. Dämonische Auszehrung baut sich alle 6 Stunden um eine Stufe ab.\nAuszerhrungsstufe\nAuswirkung\nStufe I\nIn der nächsten Regenerationsphase regeneriert der Paktierer 1 LeP (und falls vorhanden 1 AsP) weniger;\nalle Proben sind um -1 erschwert;\neine Paktprobe mit dem gewählten Erzdämon ist hingegen um +1 erleichtert.\nStufe II\nIn der nächsten Regenerationsphase regeneriert der Paktierer nur die Hälfte an LeP (und falls vorhanden auch nur die Hälfte an AsP);\nalle Proben sind um -2 erschwert;\neine Paktprobe mit dem gewählten Erzdämon ist hingegen um +2 erleichtert.\nStufe III\nIn der nächsten Regenerationsphase regeneriert der Paktierer keine LeP (und falls vorhanden auch keine AsP);\nalle Proben sind um -3 erschwert;\neine Paktprobe mit dem gewählten Erzdämon ist hingegen um +3 erleichtert.\nStufe IV\nHandlungsunfähig,\nin der nächsten Regenerationsphase regeneriert der Paktierer keine LeP (und falls vorhanden auch keine AsP);\neine Paktprobe mit dem gewählten Erzdämon ist hingegen immer noch möglich und um +4 erleichtert.\nPublikation(en):\nAventurische Magie III, Seite 75\nDas Dornenreich, Seite 181 [reduzierte Variante]\nKodex der Magie, Seite 219"
 }

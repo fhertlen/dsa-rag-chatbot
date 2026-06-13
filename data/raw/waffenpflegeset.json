@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/waffenpflegeset.html",
   "title": "Waffenpflegeset",
+  "categories": [
+    "Rüstkammer",
+    "Waffenausrüstung"
+  ],
   "text": "Regel:\nDas Waffenpflegeset hat nur einen regeltechnischen Effekt, wenn du mit Waffenbruchfaktor spielst. Mit einem Waffenpflegeset kann ein Held die erste Stufe Beschädigung einer Waffe aufheben. Er muss dazu nicht die Fähigkeit besitzen, die Waffe herstellen zu können, aber er muss eine Probe auf das Herstellungstalent, beispielsweise\nMetall-\noder\nHolzbearbeitung\n, ablegen. Gelingt die Probe, so wird die Beschädigungsstufe aufgehoben. Sollte die Waffe mehr als nur 1 Stufe Beschädigung aufweisen, kann der Held nicht von der Wirkung des Waffenpflegesets profitieren.\nKosten:\n1 Silbertaler\nWaffen:\nalle Waffen mit Metallklingen oder -spitzen\nPublikation(en):\nAventurische Rüstkammer, Seite 120"
 }

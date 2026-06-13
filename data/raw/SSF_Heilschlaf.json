@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/SSF_Heilschlaf.html",
   "title": "Heilschlaf",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Magische Sonderfertigkeiten"
+  ],
   "text": "Wirkung:\nDer Zauberer kann ein Wesen berühren, sodass es bei seiner nächsten Regenerationsphase 1 zusätzlichen LeP, AsP und KaP durch erholsamen Schlaf heilt.\nVoraussetzungen:\nHeilkunde Wunden 10\nVolumen:\n4 Punkte\nAsP-Kosten:\n3 AsP pro Wesen\nMerkmal:\nHeilung\nAP-Wert:\n8 Abenteuerpunkte"
 }

@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/lederschild.html",
   "title": "Lederschild",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Schilde",
+    "Reguläre Schilde"
+  ],
   "text": "﻿\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nLederschild\n1W6\nKK 16\n-4/+1\nkurz\n2 Stein\n-\n30 S\nprim\nAnmerkung:\nkleiner Schild, 15 Strukturpunkte\nWaffenvorteil:\nBei Einsatz des Manövers\nVerteidigungshaltung\nsteigt die PA um 1 weiteren Punkt.\nWaffennachteil:\nDas Manöver\nSchildstoß\nrichtet mit einem Lederschild nur 1 TP an."
 }

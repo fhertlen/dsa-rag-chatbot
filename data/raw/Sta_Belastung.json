@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/Sta_Belastung.html",
   "title": "Belastung",
+  "categories": [
+    "Regeln",
+    "Grundregeln",
+    "Zustand"
+  ],
   "text": "Schweres Gepäck und Rüstungen können den Träger sehr belasten und seine Bewegungsfreiheit einschränken. So lange diese Lasten getragen werden, erleidet die Person entsprechende Stufen an Belastung.\nWerden die Lasten abgelegt, verschwinden auch die Belastungsstufen.\nDas Gewicht von Rüstungen wird bei der Berechnung von Belastung durch Traglast ignoriert.\nStufe\nAuswirkung\nStufe I\nleicht belastet, Proben auf Talente, die durch Belastung erschwert sind –1, AT –1, Verteidigung –1, INI –1, GS –1\nStufe II\nbelastet, Proben auf Talente, die durch Belastung erschwert sind –2, AT –2, Verteidigung –2, INI –2, GS –2\nStufe III\nschwer belastet, Proben auf Talente, die durch Belastung erschwert sind –3, AT –3, Verteidigung –3, INI –3, GS –3\nStufe IV\nHandlungsunfähig\n, bis auf Last fallen lassen\nPublikation(en):\nRegelwerk (3. Auflage), Seite 32"
 }

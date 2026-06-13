@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/RK_Ausr_Fackel.html",
   "title": "Fackel",
+  "categories": [
+    "Rüstkammer",
+    "Ausrüstung",
+    "Lichtquellen (profan, magisch, karmal)"
+  ],
   "text": "﻿Gegenstand\nGewicht\nStrukturpunkte\nPreis\nKomplexität\nFackel\n0,5 Stn\n20 StruPu\n0,5 S\nprim\nRegeltechnik:\nDie Brenndauer der Fackel beträgt 1,5 Stunden. Sichtmodifikatoren durch Dunkelheit werden im Fackelschein pro 2 Schritt Radius wie folgt reduziert: –4/–3/–2/–1 Stufe(n).\nEine Fackel lässt sich als improvisierte Waffe verwenden.\nPublikation:\nAventurische Rüstkammer, Seite 21"
 }

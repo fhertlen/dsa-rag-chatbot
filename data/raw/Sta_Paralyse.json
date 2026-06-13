@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/Sta_Paralyse.html",
   "title": "Paralyse",
+  "categories": [
+    "Regeln",
+    "Grundregeln",
+    "Zustand"
+  ],
   "text": "Wer durch einen Ghul angefallen wird oder mit dem Zauber PARALYSIS verzaubert wird, dem droht sein Körper nicht mehr zu gehorchen. Gliedmaßen und Zunge versteifen sich im schlimmsten Falle bis zur totalen Bewegungslosigkeit. Das Opfer ist zwar noch bei Bewusstsein, kann jedoch nicht mehr handeln.\nParalyse baut sich, sofern nichts anderes angegeben ist, jede halbe Stunde um 1 Stufe ab.\nStufe\nAuswirkung\nStufe I\nleicht versteift, alle Proben, die Bewegung oder Sprache erfordern, –1, GS nur noch 75 %\nStufe II\nversteift, alle Proben, die Bewegung oder Sprache erfordern, –2, GS nur noch 50 %\nStufe III\nkaum mehr bewegungsfähig, alle Proben, die Bewegung oder Sprache erfordern, –3, GS nur noch 25 %\nStufe IV\nBewegungsunfähig\nPublikation(en):\nRegelwerk (3. Auflage), Seite 33"
 }

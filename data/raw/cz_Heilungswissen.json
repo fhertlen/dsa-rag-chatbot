@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/cz_Heilungswissen.html",
   "title": "Heilungswissen",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Magische Sonderfertigkeiten"
+  ],
   "text": "Wirkung:\nDie Zibilja kann einem Lebewesen 1W6 LeP wiedergeben, solange das Lebewesen mindestens 1 LeP besitzt. Die LeP bekommt es auf der Stelle zurück.\nVoraussetzungen:\nkeine\nVolumen:\n4 Punkte\nAsP-Kosten:\n4 AsP\nMerkmal:\nHeilung\nAP-Wert:\n10 Abenteuerpunkte\nPublikation:\nAventurische Magie 3, Seite 49"
 }

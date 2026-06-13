@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/Skorpionsstachel.html",
   "title": "Skorpionsstachel",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Kettenwaffen",
+    "Reguläre Kettenwaffen"
+  ],
   "text": "Name\nTP\nL+S\nAT-Mod\nPA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nSkorpionsstachel\n1W6+5\nKK 15\n-1\n-3\nmittel\n3 Stein\n110 HF\n60 S\neinf\nAnmerkung:\nMit dem Skorpionstachel kann man versuchen zu parieren, auch wenn es sich um eine Kettenwaffe handelt.\nWaffenvorteil:\nDas Manöver\nWuchtschlag\nist um einen Punkt weniger erschwert.\nWaffennachteil:\nNach einem bestätigten Patzer bei einer Attacke erhält der Träger zusätzlich 1 Stufe Betäubung. Außerdem erleidet der Held +2 SP durch den Patzer.\nPublikation(en):\nHelden der Echsensümpfe, Seite 80"
 }

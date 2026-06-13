@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/SF_Anatomie_Spezies.html",
   "title": "Anatomie (Spezies)",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Profane Sonderfertigkeiten",
+    "Allgemeine Sonderfertigkeiten"
+  ],
   "text": "Regel:\nEin Held mit den Kenntnissen des Körperaufbaus einer Spezies ist in der Lage, chirurgische Eingriffe mit höheren Erfolgswahrscheinlichkeit im Körperinneren vorzunehmen (siehe Seite 10). Seine Proben auf Heilkunde Wunden (Amputieren, Chirurgie oder Knochenbrüche) sind um 5 erleichtert. Für jede Spezies muss eine eigene Anatomie-Sonderfertigkeit erworben werden.\nVoraussetzungen:\nHeilkunde Wunden 10, kein Nachteil Angst vor Blut\nAP-Wert:\n10 Abenteuerpunkte\nPublikationen:\nAventurisches Kompendium 2, Seite 70"
 }

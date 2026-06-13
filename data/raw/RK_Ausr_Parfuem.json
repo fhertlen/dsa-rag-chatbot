@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/RK_Ausr_Parfuem.html",
   "title": "Parfüm",
+  "categories": [
+    "Rüstkammer",
+    "Ausrüstung"
+  ],
   "text": "﻿Gegenstand\nGewicht\nStrukturpunkte\nPreis\nKomplexität\nParfüm\n0,1 Stn\n1 StruPu\n120 S\neinf\nRegeltechnik:\nCharisma erhält bei Betören einen Bonus von +1, wenn sich der Held bis zu einer Stunde vorher einparfümiert hat und sein Gegenüber den Parfümgeruch mag (mag es das nicht, kann die Probe auch um 1 erschwert sein).\nPublikation:\nAventurische Rüstkammer, Seite 38"
 }

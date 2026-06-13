@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/HK_Giftgebraeu.html",
   "title": "Giftgebräu",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Magische Sonderfertigkeiten"
+  ],
   "text": "Wirkung:\nDie Hexen kann in ihrem Kessel ein beliebiges, flüssiges Gift erhitzen, dessen Stufe um 2 steigt (bis zu einem Maximum von 6). Kein Gift kann mehrmals dieser Prozedur unterzogen werden. Auch lassen sich keine größeren Mengen des Gifts durch das Kochen gewinnen.\nVoraussetzungen:\nkeine\nVolumen:\n5 Punkte\nGebräu:\nTrank\nAsP-Kosten:\n(alte) Giftstufe des Gifts +5 in AsP\nMerkmal:\nObjekt\nAP-Wert:\n12 Abenteuerpunkte\nPublikation: Aventurische Magie II Seite 27"
 }

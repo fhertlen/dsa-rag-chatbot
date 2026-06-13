@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/KSF_Belastungsgew%C3%B6hnung.html",
   "title": "Belastungsgewöhnung I-II",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Profane Sonderfertigkeiten",
+    "Kampfsonderfertigkeiten"
+  ],
   "text": "(passiv)\nRegel:\nDiese SF sorgt dafür, dass für den Kämpfer die negativen Auswirkungen seiner Rüstung um zwei Schritte pro Stufe der Belastungsgewöhnung in der BE-Spalte und der zusätzlichen Abzüge der Rüstungen nach oben wandern. Eine Plattenrüstung würde also bei Belastungsgewöhnung I nur noch behindern wie eine Kettenrüstung (was BE, GS und INI angeht). Der RS bleibt selbstverständlich erhalten.\nVoraussetzungen:\nStufe I: KO 13; Stufe II, KO 15, Belastungsgewöhnung I\nKampftechniken:\nalle\nAP-Wert:\nStufe I/II: 20/35 Abenteuerpunkte\nArt\nRüstungsschutz\nBelastung (Stufe)\nzusätzliche Abzüge\nGewicht\nPreis\nKomplexität\nNormale Kleidung, Felle oder nackt\n0\n0\nkeine\n1 Stn\nunterschiedlich\nSchwere Kleidung, Winterkleidung\n1\n0\n–1 GS, –1 INI\n2 Stn\nunterschiedlich\nStoffrüstung, Gambeson\n2\n1\nkeine\n3 Stn\n75 S\nprim\nLederrüstung\n3\n1\n–1 GS, –1 INI\n6 Stn\n150 S\neinf\nKettenrüstung\n4\n2\nkeine\n12 Stn\n250 S\neinf\nSchuppenrüstung\n5\n2\n–1 GS, –1 INI\n18 Stn\n400 S\neinf\nPlattenrüstung\n6\n3\nkeine\n25 Stn\n750 S\neinf\nPublikation(en):\nRegelwerk (4. Auflage), Seite 246\nDer Rote Schlächter, Seite 59\nKodex des Schwertes, Seite 292"
 }

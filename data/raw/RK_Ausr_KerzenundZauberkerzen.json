@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/RK_Ausr_KerzenundZauberkerzen.html",
   "title": "Kerzen und Zauberkerzen",
+  "categories": [
+    "Rüstkammer",
+    "Ausrüstung",
+    "Lichtquellen (profan, magisch, karmal)"
+  ],
   "text": "﻿Gegenstand\nGewicht\nStrukturpunkte\nPreis\nKomplexität\nKerze, 10 Stück\n0,5 Stn\n2 StruPu\n6 S\neinf\nStundenkerze, 1 Stück\n0,1 Stn\n2 StruPu\n3 S\neinf\nZauberkerze, 1 Stück\n0,1 Stn\n3 StruPu\n10 S\nkomp (2 AP)\nRegeltechnik:\nKerze – Die Brenndauer einer Kerze beträgt 10 Stunden. Sichtmodifikatoren durch Dunkelheit werden durch Kerzenschein pro 1 Schritt Radius wie folgt reduziert: –4/–3/–2/–1 Stufe(n).\nStundenkerze – wie Kerze, dazu zusätzlich: Der Held kann mit der Stundenkerze die Zeit bis auf 30 Minuten genau bestimmen.\nZauberkerze – wie Kerze, dazu zusätzlich: Die jeweilige Eigenschaft erhält bei der ersten Teilprobe auf das jeweilige Ritual zum Be- oder Entschwören eines Dämons, Elementars oder Geistes einen Bonus von +1, wenn genug Zauberkerzen eingesetzt werden (bei Dämonen/Elementaren/Geistern 7/6/5/ Zauberkerzen).\nPublikation:\nAventurische Rüstkammer, Seite 29"
 }

@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/SF_Eigenschaft.html",
   "title": "Eigenschaft verbessern",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Profane Sonderfertigkeiten",
+    "Schicksalspunkte-Sonderfertigkeit"
+  ],
   "text": "Regel:\nMittels dieser Sonderfertigkeit kann der Held Schicksalspunkte für Ergebnis verbessern (Eigenschaft) einsetzen.\nVoraussetzungen:\nkeine\nAP-Wert:\n5 Abenteuerpunkte\nAnmerkung:\nDer Einsatz ist auch innerhalb einer Teilprobe bei einer Fertigkeitsprobe gestattet, jedoch verbessert sich nur das Ergebnis einer Teilprobe, egal wie oft die Eigenschaft bei der Fertigkeitsprobe vorkommt.\nPublikation(en):\nRegelwerk (4. Auflage), Seite 222"
 }

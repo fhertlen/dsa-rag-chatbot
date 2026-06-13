@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/RK_Ausr_Feldflasche.html",
   "title": "Feldflasche",
+  "categories": [
+    "Rüstkammer",
+    "Ausrüstung"
+  ],
   "text": "﻿Gegenstand\nGewicht\nStrukturpunkte\nPreis\nKomplexität\nFeldflasche\n0,25 Stn\n12 StruPu\n6 S\nprim\nRegeltechnik:\nEine Feldflasche kann 1 Liter Flüssigkeit aufnehmen. Um eine Feldflasche zu entkorken und daraus zu trinken, ist eine 1 Aktion notwendig.\nPublikation:\nAventurische Rüstkammer, Seite 21"
 }

@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/kutscherarmbrust.html",
   "title": "Kutscherarmbrust",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Armbrüste",
+    "Reguläre Armbrüste"
+  ],
   "text": "Name\nTP\nLZ\nRW\nMunition\nGewicht\nLänge\nPreis\nKomplexität\nKutscherarmbrust\n1W6+4\n5 Aktionen\n10/40/70\nBolzen\n2 Stein\n70 HF\n150 S\neinf\nWaffenvorteil:\nGegen Ziele in Reichweite\nnah\noder\nmittel\nrichtet die Kutscherarmbrust +1 TP an.\nWaffennachteil:\nBei Schüssen auf die Distanz\nweit\nsinken die TP um 1 weiteren Punkt (also insgesamt 1W6+2, wenn der TP-Malus für die Reichweite\nweit\nmiteingerechnet wird).\nPublikation(en):\nHelden der Winterwacht, Seite 67"
 }

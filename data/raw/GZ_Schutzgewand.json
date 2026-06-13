@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/GZ_Schutzgewand.html",
   "title": "Schutzgewand I-II",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Magische Sonderfertigkeiten"
+  ],
   "text": "Wirkung:\nDie Zauberkleidung gewährt 5 Minuten lang einen RS in Höhe der Stufe des Gewandzaubers, wie unter dem Zauberspruch ARMATRUTZ angegeben. Eine Kombination mit anderen übernatürlichen RS-Erhöhungen ist nicht möglich.\nVoraussetzungen:\nStufe I: keine; Stufe II: Schutzgewand I\nVolumen:\n4/6 Punkte für Stufe I/II\nAsP-Kosten:\n4 AsP für Stufe I, 8 AsP für Stufe II\nMerkmal:\nObjekt\nAP-Wert:\n12 Abenteuerpunkte pro Stufe"
 }

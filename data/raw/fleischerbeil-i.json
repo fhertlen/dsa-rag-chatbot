@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/fleischerbeil-i.html",
   "title": "Fleischerbeil (i)",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Hiebwaffen",
+    "Improvisierte Hiebwaffen"
+  ],
   "text": "﻿\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nFleischerbeil (i)\n1W6+3\nKK 14\n-1/-3\nmittel\n1 Stein\n35 HF\n25 S\nprim\nWaffenvorteil:\nGegen ungerüstete Gegner und gegen Lederrüstungen richtet ein Fleischerbeil +1 TP an.\nWaffennachteil:\nGegen Rüstungen mit RS 3 oder höher richtet ein Fleischerbeil –2 TP an."
 }

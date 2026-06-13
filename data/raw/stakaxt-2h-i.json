@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/stakaxt-2h-i.html",
   "title": "Stakaxt (2H, i)",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Zweihandhiebwaffen",
+    "Improvisierte Zweihandhiebwaffen"
+  ],
   "text": "﻿\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nStakaxt (2H, i)\n1W6+4\nKK 13\n0/-2\nmittel\n3 Stein\n100 HF\n40 S\nprim\nWaffenvorteil:\nDer Schaden gegen hölzerne und steinerne Gegenstände steigt um + 4 TP.\nWaffennachteil:\nEine erfolgreiche PA mit der Stakaxt erschwert wegen der Schwerfälligkeit der Waffe bis zum Ende der nächsten KR die AT des Helden um 2."
 }

@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/wattierter-waffenrock.html",
   "title": "Wattierter Waffenrock",
+  "categories": [
+    "Rüstkammer",
+    "Rüstung",
+    "Stoffrüstung"
+  ],
   "text": "﻿\nRüstungsschutz\nBelastungsstufe\nzusätzliche Abzüge\nGewicht\nPreis\nKomplexität\nWattierter\nWaffenrock\n2\n1\n-\n3 Stein\n90 S\neinf\nAnmerkung:\nDer Wattierte Waffenrock ist eine Variante der Stoffrüstung. Er bietet eine Kälteschutzstufe.\nRüstungsvorteil:\nGegen Waffen der Kampftechniken\nHiebwaffen\nund\nZweihandhiebwaffen\nschützt der Wattierte Waffenrock mit RS 3.\nRüstungsnachteil:\nErleidet der Held den Status\nBrennend\n, bekommt er pro KR 1W3 SP zusätzlich Schaden."
 }

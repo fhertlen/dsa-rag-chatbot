@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/SF_Fallentarnung.html",
   "title": "Fallentarnung",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Profane Sonderfertigkeiten",
+    "Allgemeine Sonderfertigkeiten"
+  ],
   "text": "Regel:\nDiese Sonderfertigkeit eröffnet eine neue Einsatzmöglichkeit für das Talent Mechanik. Mit einer Probe auf Mechanik kann beim Bau einer Falle der Tarnwert um QS/2 erhöht werden. Bei einer schon gebauten Falle ist die Probe um 2 erschwert. Ein kundiger Fallenbauer benötigt für den Einsatz dieser Sonderfertigkeit eine Anzahl Stunden, die dem ursprünglichen Tarnwert der Falle entspricht.\nVoraussetzungen:\nSchlösserknacken 8, Sonderfertigkeit Fallen entschärfen\nAP-Wert\n: 5 Abenteuerpunkte\nPublikation: Katakomben & Ruinen Seite 18"
 }

@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/MSF_Bannschwert_Verschwinde.html",
   "title": "Verschwinde!",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Magische Sonderfertigkeiten"
+  ],
   "text": "Wirkung:\nBeschwörbare Wesenheiten (Dämonen, Elementare, Feen und Geister) in einem Radius von 16 Schritt erhalten 1 Stufe\nFurcht\n. Dies gilt auch dann, wenn sie eigentlich keine Zustandsstufen\nFurcht\nerhalten können. Diese Fähigkeit kann nicht gegen ein Wesen eingesetzt werden, dass durch diese Bannschwertmagie bereits\nFurcht\nerlitten hat.\nDer Bannschwertzauber wirkt jedoch nur gegen Wesen der Wesensstufe I.\nVoraussetzungen:\nBannschwert des Magus\nVolumen:\n5 Punkte\nAsP-Kosten:\n4 AsP\nMerkmal:\nAntimagie\nAP-Wert:\n20 Abenteuerpunkte\nPublikation(en):\nAventurische Magie, Seite 30"
 }

@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/ZG_KontrolleStrudel.html",
   "title": "Kontrolle des Strudels",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Karmale Sonderfertigkeiten"
+  ],
   "text": "Wirkung:\nDer Efferdgeweihte kann durch Berührung der Oberfläche eines größeren Gewässers (Meer, See, Fluss) einen kleinen Strudel erzeugen. Der Strudel darf sich maximal 12 Schritt von dem Punkt weg befinden, an dem der Efferdbart das Wasser berührte. Der Strudel sorgt dafür, dass alle Wesen in 2 Schritt Radius um den Strudel den Status\nFixiert\nerhalten. Der Strudel verbleibt 5 KR. Ein betroffenes Wesen kann zunächst versuchen, mittels Ausweichen dem Sog zu entgehen. Ist das Wesen im Sog gefangen, kann es sich mit einer Probe auf\nSchwimmen (Kampfmanöver)\nbefreien, was 1 Aktion verbraucht. Der Einsatz dieser Fähigkeit kostet 1 Aktion und verursacht 1 Stufe\nTrance\n.\nVoraussetzungen:\nSonderfertigkeit Kontrolle des Wassers, keine Sonderfertigkeit Kontrolle der Welle\nAspekt:\nWogen\nAP-Wert:\n10 Abenteuerpunkte\nPublikation:\nAventurisches Götterwirken, Seite 20"
 }

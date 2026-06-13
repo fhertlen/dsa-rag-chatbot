@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/flasche-i.html",
   "title": "Flasche (i)",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Hiebwaffen",
+    "Improvisierte Hiebwaffen"
+  ],
   "text": "﻿\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nFlasche (i)\n1W6+1\nKK 16\n-1/-2\nkurz\n-\n-\n0,5 S\nprim\nAnmerkung:\nNach einem Angriff ist die Flasche gesplittert, was zu +1 TP und –1 PA führt.\nWaffenvorteil:\nkeine\nWaffennachteil:\nkeine"
 }

@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/SAZ_DunkleSchale.html",
   "title": "Dunkle Schale",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Magische Sonderfertigkeiten"
+  ],
   "text": "Wirkung:\nDas Innere der Schale ist absolut dunkel, kein Licht dringt dort hinein. Es stellt einen Sichtmodifikator der Stufe 4 dar.\nVoraussetzungen:\nkeine\nVolumen:\n3 Punkte\nAsP-Kosten:\n1 AsP pro 5 Minuten\nMerkmal:\nObjekt\nAP-Wert:\n5 Abenteuerpunkte\nPublikation: Aventurische Magie II Seite 42"
 }

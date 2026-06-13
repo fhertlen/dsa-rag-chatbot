@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/linkhand.html",
   "title": "Linkhand",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Dolche",
+    "Reguläre Dolche"
+  ],
   "text": "﻿Name\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nLinkhand\n1W6+1\nGE 14\n0/0\nkurz\n0,75 Stein\n30 HF\n90 S\neinf\nAnmerkung:\nParierwaffe (PA-Bonus +1 für die Hauptwaffe)\nWaffenvorteil:\nDas Manöver\nTodesstoß\nkann mit dem Linkhand-Dolch ohne Erschwernis ausgeführt werden (statt mit einer Erschwernis von -2).\nWaffennachteil:\nGegen Rüstungen mit RS 6 und höher richtet der Linkhand-Dolch -1 TP an.\nPublikation(en):\nAventurische Rüstkammer, Seite 76\nKodex des Schwertes, Seite 376\nArchiv der Ausrüstung, Seite 113"
 }

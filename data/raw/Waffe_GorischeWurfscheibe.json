@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/Waffe_GorischeWurfscheibe.html",
   "title": "Gorische Wurfscheibe",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Wurfwaffen",
+    "Reguläre Wurfwaffen"
+  ],
   "text": "Gorische Wurfscheibe (Altabir)\n﻿\nTP\nLZ\nRW\nMunition\nGewicht\nLänge\nPreis\nKomplexität\nGorische Wurfscheibe (Altabir)\n1W3\n1 Aktion\n5/20/35\n-\n0,15 Stn\n10 HF\n20 S\neinf\nWaffenvorteil:\nSetzt der Held die Sonderfertigkeit\nPräziser Schuss/Wurf\nein, verursacht die Gorische Wurfscheibe 1W6 (statt 1W3) TP.\nWaffennachteil:\nDie Gorische Wurfscheibe erhält keinen Bonus von +1 TP bei Angriffen in der Reichweite kurz.\nPublikation(en):\nDas Dornenreich, Seite 147\nRüstkammer des Dornenreiches, Seite 9"
 }

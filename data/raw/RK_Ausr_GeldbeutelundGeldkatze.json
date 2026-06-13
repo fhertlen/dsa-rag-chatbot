@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/RK_Ausr_GeldbeutelundGeldkatze.html",
   "title": "Geldbeutel & Geldkatze",
+  "categories": [
+    "Rüstkammer",
+    "Ausrüstung"
+  ],
   "text": "﻿Gegenstand\nGewicht\nStrukturpunkte\nPreis\nKomplexität\nGeldbeutel\n0,05 Stn\n2 StruPu\n1 S\nprim\nGeldkatze\n0,1 Stn\n3 StruPu\n2 S\nprim\nRegeltechnik:\nGeldbeutel – Fingerfertigkeit erhält bei\nTaschendiebstahl (Person bestehlen)\neinen Malus von 1, wenn das Opfer des Diebstahls einen Geldbeutel verwendet, um sein Geld zu sichern.\nGeldkatze – Fingerfertigkeit und Gewandtheit erhalten bei\nTaschendiebstahl (Person bestehlen)\neinen Malus von 1, wenn das Opfer des Diebstahls eine Geldkatze verwendet, um sein Geld zu sichern.\nEin/e Geldbeutel/Geldkatze verfügt über ein Volumen für 50/20 Münzen.\nPublikation:\nAventurische Rüstkammer, Seite 24"
 }

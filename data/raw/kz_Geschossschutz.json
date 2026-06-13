@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/kz_Geschossschutz.html",
   "title": "Geschossschutz",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Magische Sonderfertigkeiten"
+  ],
   "text": "Wirkung:\nEin Energiefeld mit einem Radius von 4 Schritt erschwert jeglichen Fernkampfangriff auf den Magier und andere Ziele innerhalb der Zone um 4.\nVoraussetzungen:\nkeine\nVolumen:\n3 Punkte\nAsP-Kosten:\n1 AsP pro KR\nMerkmal:\nTelekinese\nAP-Wert:\n15 Abenteuerpunkte\nPublikation:\nAventurische Magie 3, Seite 42"
 }

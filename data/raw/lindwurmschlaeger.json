@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/lindwurmschlaeger.html",
   "title": "Lindwurmschläger",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Hiebwaffen",
+    "Reguläre Hiebwaffen"
+  ],
   "text": "﻿\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nLindwurmschläger\n1W6+4\nKK 14\n0/-1\nkurz\n1 Stein\n50 HF\n90 S\nkomp (3 AP)\nAnmerkung:\nUm den Lindwurmschläger bei der Heldenerschaffung zu erwerben, muss der Held einer zwergischen Kultur angehören.\nWaffenvorteil:\nDas Manöver\nSchildspalter\nrichtet +4 TP an.\nWaffennachteil:\nWird ein Lindwurmschläger von Nichtzwergen geführt, erhält er einen Malus von –1 auf AT, PA und TP. Attacken gegen Wesen der Größenkategorie groß oder riesig sind um 1 erschwert."
 }

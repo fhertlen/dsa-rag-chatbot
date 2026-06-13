@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/SSF_HammerdesMagus.html",
   "title": "Hammer des Magus",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Magische Sonderfertigkeiten"
+  ],
   "text": "Wirkung:\nGegenstände bis zu 50 Strukturpunkten werden bei einer Berührung durch den Stab zerstört.\nVoraussetzungen:\nHammer des Adepten\nVolumen:\n4 Punkte\nAsP-Kosten:\n2 AsP pro Treffer\nMerkmal:\nTelekinese\nAP-Wert:\n10 Abenteuerpunkte\nPublikation: Aventurische Magie Seite 22"
 }

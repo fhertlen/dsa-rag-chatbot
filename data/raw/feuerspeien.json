@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/feuerspeien.html",
   "title": "Feuerspeien",
+  "categories": [
+    "Rüstkammer",
+    "Waffen"
+  ],
   "text": "Name\nTP\nLZ\nRW\nMunition\nGewicht\nPreis\nFeuerspeien\n1W6\n1 Aktion\n3/4/5\n-\n-\n-\n-\nAnmerkung:\nDie TP werden durch den RS des Ziels vermindert. Entflammbare Ziele werden bei 1-2 auf 1W6 angezündet und erleiden somit den Status\nBrennend\n.\nPublikation(en):\nKodex des Schwertes, Seite 382"
 }

@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/KSF_Blutgraetsche.html",
   "title": "Blutgrätsche",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Profane Sonderfertigkeiten",
+    "Kampfsonderfertigkeiten"
+  ],
   "text": "(Spezialmanöver)\nRegel:\nWer eine Blutgrätsche ausführen will, benötigt dafür 2 Schritt Anlauf. Der Held führt eine Raufen-AT aus, die um -2 erschwert ist. Einer erfolgreichen Attacke kann nur ausgewichen werden. Misslingt die Verteidigung, erleidet der Gegner zusätzlich zum üblichen Schaden +1 TP und den Status\nLiegend\n. Er muss außerdem eine Probe auf\nSelbstbeherrschung\nerschwert um -2 ablegen, bei deren Misslingen er zusätzlich noch eine Stufe\nBetäubung\nerhält. Der Held selbst hat bis zum Ende der nächsten KR eine Erschwernis von -2 auf VW und erleidet automatisch den Status\nLiegend\n.\nErschwernis:\n-2\nVoraussetzungen:\nGE 13, Körperbeherrschung 8, Grätsche\nKampftechniken:\nRaufen\nAP-Wert:\n10 Abenteuerpunkte\nPublikation(en):\nAventurisches Kompendium 2, Seite 126\nKodex des Schwertes, Seite 293"
 }

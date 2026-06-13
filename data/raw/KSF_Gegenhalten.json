@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/KSF_Gegenhalten.html",
   "title": "Gegenhalten",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Profane Sonderfertigkeiten",
+    "Kampfsonderfertigkeiten"
+  ],
   "text": "(Spezialmanöver)\nRegel:\nDie Heldin kann sich bei einem Angriff des Gegners nach dessen gelungener AT entscheiden, statt auf PA zu würfeln, ein Gegenhalten-Manöver zu starten (beim Ausweichen ist dieses Manöver nicht einsetzbar). Dazu muss eine Probe auf AT gewürfelt werden. Gelingt die AT, so hat die Heldin den Angriff abgewehrt. Misslingt die Probe, so konnte nicht pariert werden und der Gegner verursacht zusätzlich zu seinem üblichen Schaden +2 TP. Nach jedem Gegenhalten-Manöver erhält die Heldin 1 Stufe\nBetäubung\n. Gegenhalten zählt in diesem Sinne als eine Verteidigung und erschwert nachfolgende Verteidigungen. Weitere Verteidigungen in der selben KR sind wie üblich erschwert, gleich ob dazu wieder Paraden, Ausweichen oder erneut Gegenhalten verwendet wird.\nVoraussetzungen:\nMU 15, Sonderfertigkeit\nWuchtschlag II\nKampftechniken:\nalle Nahkampfkampftechniken, die über einen PA-Wert verfügen\nAP-Wert:\n20 Abenteuerpunkte\nPublikation(en):\nAventurisches Kompendium 2, Seite 127\nKodex des Schwertes, Seite 296"
 }

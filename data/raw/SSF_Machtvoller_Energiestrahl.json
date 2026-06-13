@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/SSF_Machtvoller_Energiestrahl.html",
   "title": "Machtvoller Energiestrahl",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Magische Sonderfertigkeiten"
+  ],
   "text": "Wirkung:\nAus dem Stab schießt ein Strahl aus gebündelter astraler Kraft, der in gerader Linie sein Ziel trifft. Das getroffene Ziel erleidet 1W6+6 Trefferpunkte Schaden. Der Energiestrahl zählt als Fernkampfangriff mit einer Schusswaffe und kann entsprechend geblockt werden, und auch ein Ausweichen ist möglich. Die Verteidigung ist aber zusätzlich um 2 erschwert. An Schilden erzeugt er Strukturschaden, wenn er auf sie trifft. Der Strahl trifft automatisch, wenn man sich nicht verteidigt. Trifft der Energiestrahl sein Ziel, werden die TP durch den RS des Ziels vermindert.\nVoraussetzungen:\nEnergiestrahl\nVolumen:\n5 Punkte\nAsP-Kosten:\n10 AsP\nMerkmal:\nVerwandlung\nAP-Wert:\n20 Abenteuerpunkte\nPublikationen:\nAventurische Magie 3, Seite 38ff."
 }

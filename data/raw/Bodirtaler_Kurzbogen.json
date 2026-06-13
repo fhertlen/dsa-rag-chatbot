@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/Bodirtaler_Kurzbogen.html",
   "title": "Bodirtaler Kurzbogen",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Bögen",
+    "Reguläre Bögen"
+  ],
   "text": "Name\nTP\nLZ\nRW\nMunition\nGewicht\nLänge\nPreis\nKomplexität\nBodirtaler Kurzbogen\n1W6+5\n2 Aktionen\n20/40/60\nPfeile\n0,5 Stein\n125 HF\n80 S\neinf\nWaffenvorteil:\nBei der Berechnung der SP ignoriert der Bodirtaler Kurzbogen 1 Punkt RS.\nWaffennachteil:\nVerzichtet der Held auf die Aktion\nZielen\n, ist die Probe auf FK zusätzlich um -2 erschwert.\nPublikation(en):\nRüstkammer der Gestade des Gottwals, Seite 11"
 }

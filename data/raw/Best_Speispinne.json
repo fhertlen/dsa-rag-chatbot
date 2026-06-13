@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/Best_Speispinne.html",
   "title": "Speispinne",
+  "categories": [
+    "Bestiarium",
+    "Tiere",
+    "Spinnen (Arten)"
+  ],
   "text": "MU\n10\nKL\n8 (t)\nIN\n14\nCH\n11\nFF\n14\nGE\n16\nKO\n10\nKK\n9\nLeP\n10\nAsP\n-\nKaP\n–\nINI\n16+1W6\nVW\n10\nSK\n1\nZK\n0\nGS\n6\nBiss:\nAT 9\nTP 1W6 RW kurz\nSpeiangriff*:\nFK 18 LZ 2\nTP keine RW 5/10/15\nRS/BE:\n0/0\nSonderfertigkeiten:\nkeine\nTalente:\nEinschüchtern 6, Klettern 12, Körperbeherrschung 8, Kraftakt 3, Selbstbeherrschung 12, Sinnesschärfe 13, Verbergen 13, Willenskraft 7\nGrößenkategorie:\nklein\nTypus:\nTier, nicht humanoid\nKampfverhalten:\nFlucht: Verlust von 50 % derLebenspunkte\nSchmerz +1 bei:\n8 LeP /6 LeP /4 LeP / 2 LeP oder weniger\nSonderregeln:\n*)Klebriges Netz:\nWird ein Lebewesen der Größenkategorie groß oder kleiner von dem klebrigen Faden getroffen, verliert es 1W6 von seinem AW (oder VW). Dieser „Schaden“ wird durch weitere erfolgreiche Speiangriffe addiert. Sinkt der AW auf 0, so erhält der Held die Status Bewegungsunfähig und Fixiert (meist auch noch Liegend). In dieser Situation kann er nur noch mittels 2 Aktionen durch jemand anderen mit einem scharfen Gegenstand befreit werden. Vorher kann er durch eine Probe auf Kraftakt (Ziehen & Zerren) QS Punkte seines AW-Wertes pro KR wieder zurückgewinnen. Für die Probe muss der Held 1 Aktion aufwenden.\nPublikation:\nDes Wandelbaren Schicksal, Seite 12"
 }

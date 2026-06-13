@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/lr_Heilkraefte_der_Natur.html",
   "title": "Heilkräfte der Natur",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Magische Sonderfertigkeiten"
+  ],
   "text": "Wirkung:\nDer Geode bedeckt seinen Patienten mit Laub oder Humus. Am Ende der Wirkungsdauer von 30 Minuten heilt der Patient (eingesetzte AsP x 3) verlorene LeP. Wird das Ritual unterbrochen, so verliert der Geode die AsP, es tritt jedoch keine Heilwirkung ein. Der Geode kann maximal 5 AsP für die Fähigkeit einsetzen. Mit diesem Ringzauber kann man keine Patienten heilen, deren LeP bei 0 oder darunter liegen. Der Geode kann den gleichen Patienten nur einmal alle 24 Stunden auf diese Weise heilen.\nVoraussetzungen:\nkeine\nVolumen:\n4 Punkte\nAsP-Kosten:\nvariabel\nMerkmal:\nHeilung\nAP-Wert:\n10 Abenteuerpunkte\nPublikationen:\nAventurische Magie 3, Seite 34"
 }

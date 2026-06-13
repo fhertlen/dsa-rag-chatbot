@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/torfgabel.html",
   "title": "Torfgabel",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Hiebwaffen",
+    "Reguläre Hiebwaffen"
+  ],
   "text": "﻿\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nTorfgabel\n1W6+3\nKK 15\n-1/-3\nmittel\n1 Stein\n80 HF\n25 S\nkomp (1 AP)\nWaffenvorteil:\nKetten- und Plattenrüstungen erleiden durch einen Angriff mit der Torfgabel einen Malus von –2 auf RS.\nWaffennachteil:\nEine erfolgreiche PA mit der Torfgabel erschwert aufgrund der Unausgewogenheit der Waffe bis zum Ende der nächsten KR die AT des Helden um 2."
 }

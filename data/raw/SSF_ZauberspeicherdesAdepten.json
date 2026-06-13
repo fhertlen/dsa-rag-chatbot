@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/SSF_ZauberspeicherdesAdepten.html",
   "title": "Zauberspeicher des Adepten",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Magische Sonderfertigkeiten"
+  ],
   "text": "Wirkung:\nDer Zauberer kann einen Zauberspruch wirken, der maximal 8 AsP kosten darf, und ihn in seinen Stab fließen lassen. Der Zauberer kann den Zauberspruch dann mittels 1 Aktion aus dem Stab heraus wirken, vorausgesetzt, dass ein gültiges Ziel vorhanden ist. Er muss dabei weder Formel noch Geste des Zauberspruchs einsetzen und erleidet für deren Weglassen auch keinerlei Erschwernisse. Wird der gespeicherte Zauber eingesetzt, wird auf die Eigenschaften 14/14/14 gewürfelt. Der FW entspricht dabei den FP des gespeicherten Zaubers. Der Zauberspeicher des Adepten kann keine Rituale speichern, und er kann immer nur einen einzigen Zauberspruch beinhalten.\nVoraussetzungen:\nMerkmalsfokus für den zu speichernden Zauber\nVolumen:\n7 Punkte\nAsP-Kosten:\nkeine (außer die des gespeicherten Zauberspruchs)\nMerkmal:\nObjekt\nAP-Wert:\n20 Abenteuerpunkte\nPublikation: Aventurische Magie Seite 25"
 }

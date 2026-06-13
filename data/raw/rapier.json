@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/rapier.html",
   "title": "Rapier",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Fechtwaffen",
+    "Reguläre Fechtwaffen"
+  ],
   "text": "﻿Name\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nRapier\n1W6+3\nGE 15\n+1/0\nmittel\n1 Stein\n100 HF\n200 S\neinf\nWaffenvorteil:\nkeiner\nWaffennachteil:\nkeiner\nPublikationen:\nRegelwerk (4. überarb. Aufl.), Seite 366\nAventurische Rüstkammer, Seite 83\nKodex des Schwertes, Seite 376\nArchiv der Ausrüstung, Seite 126"
 }

@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/pg_Durchsichtig.html",
   "title": "Durchsichtig",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Magische Sonderfertigkeiten",
+    "Paktgeschenke",
+    "Dämonenpakt"
+  ],
   "text": "Wirkung:\nDer Körper des Paktierers wird im Wasser durchsichtig, sodass er den Status Unsichtbar erhält. Er benötigt dazu 1 freie Aktion und kann den Status jederzeit aufgeben. Verlässt er das Wasser, endet der Status augenblicklich. Die Fähigkeit wirkt maximal KdV in Stunden. Der Paktierer erleidet beim Einsatz dieser Fähigkeit 1 Stufe Dämonische Auszehrung.\nVerbreitung:\nCharyptoroth\nKreis:\n2\nAP-Wert:\n15 Abenteuerpunkte\nPublikationen:\nUnendlichkeit & Tiefenrausch, Seite 29"
 }

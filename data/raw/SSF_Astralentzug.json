@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/SSF_Astralentzug.html",
   "title": "Astralentzug",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Magische Sonderfertigkeiten"
+  ],
   "text": "Wirkung:\nDer Zauberer kann einen anderen Zauberkundigen mit dem Stab berühren und ihm pro 5 KR 1 AsP entziehen, die dieser in die Umgebung verströmt. Hierfür fallen pro entzogenem AsP für den Zaubernden Kosten in Höhe von 3 AsP an. Das Opfer bemerkt den Verlust ab 10 AsP automatisch.\nVoraussetzungen: Astraltransfer\nVolumen:\n4 Punkte\nAsP-Kosten:\n2 AsP + 3 AsP pro entzogenem Punkt\nMerkmal: Heilung\nAP-Wert:\n15 Abenteuerpunkte\nPublikation: Aventurische Magie Seite 21"
 }

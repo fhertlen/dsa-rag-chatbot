@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/sklaventod.html",
   "title": "Sklaventod",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Schwerter",
+    "Reguläre Schwerter"
+  ],
   "text": "﻿\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nSklaventod\n1W6+4\nGE/KK 15\n0/0\nmittel\n1,25 Stein\n90 HF\n210 S\neinf\nWaffenvorteil:\nGegen ungerüstete Humanoide mit RS 0 richtet der Sklaventod +1 TP an.\nW\naffennachteil:\nWurde mit dem Sklaventod erfolgreich pariert, würfle mit 1W6. Bei einer 6 hat sich die Waffe des Gegners kurz verhakt, was zu einer Erschwernis von 1 auf AT für den Helden in der nächsten KR führt. Diese Regel gilt nicht für Angriffe von Unbewaffneten."
 }

@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/ZG_Bollwerk.html",
   "title": "Bollwerk wider Zauberei",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Karmale Sonderfertigkeiten"
+  ],
   "text": "Wirkung:\nAlle Zauber und magischen Handlungen wirken gegen den Praiosgeweihten mit 1 QS weniger (bis zu einem Minimum von 1 QS).\nVoraussetzungen:\nSonderfertigkeit Zepter der Furcht, keine Sonderfertigkeit Schutz wider Schadensmagie\nAspekt:\nAntimagie\nAP-Wert:\n15 Abenteuerpunkte\nPublikation: Aventurisches Götterwirken I Seite 14"
 }

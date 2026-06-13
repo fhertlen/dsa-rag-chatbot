@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/wurfmesser.html",
   "title": "Wurfmesser",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Wurfwaffen",
+    "Reguläre Wurfwaffen"
+  ],
   "text": "﻿\nTP\nLZ\nRW\nMunition\nGewicht\nLänge\nPreis\nKomplexität\nWurfmesser\n1W6+1\n1 Aktion\n2/5/10\n-\n0,5 Stein\n30 HF\n30 S\neinf\nWaffenvorteil:\nDas Manöver Präziser Schuss/Wurf ist um 1 erleichtert.\nWaffennachteil:\nBei Zielen in über 5 Schritt Distanz richtet das Wurfmesser –1 TP an (also insgesamt 1W6-1, wenn der TP-Malus für die Reichweite weit mit eingerechnet wird)."
 }

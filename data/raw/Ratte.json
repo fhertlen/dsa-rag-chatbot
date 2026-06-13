@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/Ratte.html",
   "title": "Ratte",
+  "categories": [
+    "Bestiarium",
+    "Tiere",
+    "Ratten (Arten)"
+  ],
   "text": "Größe:\n0,20 bis 0,40 Schritt lang (ohne Schwanz); 0,50 bis 0,70 lang (mit Schwanz); 0,10 bis 0,15 Schritt hoch\nGewicht:\n0,25 bis 1 Stein\nMU\n10\nKL\n10\n(t)\nIN\n14\nCH\n11\nFF\n11\nGE\n13\nKO\n5\nKK\n9\n(k)\nLeP\n5\nAsP\n-\nKaP\n-\nINI\n12+1W6\nVW\n6\nSK\n1\nZK\n1\nGS\n6\nBiss:\nAT\n8\nTP\n1W2(+Krankheit)*\nRW\nkurz\nRS/BE\n0/0\nAktionen:\n1\nVorteile/Nachteile:\nDunkelsicht II\n/\nAngst vor Feuer II\nSonderfertigkeiten:\nAngriff auf ungeschützte Stellen (Biss)\nTalente:\nEinschüchtern 2, Klettern 10, Körperbeherrschung 4, Kraftakt 2, Selbstbeherrschung 4, Sinnesschärfe 10, Verbergen 7, Willenskraft 2\nGrößenkategorie:\nwinzig\nTypus:\nTier\n, nicht humanoid\nKampfverhalten:\nRatten greifen Menschen eigentlich nur an, wenn sie in die Enge getrieben wurden.\nFlucht\n: Verlust von 50 % der LeP (nicht bei Schwärmen)\nSchmerz +1 bei:\n4 LeP, 3 LeP, 2 LeP, 1 LeP (nicht bei Schwärmen)\nTierkunde (Wildtiere)\nQS 1:\nEs sind Tiere des Namenlosen.\nQS 2:\nSie ziehen sich bei Feuer meistens zurück.\nQS 3+:\nRatten übertragen Krankheiten.\nSonderregeln:\n#\nSchwarm:\nRatten sind Große Schwarmwesen (Grundgröße 5). Siehe Schwarm-Regeln.\n*) Krankheit:\nRatten können Krankheiten übertragen. Für je volle 10 SP wird mit 1W20 gewürfelt: 1–16 (keine Krankheit), 17 (\nLutanas\n), 18 (\nSumpffieber\n), 19–20 (\nTollwut\n). Ein Held kann durch Bisse nicht an mehreren Krankheiten gleichzeitig erkranken. Ist der Held infiziert, muss er eine\nKrankheitsprobe\nablege.\n#\nPanik vor Feuer:\nWenn Ratten mit einer größeren Menge von Feuer konfrontiert werden (etwa Fackelgröße), fliehen sie bei 1-3 auf dem W6.\nPublikation(en):\nAventurisches Götterwirken, Seite 125\nDer Fluch des Schwarzen Keilers, Seite 141\nDivinarium Liturgia, Seite 449\nFlüstern aus dem Abgrund, Seite 25\nMeisterschirm Katakomben & Ruinen, Seite 13\nMysterien des Goldenen Kaiserszeit, Seite 86\nNamenlose Nächte, Seite 136\nSpielsteine der Macht, Seite 42\nVerborgen in der Tiefe, Seite 121\nVerräter und Geächtete, Seite 87"
 }

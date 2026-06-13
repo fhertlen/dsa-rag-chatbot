@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/SSF_Astraltransfer.html",
   "title": "Astraltransfer",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Magische Sonderfertigkeiten"
+  ],
   "text": "Wirkung:\nDer Zauberer kann einen anderen Zauberkundigen mit dem Stab berühren und ihm pro 5 KR 1 AsP übertragen. Die Übertragung erfolgt aus dem eigenen Vorrat des Zauberers im Verhältnis 3 zu 1.\nVoraussetzungen:\nkeine\nVolumen:\n3 Punkte\nAsP-Kosten:\n1 AsP + 3 AsP pro übertragenem Punkt\nMerkmal:\nHeilung\nAP-Wert:\n10 Abenteuerpunkte\nPublikation: Aventurische Magie Seite 20"
 }

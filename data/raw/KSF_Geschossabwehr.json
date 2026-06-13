@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/KSF_Geschossabwehr.html",
   "title": "Geschossabwehr I-III",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Profane Sonderfertigkeiten",
+    "Kampfsonderfertigkeiten"
+  ],
   "text": "(passiv)\nRegel:\nUm sich gegen einen Angriff mit Wurfwaffen zu verteidigen, würfelt der Held statt einer Probe auf Ausweichen eine Raufen-PA. Gelingt sie, hat er die geworfene Waffe erfolgreich abgewehrt (aber nicht gefangen).\nEs gelten folgende Modifikatoren für die Raufen-PA:\n# improvisierte Wurfwaffen: +/-0\n# alle anderen Wurfwaffen: -2\n# Wurfspeere, Wurfdiskus: -4\n# geworfene Nahkampfwaffen (z. B. durch die SF\nWaffenwurf\n: -6\nMunition von Bögen und Armbrüsten lässt sich durch diese SF nicht abwehren.\nJede Stufe nach der ersten erleichtert die Raufen-PA um jeweils +2. Eine misslungene Probe bedeutet, dass die Verteidigung misslungen ist. Der Held muss für den Einsatz des Manövers eine Hand frei haben.\nVoraussetzungen:\nStufe I: FF 13; Stufe II: FF 15, Geschossabwehr I; Stufe III: FF 17, Geschossabwehr II\nKampftechniken:\nRaufen\nAP-Wert:\n5 Abenteuerpunkte pro Stufe\nPublikation(en):\nAventurisches Kompendium 2, Seiten 127 - 128\nKodex des Schwertes, Seite 296"
 }

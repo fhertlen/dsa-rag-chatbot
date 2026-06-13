@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/Waffe_LlankanerEisenf%C3%A4cher.html",
   "title": "Llankaner Eisenfächer",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Fächer"
+  ],
   "text": "Llankaner Eisenfächer (Mur al’Hadid)\nName\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nLlankaner Eisenfächer (Mur al’Hadid)\n1W6+2\nGE/KK 15/14\n-3/0\nkurz\n2 Stein\n40 HF\n280 S\neinf\nAnmerkung:\nKleiner Schild, 35 Strukturpunkte, oder Parierwaffe (PA-Bonus +1 für die Hauptwaffe).\nFächer ein- oder ausklappen dauert jeweils 1 Aktion. Der AT-Abzug gilt nur für den Angriff mit dem ausgeklappten Fächer als Schild, aber nicht, wenn man ihn und eine andere Hauptwaffe führt.\nMit dem ausgeklappten Fächer kann man versuchen, mit der Kampftechnik\nSchilde\nein Geschoss zu parieren, allerdings erleidet man bei der Parade zusätzlich zu den üblichen\nModifikatoren\nnoch eine Erschwernis von -1.\nMit einem offenen Fächer können nur Angriffe der Kampftechniken\nRaufen\n,\nDolche\nund\nFechtwaffen\n, sowie Fernkampftechniken (außer Wurfspeere und -äxte und Diskusse) pariert werden. Nur ein offener Fächer kann als kleiner Schild dienen.\nMit geschlossenem Llankaner Eisenfächer können Waffen aller Kampftechniken außer\nZweihandhiebwaffen\n,\nZweihandschwerter\nund Fernkampftechniken pariert werden. Nur ein geschlossener Fächer kann als Parierwaffe dienen.\nWaffenvorteil:\nBeim Einsatz der Manöver\nAngetäuschter Angriff\nbekommt der Träger des Eisenfächers +2 TP (statt nur +1 TP), sofern die\nFinte\nnicht notwendig gewesen ist, um zu treffen, und +1 TP, wenn die Finte doch notwendig war.\nWaffennachteil:\nBei einem bestätigten Patzer erleidet der Träger des Eisenfächers zusätzlich zu allen anderen Auswirkungen des Patzers 2 SP, sowie 1 Stufe\nBetäubung\nbis zum Ende der nächsten KR.\nPublikation(en):\nDas Dornenreich (2019), Seite 146\nRüstkammer des Dornenreiches, Seite 10\nHelden des Dornreiches, Seite 64"
 }

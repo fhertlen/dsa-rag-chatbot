@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/pg_Herrschaft_ueber_Ungeheuer.html",
   "title": "Herrschaft über Ungeheuer",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Magische Sonderfertigkeiten",
+    "Paktgeschenke",
+    "Dämonenpakt"
+  ],
   "text": "Wirkung:\nDer Paktierer kann ein Wesen innerhalb einer Reichweite von 32 Schritt, das als Ungeheuer gilt (beispielsweise Seeschlangen bei Charyptoroth-Paktierern; welche Ungeheuer passend sind, liegt in der Hand des Meisters), beherrschen und ihm einfache Befehle geben. Dazu muss dem Paktierer eine Probe auf Willenskraft gelingen, erschwert um SK/2 des Ungeheuers. Das Ungeheuer folgt dann QS Stunden den Befehlen des Paktierers. Der Einsatz dieser Fähigkeit erfordert eine freie Aktion. Der Paktierer erleidet beim Einsatz dieser Fähigkeit 1 Stufe Dämonische Auszehrung.\nVerbreitung:\nallgemein\nKreis:\n3\nAP-Wert:\n20 Abenteuerpunkte\nPublikationen:\nHavena Versunkene Geheimnisse, Seite 117ff."
 }

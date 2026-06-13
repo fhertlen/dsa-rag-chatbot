@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/MH_Goblinritual_GoblinGeisterfalle.html",
   "title": "Goblin-Geisterfalle",
+  "categories": [
+    "Magie",
+    "Magische Handlungen",
+    "Goblinrituale"
+  ],
   "text": "Probe\n: MU/IN/CH (modifiziert um Anrufungsschwierigkeit)\nWirkung\n: Die Goblinzauberin kann einen Geist an einen Gegenstand binden und ihn so zwingen, einen Radius von 7–QS Schritt um den Gegenstand nicht zu verlassen.\nDauer\n: 8 Aktionen\nAsP-Kosten\n: 16 AsP\nReichweite\n: 8 Schritt\nWirkungsdauer\n: sofort\nZielkategorie\n: Nicht Lebende (Geister)\nMerkmal\n: Antimagie\nSteigerungsfaktor\n: B\nPublikation(en):\nKodex der Magie, Seite 111"
 }

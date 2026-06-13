@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/iz_scharfes_instrument.html",
   "title": "Scharfes Instrument",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Magische Sonderfertigkeiten"
+  ],
   "text": "Wirkung: Der Sangara kann sein Instrument als Wurfwaffe benutzen. Er kann es mit einer FK-Probe auf Wurfwaffen auf ein Wesen werfen (Ladezeit 1 Aktion, Reichweite 10/20/30, 2W6+2 TP).\nVoraussetzungen:\nkeine\nVolumen:\n4 Punkte\nAsP-Kosten:\n8 AsP\nMerkmal:\nTelekinese\nAP-Wert:\n12 Abenteuerpunkte\nPublikationen:\nSturmgeheul & Runenzauber (Die Gestade des Gottwals), Seite 20"
 }

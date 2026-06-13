@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/schuppenruestung.html",
   "title": "Schuppenrüstung",
+  "categories": [
+    "Rüstkammer",
+    "Rüstung"
+  ],
   "text": "﻿\nRüstungsschutz\nBelastungsstufe\nzusätzliche Abzüge\nGewicht\nPreis\nKomplexität\nSchuppenrüstung\n5\n2\n-1 GS, -1 INI\n18 Stein\n400 S\neinf\nAnmerkung:\nDie Schuppenrüstung ist eine Variante der Kettenrüstung."
 }

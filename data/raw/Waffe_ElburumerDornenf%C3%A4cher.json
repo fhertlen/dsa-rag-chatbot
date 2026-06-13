@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/Waffe_ElburumerDornenf%C3%A4cher.html",
   "title": "Elburumer Dornenfächer",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Fächer"
+  ],
   "text": "Elburumer Dornenfächer (Shuk al’Hadid)\nName\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nElburumer Dornenfächer (Shuk al’Hadid)\n1W6+3\nGE 16\n-3/0\nkurz\n1,5 Stein\n45 HF\n230 S\neinf\nAnmerkung:\nKleiner Schild, 10 Strukturpunkte, oder Parierwaffe (PA-Bonus +1 für die Hauptwaffe).\nFächer ein- oder ausklappen dauert jeweils 1 Aktion. Der AT-Abzug gilt nur für den Angriff mit dem ausgeklappten Fächer als Schild, aber nicht, wenn man ihn und eine andere Hauptwaffe führt.\nMit dem ausgeklappten Fächer kann man versuchen, mit der Kampftechnik Schilde ein Geschoss zu parieren, allerdings erleidet man bei der Parade zusätzlich zu den\nüblichen Modifikatoren\nnoch eine Erschwernis von -1.\nMit einem offenen Fächer können nur Angriffe der Kampftechniken Raufen, Dolche und Fechtwaffen, sowie Fernkampftechniken (außer Wurfspeere und -äxte und Diskusse) pariert werden. Nur ein offener Fächer kann als kleiner Schild dienen.\nMit geschlossenem Fächer können Waffen aller Kampftechniken außer Hiebwaffen, Kettenwaffen, Zweihandhiebwaffen, Zweihandschwerter und Fernkampftechniken pariert werden. Nur ein geschlossener Fächer kann als Parierwaffe dienen.\nWaffenvorteil:\nRichtet die Waffe SP an, muss mit 1W6 gewürfelt werden: bei 1-2 richtet die Waffe +1 SP an. Bei 3-6 passiert nichts weiter.\nWaffennachteil:\nBei einem bestätigten Patzer erleidet der Träger des Dornenfächers 3 SP zusätzlich zu allen anderen Auswirkungen des Patzers.\nPublikation(en):\nDas Dornenreich (2019), Seite 146\nRüstkammer des Dornenreiches, Seite 9\nHelden des Dornreiches, Seite 63"
 }

@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/MH_Goblinritual_GoblinGeistheilung.html",
   "title": "Goblin-Geistheilung",
+  "categories": [
+    "Magie",
+    "Magische Handlungen",
+    "Goblinrituale"
+  ],
   "text": "Probe\n: KL/CH/KO\nWirkung\n: In der nächsten Regenerationsphase, die während der Wirkungsdauer begonnen werden muss, regeneriert das Ziel QS x 2 LeP zusätzlich. Zudem verläuft der Schlaf ruhig und traumlos, solange äußere Einflüsse dem nicht entgegenwirken. Das Ritual kann nicht verhindern, dass Gifte und Krankheiten in der Regenerationsphase wirken.\nDauer\n: 5 Minuten\nAsP-Kosten\n: 4 AsP\nReichweite\n: Berührung\nWirkungsdauer\n: 24 Stunden\nZielkategorie\n: Lebewesen\nMerkmal\n: Heilung\nSteigerungsfaktor\n: B\nPublikation(en):\nKodex der Magie, Seite 111"
 }

@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/Fokus_Regeneration_von_Daemonen.html",
   "title": "Regeneration von Dämonen",
+  "categories": [
+    "Regeln",
+    "Fokusregeln",
+    "Themenkomplex: Beschwörung"
+  ],
   "text": "Die vorliegende Regel ist eine Fokusregel der Stufe I für den Themenkomplex Beschwörung.\nDämonen regenerieren keine LeP und AsP, wenn sie sich in der 3. Sphäre aufhalten. Eine Ausnahme stellen Dämonen mit der Wesensfähigkeit Materialisierung dar. Besitzt der Dämon diese Fähigkeit gilt folgende Regelung: Niedere Dämonen regenerieren pro Regenerationsphase 1W6 LeP/AsP, gehörnte Dämonen 2W6 LeP/AsP.\nPublikation(en):\nAventurisches Pandämonium, Seite 158"
 }

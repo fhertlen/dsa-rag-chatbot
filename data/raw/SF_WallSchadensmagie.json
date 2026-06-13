@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/SF_WallSchadensmagie.html",
   "title": "Wall gegen Schadensmagie",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Karmale Sonderfertigkeiten"
+  ],
   "text": "Wirkung:\nZauber, die TP oder SP verursachen, oder LeP senken, sind gegen die Hesindegeweihte um 1 erschwert.\nVoraussetzungen:\nSonderfertigkeit Tradition (Hesindekirche), keine Sonderfertigkeit Wissenssammlung\nAspekt:\nMagie\nAP-Wert:\n12 Abenteuerpunkte\nPublikation:\nAventurisches Götterwirken Seite 29"
 }

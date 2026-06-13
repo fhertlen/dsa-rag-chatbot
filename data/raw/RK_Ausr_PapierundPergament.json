@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/RK_Ausr_PapierundPergament.html",
   "title": "Papier & Pergament",
+  "categories": [
+    "Rüstkammer",
+    "Ausrüstung"
+  ],
   "text": "﻿Gegenstand\nGewicht\nStrukturpunkte\nPreis\nKomplexität\nPapier, 1 Blatt\n0,05 Stn\n1 StruPu\n0,1 S\neinf\nPapier, gutes, 1 Blatt\n0,05 Stn\n2 StruPu\n0,3 S\neinf\nPergament, 1 Blatt\n0,05 Stn\n2 StruPu\n1 S\neinf\nPergament, gutes, 1 Blatt\n0,05 Stn\n3 StruPu\n3 S\neinf\nRegeltechnik:\nBei einer gelungenen Probe auf\nMalen & Zeichnen (Malen oder Zeichnen)\nsteigen die FP um 1 (bis zu einem Maximum von 18).\nPublikation:\nAventurische Rüstkammer, Seite 38"
 }

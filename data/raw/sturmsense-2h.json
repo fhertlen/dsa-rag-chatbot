@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/sturmsense-2h.html",
   "title": "Sturmsense (2H)",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Stangenwaffen",
+    "Reguläre Stangenwaffen"
+  ],
   "text": "﻿\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nSturmsense (2H)\n1W6+5\nGE/KK 16\n-1/-1\nlang\n1,75 Stein\n200 HF\n60 S\nprim\nWaffenvorteil:\nEin Kämpfer mit einer Sturmsense kann mit mindestens einem weiteren gleichbewaffneten Kämpfer einen Sensenwall bilden. Dieser darf sich maximal einen halben Schritt neben ihm befinden und muss in die gleiche Richtung ausgerichtet sein. Solange die Bedingungen erfüllt sind, kann der Wall aus beliebig vielen Kämpfern bestehen. Alle Kämpfer, die diesen Wall bilden, erhalten einen Bonus von +1 auf PA. Führen die Kämpfer stattdessen gemeinsam das Manöver\nSturmangriff\naus, verfällt der Bonus auf die PA, aber sie richten mit der Sturmsense jeweils zusätzlich +1 TP an (siehe\nRegelwerk\nSeite\n249\n).\nWaffennachteil:\nRichtet die Sturmsense 10 oder mehr TP bei einem einzigen Angriff an, so muss überprüft werden, ob sich die Sichelklinge ablöst. Bei 1 auf 1W6 löst sich die Klinge, und der Held kann nur noch mit dem Holzstab weiterkämpfen (Werte wie Knüppel). Um die Klinge wieder zu befestigen, ist eine Probe auf\nMetallbearbeitung (Grobschmiedearbeiten)\n+3, 5 Minuten, beliebig viele Versuche, notwendig."
 }

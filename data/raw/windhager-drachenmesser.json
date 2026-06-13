@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/windhager-drachenmesser.html",
   "title": "Windhager Drachenmesser",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Dolche",
+    "Reguläre Dolche"
+  ],
   "text": "﻿Name\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nWindhager Drachenmesser\n1W6+2\nGE 14\n0/-1\nkurz\n0,75 Stein\n35 HF\n60 S\nkomp (2 AP)\nWaffenvorteil:\nIm Kampf gegen Drachen erhält der Held einen Bonus von +1 TP. Drachenmesser gelten im Kampf gegen\nDämonen als magische Waffe. Feen erleiden 1 Stufe Furcht, wenn sie sich einem Drachenmesser näher als 7 Schritt nähern.\nWaffennachteil:\nDas Manöver\nPräziser Stich\nist aufgrund der breiten Klinge nur um 2 zusätzlich erschwert auszuführen.\nDas Manöver\nFinte\nist zusätzlich um 1 erschwert.\nPublikation(en):\nRüstkammer der Siebenwindküste, Seite 16"
 }

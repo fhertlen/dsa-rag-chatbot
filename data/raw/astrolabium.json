@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/astrolabium.html",
   "title": "Astrolabium",
+  "categories": [
+    "Regeln",
+    "Fokusregeln",
+    "Mechanische Konstruktionen"
+  ],
   "text": "Regeltechnik:\nProben auf Sternkunde werden durch ein Astrolabium um 1 erleichtert. Voraussetzung für diesen Bonus ist ein FW von 8 in Sternkunde.\nVoraussetzungen:\nSonderfertigkeit Ingenieurin, Sternkunde 8"
 }

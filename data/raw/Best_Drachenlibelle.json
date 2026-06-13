@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/Best_Drachenlibelle.html",
   "title": "Drachenlibelle",
+  "categories": [
+    "Bestiarium",
+    "Tiere"
+  ],
   "text": "Größe:\n0,30 bis 0,40 Schritt Flügelspannweite\nGewicht:\n0,20 bis 0,30 Stein\nMU\n17\nKL\n8 (t)\nIN\n13\nCH\n12\nFF\n12\nGE\n14\nKO\n10\nKK\n8\nLeP\n5\nAsP\n–\nKaP\n–\nINI\n16+1W6\nVW\n7\nSK\n2\nZK\n0\nGS\n5\nBerührung, Bisse und Stiche:\nAT\n7\nTP\n1W3\nRW\nkurz\nRS/BE\n0/0\nAktionen:\n1\nSonderfertigkeiten:\nAngriff auf ungeschützte Stellen, Flugangriff\nTalente:\nEinschüchtern 4 (17/13/12), Fliegen 7 (17/13/14), Körperbeherrschung 3 (14/14/10), Kraftakt 1 (10/10/8), Selbstbeherrschung 11 (17/17/10), Sinnesschärfe 6 (8/13/13), Verbergen 4 (17/13/14), Willenskraft 4 (17/13/12)\nAnzahl:\n1W20\nGrößenkategorie:\nklein\nTypus:\nTier, nicht humanoid\nBeute:\n1 Ration Fleisch (ungenießbar)\nKampfverhalten:\nDrachenlibellen jagen in Schwärmen und greifen dabei auch menschengroße Wesen an. Sie versuchen, ihre Beute durch zahlreiche Berührungen, Bisse und Stiche zu töten.\nFlucht:\nVerlust von 50 % der LeP\nSchmerz +1 bei:\n4 LeP, 3 LeP, 2 LeP, 1 LeP\nJagd:\n–2\nTierkunde (Ungeheuer oder Wildtiere):\n#QS 1: Drachenlibellen greifen in Schwärmen von bis zu 20 Tieren an.\n#QS 2: Die Libellen betrachten menschengroße Wesen als Beute und stürzen sich auf sie.\n#QS 3+: Je wärmer es ist, desto wahrscheinlicher ist ein Angriff auf Menschen.\nPublikation(en):\nDie Streitenden Königreiche, Seite 94"
 }

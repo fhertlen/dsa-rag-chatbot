@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/knueppel.html",
   "title": "Knüppel",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Hiebwaffen",
+    "Reguläre Hiebwaffen"
+  ],
   "text": "﻿\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nKnüppel\n1W6+2\nKK 14\n0/-2\nmittel\n0,5 Stein\n80 HF\ngratis\nprim\nWaffenvorteil:\nDas Manöver\nBetäubungsschlag\n(siehe\nAventurisches Kompendium\nSeite\n152\n) richtet 1W3+1 statt nur 1W3 TP an.\nWaffennachteil:\nUnterläuft dem Träger eines Knüppels ein bestätigter Patzer, zerbricht seine Waffe. Dies geschieht zusätzlich den üblichen Auswirkungen eines Patzers, solange dessen Resultat nicht ebenfalls ein Zerbrechen der Waffe ist."
 }

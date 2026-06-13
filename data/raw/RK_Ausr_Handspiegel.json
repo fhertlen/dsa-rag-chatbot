@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/RK_Ausr_Handspiegel.html",
   "title": "Handspiegel",
+  "categories": [
+    "Rüstkammer",
+    "Ausrüstung"
+  ],
   "text": "﻿Gegenstand\nGewicht\nStrukturpunkte\nPreis\nKomplexität\nHandspiegel\n0,5 Stn\n2 StP\n60 S\neinf\nRegeltechnik:\nCharisma erhält bei der zweiten Teilprobe auf\nBetören (Aufhübschen)\nbei Verwendung eines Handspiegels einen Bonus von +1. Ein Handspiegel lässt sich als improvisierte Waffe verwenden.\nPublikation:\nAventurische Rüstkammer 2, Seite 24"
 }

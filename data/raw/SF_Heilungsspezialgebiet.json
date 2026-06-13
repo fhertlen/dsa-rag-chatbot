@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/SF_Heilungsspezialgebiet.html",
   "title": "Heilungsspezialgebiet (Anwendungsgebiet)",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Profane Sonderfertigkeiten",
+    "Allgemeine Sonderfertigkeiten"
+  ],
   "text": "Regel:\nVerfügt ein Held über diese Sonderfertigkeit, erhält er im Talent Heilkunde Wunden ein neues Anwendungsgebiet. Folgende Anwendungsgebiete können erworben werden:\nAmputieren, Chirurgie, Knochenbrüche, Verbrennungen, Zahnbehandlung\n.\nFür jedes Anwendungsgebiet muss die die Sonderfertigkeit einzeln erworben werden. Ohne das richtige Anwendungsgebiet\nsind alle entsprechenden Proben zur\nBehandlung zusätzlich wie üblich um 3 erschwert (siehe\nRegelwerk Seite 186\n).\nVoraussetzungen:\nAmputieren und Verbrennungen: Heilkunde Wunden 8, Chirurgie: Heilkunde Wunden 12, alle anderen haben keine Voraussetzungen\nAP-Wert:\nAmputieren und Verbrennungen: 8 Abenteuerpunkte, Chirurgie: 12 Abenteuerpunkte,\nKnochenbrüche: 5 Abenteuerpunkte, Zahnbehandlung: 3 Abenteuerpunkte\nPublikation(en):\nAventurisches Kompendium 2 Seite 10"
 }

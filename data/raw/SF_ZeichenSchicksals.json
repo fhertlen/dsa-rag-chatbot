@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/SF_ZeichenSchicksals.html",
   "title": "Zeichen des Schicksals",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Profane Sonderfertigkeiten",
+    "Schicksalspunkte-Sonderfertigkeit"
+  ],
   "text": "Regel:\nDer Geweihte kann auf einen anderen Kulturschaffenden, auf dem der Geburtssegen oder die Initiation des Pantheons des Geweihten liegt, Schicksalspunkte übertragen (im Verhältnis 2 zu 1). Die Übertragung dauert 1 Minute und derjenige, der die Schips erhält, kann durch Zeichen des Schicksals nur einmal alle 24 Stunden Schicksalspunkte bekommen. Damit kann der Geweihte dem Kulturschaffenden auch 1 Punkt mehr verleihen, als dessen Maximum beträgt. Gibt der Kulturschaffende diesen Punkt aus, kann er bei der Regeneration von Schicksalspunkten nicht wieder über sein Maximum hinausgehen.\nVoraussetzungen:\nVorteil Geweihter, mindestens 2 Schicksalspunkte\nAP-Wert:\n10 Abenteuerpunkte\nPublikation: Aventurisches Götterwirken I Seite 90"
 }

@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/repetier-magazin.html",
   "title": "Repetier-Magazin",
+  "categories": [
+    "Rüstkammer",
+    "Waffenausrüstung"
+  ],
   "text": "Regel:\nDie Fernkampfwaffe benötigt nur noch die Hälfte der LZ, solange noch Munition im Repetier-Magazin enthalten ist. Das aufgesetzte Repetier-Magazin kann entweder 3 oder 7 Kugeln aufnehmen. Um das gesamte Magazin zu wechseln, benötigt der Schütze 6 Aktionen, das Nachladen einer einzelnen Kugel dauert so lange, wie die LZ normalerweise bei der Waffe dauert +1 Aktion.\nKosten:\n120 Silbertaler für 3er-Magazin, 350 Silbertaler für 7er-Magazin\nWaffen:\nArmbrüste, die als Munitionsart Kugeln verwenden\nPublikation(en):\nAventurische Rüstkammer II, Seite 121"
 }

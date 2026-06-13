@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/basiliskenzunge.html",
   "title": "Basiliskenzunge",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Dolche",
+    "Reguläre Dolche"
+  ],
   "text": "﻿Name\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nBasiliskenzunge\n1W6+2\nGE 14\n0/-1\nkurz\n0,5 Stein\n30 HF\n50 S\nkomp (2 AP)\nAnmerkung:\ngeweiht (\nHesinde\n); Hesindegeweihte Waffen sind nur von Geweihten der Hesinde oder Ordensmitgliedern der Draconiter erwerbbar.\nWaffenvorteil:\nIn der Hand eines Hesindegeweihten richtet die Basiliskenzunge gegen Kultisten oder Geweihte des Namenlosen +1 TP an.\nWaffennachteil:\nGegen Rüstungen mit RS 2 oder weniger richtet die Basiliskenzunge –1 TP an.\nPublikation(en)\n:\nRegelwerk, Seite  366\nAventurische Rüstkammer, Seite  60\nAventurisches Götterwirken, Seite  233\nNamenlose Nacht, Seite  200\nStraßenstaub & Halsabschneider, Seite  26\nKodex des Schwertes, Seite 375\nKodex des Götterwirkens, Seite 421"
 }

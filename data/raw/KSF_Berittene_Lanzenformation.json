@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/KSF_Berittene_Lanzenformation.html",
   "title": "Berittene Lanzenformation",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Profane Sonderfertigkeiten",
+    "Kampfsonderfertigkeiten"
+  ],
   "text": "(passiv)\nRegel:\nEin Reiter mit dieser Sonderfertigkeit kann zusammen mit bis zu zwei weiteren Reitern, die sich maximal 3 Schritt links und rechts von ihm befinden dürfen, einen konzentrierten Angriff ausführen. Die Lanzen der Kämpfer müssen in die gleiche Richtung ausgerichtet sein und die Reittiere in die gleiche Richtung galoppieren. Für jeden Reiter in dieser Formation bekommt das Ziel des Angriffs eine zusätzliche Erschwernis von -1 auf VW.\nVoraussetzungen:\nLanzenangriff\nKampftechniken:\nLanzen\nAP-Wert:\n12 Abenteuerpunkte\nAnmerkung: Die beiden anderen Reiter müssen nicht über die SF Berittene Lanzenformation verfügen, damit der Held die Vorteile erhält. Er bekommt diesen Vorteil aber nur, solange die anderen Reiter sich innerhalb der Reichweite von 3 Schritt aufhalten und ihre Waffen in die gleiche Richtung halten.\nPublikation(en):\nAventurisches Kompendium 2, Seite 125\nKodex des Schwertes, Seite 292\nErrata:\nIn der Anmerkung wurde\nKriegsreiterei\ndurch\nBerittene Lanzenformation\nersetzt."
 }

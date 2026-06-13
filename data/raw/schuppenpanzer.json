@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/schuppenpanzer.html",
   "title": "Schuppenpanzer",
+  "categories": [
+    "Rüstkammer",
+    "Rüstung",
+    "Schuppenrüstung",
+    "Reguläre Schuppenrüstungen"
+  ],
   "text": "﻿Art\nRüstungsschutz\nBelastungsstufe\nzusätzliche Abzüge\nGewicht\nPreis\nKomplexität\nSchuppenpanzer\n5\n2\n-1 GS, -1 INI\n18 Stein\n400 S\nkomp (3 AP)\nAnmerkung:\nDer Schuppenpanzer ist eine Variante der\nSchuppenrüstung\n.\nRüstungsvorteil:\nGegen Waffen der Kampftechniken\nHiebwaffen\nund\nZweihandhiebwaffen\nschützt der\nSchuppenpanzer\nmit RS 6.\nRüstungsnachteil:\nGegen Waffen der Kampftechniken\nDolche\nschützt der\nSchuppenpanzer\nmit RS 2.\nPublikation(en):\nAventurische Rüstkammer, Seite 110\nArchiv der Ausrüstung, Seiten 185, 305\nSpielsteine der Macht, Seite 46\nStraßenstaub & Halsabschneider, Seite 36"
 }

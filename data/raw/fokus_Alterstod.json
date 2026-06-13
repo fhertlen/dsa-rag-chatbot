@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/fokus_Alterstod.html",
   "title": "Alterstod",
+  "categories": [
+    "Regeln",
+    "Fokusregeln",
+    "Alterungsregeln"
+  ],
   "text": "Die vorliegende Regel ist eine Fokusregel der Stufe II für den Themenkomplex Alter.\nIn jeder Alterungsstufe besteht die Chance, dass ein Held einen Alterstod stirbt. Sobald diese Stufe erreicht ist, würfle für den Helden und stelle fest, ob er in dieser Alterungsstufe irgendwann an Altersschwäche stirbt.\nAlterungsstufe 1:\nkeine Probe notwendig\nAlterungsstufe 2:\n20 auf W20\nAlterungsstufe 3:\n19-20 auf W20\nAlterungsstufe 4:\n16-20 auf W20\nAlterungsstufe 5:\n1-8 auf W20\nAlterungsstufe 6:\n1-16 auf W20\nJede weitere Alterungsstufe:\n1-18 auf W20\nPublikation(en):\nNamenlose Nacht, Seite 79"
 }

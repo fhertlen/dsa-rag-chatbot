@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/SF_Forschungsgebiet.html",
   "title": "Forschungsgebiet",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Karmale Sonderfertigkeiten"
+  ],
   "text": "Wirkung:\nDie Hesindegeweihte kann ein Wissenstalent benennen, das ihren Forschungsschwerpunkt darstellt und dem sie im Buch der Schlange am meisten Platz widmet. Das Wissenstalent lässt sich, nachdem es festgelegt wurde, nicht mehr ändern. Proben auf dieses Talent erhalten bei Gelingen +2 FP (bis zu einem Maximum von 18 FP).\nVoraussetzungen:\nSonderfertigkeit Wissenssammlung, keine Sonderfertigkeit Expertenwissen\nAspekt:\nWissen\nAP-Wert:\nA-/B-/C-Talent: 3/6/9 Abenteuerpunkte\nPublikation: Aventurisches Götterwirken I Seite 29"
 }

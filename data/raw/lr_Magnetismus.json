@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/lr_Magnetismus.html",
   "title": "Magnetismus",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Magische Sonderfertigkeiten"
+  ],
   "text": "Wirkung:\nIn einem Radius von 8 Schritt um den Geoden herum, wird der Boden stark magnetisch aufgeladen. Die Zone verharrt an Ort und Stelle und bewegt sich nicht mit dem Geoden. Die Wirkungsdauer beträgt 10 KR. Metallgegenstände und -waffen sowie Metallrüstungen werden, sofern sie sich in der Zone befinden, unweigerlich nach unten gezogen. Um einen Metallgegenstand oder eine -waffe in den Händen zu behalten, ist eine Probe auf Kraftakt (Ziehen & Zerren) notwendig. Bei Misslingen fällt das Objekt auf den Boden, allerdings kann der Träger es mit 1 freien Aktion loslassen. Bei Gelingen behält man das Objekt in der Hand, bei AT und PA besteht jedoch jeweils eine Erschwernis von 2. Geschosse mit Metallteilen fallen bei Fernkampfangriffen zu Boden, sobald sie in oder durch die Zone fliegen. Metallrüstungen erleiden eine zusätzliche Belastung von 2. Viele Metallobjekte in einem Rucksack können nach Meisterentscheid auch eine Belastung von zusätzlich 1 verursachen.\nVoraussetzungen:\nkeine\nVolumen:\n7 Punkte\nAsP-Kosten:\n16 AsP\nMerkmal:\nElementar\nAP-Wert:\n15 Abenteuerpunkte\nPublikationen:\nAventurische Magie 3, Seite 35ff."
 }

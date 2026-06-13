@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/Best_Wildkatze.html",
   "title": "Wildkatze",
+  "categories": [
+    "Bestiarium",
+    "Tiere",
+    "Katzen (Arten)"
+  ],
   "text": "Größe:\n0,70 bis 0,80 Schritt (ohne Schwanz); 0,90 bis 1 Schritt (mit Schwanz)\nGewicht:\n9 bis 12 Stein\nMU\n14\nKL\n10 (t)\nIN\n13\nCH\n12\nFF\n8\nGE\n14\nKO\n10\nKK\n13 (k)\nLeP\n12\nAsP\n-\nKaP\n-\nINI\n13+1W6\nVW\n7\nSK\n1\nZK\n-1\nGS\n10\nBiss: AT\n13\nTP\n1W3+1\nRW\nkurz\nKrallen: AT\n14\nTP\n1W2+1\nRW\nkurz\nRS/BE\n0/0\nAktionen:\n1\nVorteile/Nachteile:\nDunkelsicht I, Herausragender Sinn (Gehör) / Schlechte Eigenschaft (Neugier)\nSonderfertigkeiten:\nkeine\nTalente:\nEinschüchtern 3, Klettern 10, Körperbeherrschung 12, Kraftakt 3, Schwimmen 2, Selbstbeherrschung 1, Sinnesschärfe 11, Verbergen 12, Willenskraft 3\nAnzahl:\n1\nGrößenkategorie:\nwinzig\nTypus:\nTier, nicht humanoid\nBeute:\n4 Rationen Fleisch, Fell (3 Heller)\nKampfverhalten:\nDie Wildkatze scheut in der Regel den Umgang mit Zweibeinern, wenn sie sich bedroht fühlt, greift sie jedoch auch größere Wesen an. In die Enge getrieben, kämpft sie bis zum Tod.\nFlucht:\n50% der LeP\nSchmerz +1 bei:\n10 LeP, 8 LeP, 6 LeP, 4 LeP oder weniger\nTierkunde (Wildtiere):\n#\nQS 1\n: Eine Wildkatze soll über sieben Leben verfügen. Man bekommt sie nicht so schnell tot.\n#\nQS 2\n: Es sind scheue Tiere, man sollte sie aber keinesfalls reizen. Besonders ihrem Versteck sollte man nicht zu nahe kommen.\n#\nQS 3+\n: Manche Hexe soll sich statt eines Stubentigers auch eine Wildkatze als Vertrautentier halten.\nSonderregeln:\nSieben Leben:\n5 % (1 auf W20) aller Wildkatzen verfügen tatsächlich über 7 Leben. Wenn ihre LeP auf 0 oder darunter gesunken sind, erwachen sie 1 Stunde später wieder mit halber Lebensenergie. Beim achten Ableben, wenn ihr Kopf abgetrennt wurde oder ihr Körper immensen Schaden erlitten hat (durch Säure, Feuer etc.), stirbt sie jedoch endgültig.\nJagd:\n–1\nPublikation:\nAventurische Magie 3, Seite 213\nAventurische Tiergefährten, Seite 36\nKodex der Magie, Seite 378"
 }

@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/her_a_heilsalbe.html",
   "title": "Heilsalbe",
+  "categories": [
+    "Herbarium",
+    "Rezepte",
+    "Alchimistische Rezepte",
+    "Elixiere"
+  ],
   "text": "Rezepttyp:\nHeilung\nRezeptbeschreibung:\nDie hauptsächlich aus dem Wirselkraut hergestellte Heilsalbe ist ein weit verbreitetes Heilmittel. Die Wirkung der Heilsalbe ist nicht kumulativ, mehrere Anwendungen auf einmal addieren sich nicht, sondern nur die beste QS zählt. Erst ab dem Ende der nächsten Regenerationsphase kann wieder eine neue Heilwirkung einsetzen.\nTypische Ingredenzien:\nBleichmohn, Salbenfett, Ulmenwürger, Wirselkraut\nKosten der Ingredenzienstufe:\n25 Silbertaler pro Stufe\nLabor:\narchaisches Labor\nBrauschwierigkeit:\n+/-0\nVorraussetzungen (Brauvorgang):\nkeine\nAP-Wert (Berufsgeheimnis):\n1 AP (Voraussetzungen: keine)\nQualitätsstufen:\n1: Heilt bei der nächsten Regenerationsphase 1W3 LeP.\n2: Heilt bei der nächsten Regenerationsphase 1W3+1 LeP.\n3: Heilt bei der nächsten Regenerationsphase 1W3+1 LeP. Außerdem erhält der Anwender augenblicklich 1 LeP zurück.\n4: Heilt bei der nächsten Regenerationsphase 1W3+2 LeP. Außerdem erhält der Anwender augenblicklich 1 LeP zurück.\n5: Heilt bei der nächsten Regenerationsphase 1W3+2 LeP. Außerdem erhält der Anwender augenblicklich 2 LeP zurück.\n6: Heilt bei der nächsten Regenerationsphase 1W3+3 LeP. Außerdem erhält der Anwender augenblicklich 2 LeP zurück.\nPublikation(en):\nAventurisches Herbarium, Seite 85"
 }

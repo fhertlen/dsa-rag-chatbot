@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/tellerhelm.html",
   "title": "Tellerhelm",
+  "categories": [
+    "Rüstkammer",
+    "Helme"
+  ],
   "text": "Anmerkung:\nDer Tellerhelm gilt als Plattenrüstung für die Trefferzone Kopf.\nHelmvorteil:\nBei Schaden durch herabfallende Trümmer schützt der Tellerhelm seinen Träger mit +1 RS für den gesamten Körper.\nHelmnachteil:\nBei einem Treffer muss zusätzlich mit 1W6 gewürfelt werden. Bei einer 1 besteht nur ein RS von 0, bei einer 2 ein RS von 1 und bei einer 3 ein RS von 3."
 }

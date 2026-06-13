@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/brecheisen-i.html",
   "title": "Brecheisen (i)",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Hiebwaffen",
+    "Improvisierte Hiebwaffen"
+  ],
   "text": "﻿Name\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nBrecheisen (i)\n1W6+2\nKK 14\n-1/-3\nmittel\n5 Stein\n50 HF\n26 S\nprim\nWaffenvorteil:\nWurde mit dem Brecheisen erfolgreich pariert, würfle mit 1W6. Bei einer 1 hat sich die Waffe des Gegners kurz am gebogenen Ende des Brecheisens verhakt, was zu einer Erschwernis von -1 auf AT für den Gegner in der nächsten KR führt. Diese Regel gilt nicht für Angriffe von Unbewaffneten.\nWaffennachteil:\nWurde mit dem Brecheisen erfolgreich pariert, würfle mit 1W6. Bei einer 6 hat sich die Waffe des Gegners kurz am gebogenen Ende des Brecheisens verhakt, was zu einer Erschwernis von -1 auf AT für den Helden in der nächsten KR führt. Diese Regel gilt nicht für Angriffe von Unbewaffneten.\nPublikation(en):\nArchiv der Ausrüstung, Seiten 214, 274\nAventurische Rüstkammer, Seite 138"
 }

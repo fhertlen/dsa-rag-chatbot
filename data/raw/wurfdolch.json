@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/wurfdolch.html",
   "title": "Wurfdolch",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Wurfwaffen",
+    "Reguläre Wurfwaffen"
+  ],
   "text": "﻿\nTP\nLZ\nRW\nMunition\nGewicht\nLänge\nPreis\nKomplexität\nWurfdolch\n1W6+1\n1 Aktion\n2/10/15\n-\n0,5 Stein\n30 HF\n45 S\neinf\nWaffenvorteil:\nkeine\nWaffennachteil:\nkeine"
 }

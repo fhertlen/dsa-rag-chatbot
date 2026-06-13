@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/langdolch.html",
   "title": "Langdolch",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Dolche",
+    "Reguläre Dolche"
+  ],
   "text": "﻿Name\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nLangdolch\n1W6+1\nGE 14\n0/0\nkurz\n0,5 Stein\n45 HF\n55 S\neinf\nAnmerkung:\nParierwaffe (PA-Bonus +1 für die Hauptwaffe)\nWaffenvorteil:\nGegen Waffen mit Reichweite\nmittel\nhat der Langdolch nur einen Abzug von -1 auf AT (statt -2).\nWaffennachteil:\nGegen Rüstungen mit RS 4 oder mehr richtet der Langdolch -1 TP an.\nPublikation(en):\nAventurische Rüstkammer II, Seite  55\nKodex des Schwertes, Seite 376\nArchiv der Ausrüstung, Seite 111"
 }

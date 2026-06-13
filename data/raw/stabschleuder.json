@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/stabschleuder.html",
   "title": "Stabschleuder",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Schleudern"
+  ],
   "text": "﻿\nTP\nLZ\nRW\nMunition\nGewicht\nLänge\nPreis\nKomplexität\nStabschleuder\n1W6+3\n2 Aktionen\n10/20/60\n-\n1 Stein\n-\n15 S\neinf\nAnmerkung:\nStabschleudern lassen sich nicht vom Pferderücken aus einsetzen.\nWaffenvorteil:\nBeim Zielen (siehe Regelwerk Seite 242) erhöht sich die Erleichterung um insgesamt 1 (unabhängig davon, wie lange man zielt).\nWaffennachteil:\nBei Schüssen auf die Distanz weit sinken die TP um 2 weitere Punkte (also insgesamt 1W6, wenn der TP-Malus für die Reichweite weit mit eingerechnet wird)."
 }

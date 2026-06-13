@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/saebel.html",
   "title": "Säbel",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Schwerter",
+    "Reguläre Schwerter"
+  ],
   "text": "﻿\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nSäbel\n1W6+3\nGE/KK 15\n0/0\nmittel\n0,75 Stein\n90 HF\n180 S\neinf\nWaffenvorteil:\nVon einem Reittier aus geführt, bekommt der Träger des Säbels einen Bonus von +1 TP.\nWaffennachteil:\nGegen Rüstungen mit RS 4 oder höher richtet die Waffe –1 TP an."
 }

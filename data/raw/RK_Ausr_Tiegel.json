@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/RK_Ausr_Tiegel.html",
   "title": "Tiegel",
+  "categories": [
+    "Rüstkammer",
+    "Ausrüstung"
+  ],
   "text": "﻿Gegenstand\nGewicht\nStrukturpunkte\nPreis\nKomplexität\nTiegel\n0,25 Stn\n6 StP\n0,5 S\neinf\nRegeltechnik:\nEin Tiegel kann 5 Anwendungen einer Salbe aufnehmen. Um die Salbe anzuwenden, ist lediglich eine 1 Aktion notwendig.\nPublikation:\nAventurische Rüstkammer 2, Seite 32"
 }

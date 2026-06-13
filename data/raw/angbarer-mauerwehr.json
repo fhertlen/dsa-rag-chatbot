@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/angbarer-mauerwehr.html",
   "title": "Angbarer Mauerwehr",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Armbrüste",
+    "Reguläre Armbrüste"
+  ],
   "text": "TP\nLZ\nRW\nMunition\nGewicht\nLänge\nPreis\nKomplexität\nAngbarer Mauerwehr\n1W6+2\n1/12 Aktionen\n10/30/50\nBolzen\n3 Stein\n70 HF\n350 S\nkomp (3 AP)\nAnmerkung:\nMagazin (für 8 Schuss); 1 Aktion pro Schuss, 12 Aktionen, um das gesamte Magazin\nauszuwechseln.\nWaffenvorteil:\nBei Schüssen auf Distanz\nnah\nsteigen die TP um 1 weiteren Punkte (also insgesamt 1W6+4, wenn der\nTP-Bonus für die Reichweite\nnah\nmiteingerechnet wird).\nWaffennachteil:\nBei Schüssen auf die Distanz\nmittel/weit\nsinken die TP um 1/2 Punkt/e (also insgesamt 1W6+1/1W6–1,\nwenn der TP-Malus für die Reichweite\nweit\nmiteingerechnet wird).\nPublikation(en):\nRüstkammer der Flusslande, Seite 6"
 }

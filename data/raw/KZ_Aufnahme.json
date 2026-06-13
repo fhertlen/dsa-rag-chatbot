@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/KZ_Aufnahme.html",
   "title": "Aufnahme",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Magische Sonderfertigkeiten"
+  ],
   "text": "Wirkung:\nDie Kugel kann eine Person in bis zu 16 Schritt Entfernung sowie die unmittelbare Umgebung in bis zu 2 Schritt Radius um sie herum visuell aufnehmen. Der Scharlatan wählt die Person aus und muss dafür sorgen, dass die Kugel während der Aufnahmen immer innerhalb der Reichweite bleibt, sonst bricht die Aufnahme ab. Es kann maximal eine halbe Stunde lang aufgezeichnet werden. Wird der Kugelzauber danach erneut eingesetzt, wird die alte Aufnahme vollständig gelöscht. Das Abspielen einer Aufnahme ist bis zu ihrer Löschung jederzeit möglich. Die Bilder erscheinen dabei in der Kugel.\nVoraussetzungen:\nkeine\nVolumen:\n5 Punkte\nAsP-Kosten:\n2 AsP pro 5 Minuten\nMerkmal:\nObjekt\nAP-Wert:\n15 Abenteuerpunkte"
 }

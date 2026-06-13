@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/kettenhemd.html",
   "title": "Kettenhemd",
+  "categories": [
+    "Rüstkammer",
+    "Rüstung",
+    "Kettenrüstung",
+    "Reguläre Kettenrüstungen"
+  ],
   "text": "﻿\nRüstungsschutz\nBelastungsstufe\nzusätzliche Abzüge\nGewicht\nPreis\nKomplexität\nKettenhemd\n4\n2\n-\n10 Stein\n250 S\neinf\nAnmerkung:\nDas Kettenhemd ist eine Variante der Kettenrüstung.\nRüstungsvorteil:\nGegen Waffen der Kampftechniken Armbrüste, Bögen, Dolche und Schwerter schützt das Kettenhemd mit RS 5.\nRüstungsnachteil:\nSinnesschärfe-Proben, um einen Kettenhemdträger zu bemerken, sind um 1 erleichtert."
 }

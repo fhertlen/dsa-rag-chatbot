@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/OR_Waffen_reparieren.html",
   "title": "Waffen reparieren",
+  "categories": [
+    "Regeln",
+    "Optionale Regeln"
+  ],
   "text": "Optionale Regel\nSpielst du mit den Optionalregel der Patzertabellen, kann es geschehen, dass deine Waffe beschädigt oder gar schwer beschädigt wird. In diesem Fall kannst du die Waffe mit einer Probe auf das Herstellungstalent reparieren. Das Intervall beträgt die Hälfte der Zeit, die es benötigt, eine Waffe der verwendeten Kampftechnik herzustellen. Ist die Waffe nur beschädigt, reicht eine unmodifizierte Probe aus, ist sie schwer beschädigt, ist die Probe um 1 erschwert und bei Gelingen gilt die Waffe nur noch beschädigt (und kann mit einer weiteren unmodifizierten Probe wieder ganz hergestellt werden). Man benötigt zudem eventuell Sonderfertigkeiten und Berufsgeheimnisse. Sollte eine Waffe bei der Herstellung solche benötigen,\nbraucht man sie auch bei der Reparatur.\nPublikation:\nAventurisches Kompendium, Seite 100"
 }

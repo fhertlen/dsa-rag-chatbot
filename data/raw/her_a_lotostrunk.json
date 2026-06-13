@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/her_a_lotostrunk.html",
   "title": "Lotostrunk",
+  "categories": [
+    "Herbarium",
+    "Rezepte",
+    "Alchimistische Rezepte",
+    "Elixiere"
+  ],
   "text": "Rezepttyp:\nNützlich, Übernatürlich\nRezeptbeschreibung:\nAus dem Weißgelben Lotos lässt sich ein Trunk brauen, der die Sinne erweitert und die magischen Strukturen der Welt erfassbarer macht. Die Wirkung hält 30 Minuten an.\nTypische Ingredenzien:\nAhornharz, Alkohol, Alraune, Mondsilberspäne, Weißgelber Lotos\nKosten der Ingredenzienstufe:\n50 Silbertaler pro Stufe\nLabor:\nHexenküche\nBrauschwierigkeit:\n-2\nVorraussetzungen (Brauvorgang):\nkeine\nAP-Wert (Berufsgeheimnis):\n2 AP (Voraussetzungen: Alchimie 6)\nQualitätsstufen:\n1: Proben auf den Zauber ODEM ARCANUM sind um +1 erleichtert.\n2: Proben auf die Zauber ODEM ARCANUM und ANALYS ARKANSTRUKTUR sind um +1 erleichtert.\n3: Proben auf die Zauber ODEM ARCANUM und ANALYS ARKANSTRUKTUR sind um +1 erleichtert. Profane Anwender, die den Trunk trinken, können eine Magische Analyse durchführen, ohne an ein QS-Limit gebunden zu sein.\n4: Proben auf die Zauber ODEM ARCANUM und ANALYS ARKANSTRUKTUR sind um +2 erleichtert. Profane Anwender, die den Trunk trinken, können eine Magische Analyse durchführen, ohne an ein QS-Limit gebunden zu sein.\n5: Proben auf die Zauber ODEM ARCANUM und ANALYS ARKANSTRUKTUR sind um +2 erleichtert. Profane Anwender, die den Trunk trinken, können eine Magische Analyse durchführen, ohne an ein QS-Limit gebunden zu sein. Die Magische Analyse ist um +1 erleichtert.\n6: Proben auf die Zauber ODEM ARCANUM und ANALYS ARKANSTRUKTUR sind um +2 erleichtert. Profane Anwender, die den Trunk trinken, können eine Magische Analyse durchführen, ohne an ein QS-Limit gebunden zu sein. Die Magische Analyse ist um +2 erleichtert.\nPublikation(en):\nAventurisches Herbarium, Seite 86"
 }

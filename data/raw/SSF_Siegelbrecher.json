@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/SSF_Siegelbrecher.html",
   "title": "Siegelbrecher",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Magische Sonderfertigkeiten"
+  ],
   "text": "Wirkung:\nDer Stab zerstört im Radius von 8 Schritt beliebige Bann- oder Schutzkreise. Dies funktioniert aber nur bei Materialien, die eine weiche Komponente haben, also beispielsweise Wachs, Kreide oder Farbe. Steinerne Kreise sind davon nicht betroffen.\nVoraussetzungen:\nkeine\nVolumen:\n6 Punkte\nAsP-Kosten:\n5 AsP pro Schutz- oder Bannkreis\nMerkmal:\nAntimagie\nAP-Wert:\n10 Abenteuerpunkte\nPublikation: Aventurische Magie Seite 23"
 }

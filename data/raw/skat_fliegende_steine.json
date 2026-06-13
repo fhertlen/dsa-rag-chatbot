@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/skat_fliegende_steine.html",
   "title": "Fliegende Steine",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Karmale Sonderfertigkeiten"
+  ],
   "text": "Wirkung:\nDer Schamane kann lose Steine mit einem Gewicht von bis zu 1 Stein in einem Radius von 8 Schritt um sich herumwirbeln lassen. Er selbst ist gegen die Auswirkungen geschützt, alle anderen Wesen müssen eine Probe auf Körperbeherrschung (Kampfmanöver) ablegen, bei Misslingen erleiden sie 1W6+3 TP. Am Ende der KR* fallen die Steine wieder zu Boden. Der Einsatz dieser Fähigkeit verursacht 1 Stufe Trance und kostet 1 Aktion.\n* Der Meister kann entschieden, dass bei einer zu geringen Menge an Steinen die TP geringer ausfallen.\nVoraussetzungen:\nSonderfertigkeit Tierische Kraft\nAspekt:\nStein\nAP-Wert:\n12 Abenteuerpunkte\nPublikation(en):\nAventurisches Götterwirken II, Seite 40"
 }

@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/KZ_WarnendesLeuchten.html",
   "title": "Warnendes Leuchten",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Magische Sonderfertigkeiten"
+  ],
   "text": "Wirkung:\nDie Zauberkugel leuchtet rot auf, wenn sich im Radius von 16 Schritt um den Scharlatan eine Person befindet, die Hass, Rachsucht, Jähzorn oder Mordgedanken gegenüber dem Scharlatan verspürt. Je stärker die Gefühle sind, desto stärker das Leuchten.\nVoraussetzungen:\nkeine\nVolumen:\n5 Punkte\nAsP-Kosten:\n1 AsP pro Stunde\nMerkmal:\nHellsicht\nAP-Wert:\n12 Abenteuerpunkte\nPublikation(en):\nAventurische Magie, Seite 39"
 }

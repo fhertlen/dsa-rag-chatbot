@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/kriegspfeile-und-bolzen.html",
   "title": "Kriegspfeile und -bolzen",
+  "categories": [
+    "Rüstkammer",
+    "Waffenausrüstung",
+    "Munition",
+    "Besondere Munitionsarten"
+  ],
   "text": "Regeltechnik:\nDer Schaden der Waffe erhöht sich um +1 TP. Die Reichweite der Waffe sinkt um 10 %\nPreismultiplikator:\nPreis x 4\nPublikation(en):\nAventurische Rüstkammer II, Seite 119"
 }

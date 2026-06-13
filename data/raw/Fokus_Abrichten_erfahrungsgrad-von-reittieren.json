@@ -1,0 +1,10 @@
+{
+  "url": "https://dsa.ulisses-regelwiki.de/Fokus_Abrichten/erfahrungsgrad-von-reittieren.html",
+  "title": "Erfahrungsgrad von Reittieren",
+  "categories": [
+    "Regeln",
+    "Fokusregeln",
+    "Abrichten und Dressieren"
+  ],
+  "text": "Bei Reittieren spielt die Ausbildung eine besondere Rolle. Von ihr hängt ab, wie gut ein Reiter sein Reittier unter Kontrolle halten kann, wenn er auf ihm reitet.\n#\nUnausgebildet:\nVerfügt das Reittier nicht über den Ausbildungsaufsatz\nReittier\n, ist es unausgebildet und alle Proben auf\nReiten\nsind um -1 erschwert.\n#\nAusgebildet:\nVerfügt das Reittier über den Ausbildungsaufsatz\nReittier\n, so gilt es als ausgebildet und Proben auf\nReiten\nsind nicht weiter modifiziert.\n#\nErfahren:\nMacht sich die Heldin die Mühe, dem Reittier einen weiteren\nAusbildungsaufsatz\nzu spendieren, so erhält es den Erfahrungsgrad erfahren und Proben auf\nReiten\nsind um +1 erleichtert.\nPublikation(en):\nKodex des Schwertes, Seite 155"
+}

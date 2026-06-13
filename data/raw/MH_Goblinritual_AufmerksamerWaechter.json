@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/MH_Goblinritual_AufmerksamerWaechter.html",
   "title": "Aufmerksamer Wächter",
+  "categories": [
+    "Magie",
+    "Magische Handlungen",
+    "Goblinrituale"
+  ],
   "text": "Probe\n: IN/CH/FF\nWirkung\n: Der Tiergeist stößt einen Warnruf aus, wenn sich etwas nähert, das er als Gefahr betrachtet. Seine Sinnesschärfe entspricht QS x 3, seine Eigenschaften denen eines typischen Exemplars der Tierart.\nDauer\n: 30 Minuten\nAsP-Kosten\n: 8 AsP\nReichweite\n: Sichtweite des Tieres\nWirkungsdauer\n: QS x 3 Stunden\nZielkategorie\n: Profane Objekte (Tierbild)\nMerkmal\n: Objekt\nSteigerungsfaktor\n: B\nPublikation(en):\nKodex der Magie, Seite 110"
 }

@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/kettenweste.html",
   "title": "Kettenweste",
+  "categories": [
+    "Rüstkammer",
+    "Rüstung",
+    "Kettenrüstung",
+    "Reguläre Kettenrüstungen"
+  ],
   "text": "﻿\nRüstungsschutz\nBelastungsstufe\nzusätzliche Abzüge\nGewicht\nPreis\nKomplexität\nKettenweste\n4\n2\n-\n8 Stein\n200 S\neinf\nAnmerkung:\nDie Kettenweste ist eine Variante der Kettenrüstung.\nRüstungsvorteil:\nGegen Waffen der Kampftechniken Armbrüste, Bögen, Dolche und Schwerter schützt die Kettenweste mit RS 5.\nRüstungsnachteil:\nSinnesschärfe-Proben, um einen Kettenwestenträger zu bemerken, sind um 1 erleichtert. Bei einem Treffer muss zusätzlich mit 1W6 gewürfelt werden. Bei einer 1 besteht nur ein RS von 1, bei einer 2 ein RS von 2. Bei einem Ergebnis von 3-6 schützt die Kettenweste wie gewohnt mit RS 4."
 }

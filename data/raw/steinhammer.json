@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/steinhammer.html",
   "title": "Steinhammer",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Hiebwaffen",
+    "Reguläre Hiebwaffen"
+  ],
   "text": "﻿\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nSteinhammer\n1W6+2\nKK 14\n0/-3\nmittel\n1 Stein\n70 HF\n20 S\nprim\nWaffenvorteil:\nBei einem Kritischen Treffer erhöhen sich die TP nach dem Verdoppeln nochmals um +2 TP.\nWaffennachteil:\nRüstungen mit RS 4 oder höher erhalten gegenüber einem Steinhammer einen Bonus von +1 auf RS. Unterläuft dem Träger der Waffe ein bestätigter Patzer, zerbricht sie. Dies geschieht zusätzlich den üblichen Auswirkungen eines Patzers, solange dessen Resultat nicht ebenfalls ein Zerbrechen der Waffe ist."
 }

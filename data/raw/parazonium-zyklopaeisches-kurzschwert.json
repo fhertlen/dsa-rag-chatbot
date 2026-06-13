@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/parazonium-zyklopaeisches-kurzschwert.html",
   "title": "Parazonium (zyklopäisches Kurzschwert)",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Schwerter",
+    "Reguläre Schwerter"
+  ],
   "text": "﻿\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nParazonium (zyklopäisches Kurzschwert)\n1W6+3\nGE/KK 15\n0/-1\nkurz\n0,75 Stein\n60 HF\n140 S\neinf\nWaffenvorteil:\nBei Einsatz des Manövers\nSprungangriff\n(siehe\nAventurisches Kompendium\nSeite\n164\n) steigt die QS der Talentprobe um 1, solange die Probe überhaupt gelingt.\nWaffennachteil:\nMit einem Parazonium sind Paraden gegen Zweihandhiebwaffen und Zweihandschwerter um 1 erschwert."
 }

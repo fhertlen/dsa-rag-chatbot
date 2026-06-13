@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/spitzhacke-2h-i.html",
   "title": "Spitzhacke (2H, i)",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Zweihandhiebwaffen",
+    "Improvisierte Zweihandhiebwaffen"
+  ],
   "text": "Spitzhacke (2H)\n﻿\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nSpitzhacke (2H)\n1W6+5\nKK 13\n-1/-5\nmittel\n2,75 Stein\n70 HF\n20 S\nprim\nWaffenvorteil:\nRüstungen mit RS 4 und mehr erleiden einen Malus von –1 RS gegen die Spitzhacke.\nWaffennachteil:\nBei einer misslungenen Attacke mit der Spitzhacke muss mit 1W6 gewürfelt werden. Bei 5-6 hat sich die Spitzhacke verkeilt und steckt irgendwo fest. Der Held muss eine Probe auf\nKraftakt (Ziehen & Zerren)\nbestehen, um sie wieder herauszulösen. Vorher kann er nicht mit der Waffe weiterkämpfen. Der Versuch des Herausziehens kostet 1 Aktion."
 }

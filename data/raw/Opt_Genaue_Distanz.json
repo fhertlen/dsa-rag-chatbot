@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/Opt_Genaue_Distanz.html",
   "title": "Genaue Distanz",
+  "categories": [
+    "Regeln",
+    "Optionale Regeln"
+  ],
   "text": "Optionale Regel\nIm Grunde können Sprünge mit einer einfachen Erfolgsprobe auf Körperbeherrschung abgehandelt werden. Wenn du aber genau wissen möchtest, wie weit ein Held mit genug Anlauf springen kann, kann folgende Detailregel benutzt werden.\nDie Basis der Sprungweite beträgt die Hälfte der Geschwindigkeit abzüglich BE (nicht gerundet) in Schritt. Hohe Gewandtheit vergrößert zudem die Weite des Sprungs. Jeder Punkt Gewandtheit über 10 bringt 20 Halbfinger. Zu guter Letzt vergrößert eine Probe auf\nKörperbeherrschung (Springen)\ndie Sprungweite um 20 Halbfinger pro Fertigkeitspunkt. Daraus ergibt sich eine Gesamtsprungweite von:\nGS/2 in Schritt + je 20 Halbfinger pro Punkt GE über 10 + je 20 Halbfinger pro FP aus\nKörperbeherrschung (Springen)\n.\nWenn aus dem Stand gesprungen wird, wird das Ergebnis der Probe halbiert. Sollte es wichtig sein zu ermitteln, wie hoch ein Held springt, beispielsweise um mit den Händen eine Mauerkrone zu erreichen, gilt folgende Regel:\nDie Geschwindigkeit mal 10 Halbfinger stellt die Basis der Sprunghöhe dar. Hohe Gewandtheit vergrößert zudem die Höhe des Sprungs. Jeder Punkt Gewandtheit über 10 bringt 10 Halbfinger. Zu guter Letzt vergrößert eine Probe auf\nKörperbeherrschung (Springen)\ndie Sprungweite um 10 Halbfinger pro Fertigkeitspunkt. Daraus ergibt sich eine Gesamtsprunghöhe von:\nGS mal 10 Halbfinger + je 10 Halbfinger pro Punkt GE über 10 + je 10 Halbfinger pro FP aus\nKörperbeherrschung (Springen)\n.\nDurch den Einsatz dieser Optionalregel wird das Spiel etwas komplexer.\nPublikation:\nRegelwerk (3. überarbeitete Auflage), Seite 350"
 }

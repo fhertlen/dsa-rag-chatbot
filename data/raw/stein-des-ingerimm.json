@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/stein-des-ingerimm.html",
   "title": "Stein des Ingerimm",
+  "categories": [
+    "Rüstkammer",
+    "Artefakte",
+    "Talismane"
+  ],
   "text": "Beschreibung:\nEin großer Brocken aus Mindoriumerz.\nWirkung:\nIn einem Radius von QS x 100 Schritt schützt der Stein Wesen und Objekte vor Erdbeben, Vulkanausbrüchen und Feuerbrünsten.\nKosten:\nunbekannt\nPreis:\nunbezahlbar\nPublikation:\nRüstkammer der Flusslande, Seite 24"
 }

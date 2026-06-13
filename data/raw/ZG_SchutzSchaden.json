@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/ZG_SchutzSchaden.html",
   "title": "Schutz wider Schadensmagie",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Karmale Sonderfertigkeiten"
+  ],
   "text": "Wirkung:\nDer Praiosgeweihte erhält gegenüber jeglichem magischen Schaden +1 RS. Dieser RS ist mit anderem RS kombinierbar, wenn dieser auch gegen den magischen Schaden angewandt werden kann.\nVoraussetzungen:\nSonderfertigkeit Zepter der Furcht, keine Sonderfertigkeit Bollwerk wider Zauberei\nAspekt:\nAntimagie\nAP-Wert:\n10 Abenteuerpunkte\nPublikation: Aventurisches Götterwirken I Seite 14"
 }

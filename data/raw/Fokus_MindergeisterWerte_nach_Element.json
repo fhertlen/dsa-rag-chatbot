@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/Fokus_MindergeisterWerte_nach_Element.html",
   "title": "Mindergeister-Werte nach Element",
+  "categories": [
+    "Regeln",
+    "Fokusregeln"
+  ],
   "text": "Wenn du Mindergeister in ihren Werten noch detaillierter nach ihren jeweiligen Elementen ausarbeiten willst, kannst du je 2 der folgenden Pakete auf die Grundwerte anrechnen. Bei Reinen Mindergeistern verwendest du zweimal das gleiche Element, bei den anderen kombinierst du zwei Elemente. Werte, die auf diese Weise unter 0 sinken, bleiben auf Wert 1 bzw. auf Wert 0 (bei Talenten).\nFeuer\nMU\n+1\nKL\n-1\nIN\n+0\nCH\n-1\nFF\n+1\nGE\n+1\nKO\n-1\nKK\n+0\nLeP\n-1\nINI\n+1\nAW\n+1\nSK\n+1\nZK\n-1\nGS\n+1\nRS\n+0\nTalente\nEinschüchtern +1, Körperbeherrschung +1, Sinnesschärfe –1, Verbergen –1\nWasser\nMU\n-1\nKL\n+0\nIN\n+1\nCH\n+1\nFF\n+0\nGE\n+1\nKO\n-1\nKK\n-1\nLeP\n+0\nINI\n+0\nAW\n+1\nSK\n+1\nZK\n-1\nGS\n+1\nRS\n-1\nTalente\nEinschüchtern –1, Schwimmen +1, Sinnesschärfe +1, Selbstbeherrschung –1\nHumus\nMU\n-1\nKL\n+1\nIN\n+0\nCH\n+1\nFF\n-1\nGE\n-1\nKO\n+1\nKK\n+0\nLeP\n+1\nINI\n-1\nAW\n-1\nSK\n+0\nZK\n+1\nGS\n+0\nRS\n+1\nTalente\nKlettern +1, Verbergen +1,\nEis\nMU\n+0\nKL\n+1\nIN\n-1\nCH\n-1\nFF\n-1\nGE\n+0\nKO\n+1\nKK\n+1\nLeP\n+0\nINI\n-1\nAW\n-1\nSK\n+1\nZK\n+1\nGS\n-1\nRS\n+0\nTalente\nEinschüchtern +1, Selbstbeherrschung +1, Verbergen –1,\nErz\nMU\n+1\nKL\n+0\nIN\n-1\nCH\n+0\nFF\n-1\nGE\n-1\nKO\n+1\nKK\n+1\nLeP\n+1\nINI\n-1\nAW\n-1\nSK\n+0\nZK\n+1\nGS\n-1\nRS\n+1\nTalente\nKraftakt +1, Selbstbeherrschung +1, Körperbeherrschung –1, Sinnesschärfe –1\nLuft\nMU\n+1\nKL\n-1\nIN\n+0\nCH\n+0\nFF\n+1\nGE\n+1\nKO\n-1\nKK\n-1\nLeP\n-1\nINI\n+1\nAW\n+1\nSK\n+0\nZK\n-1\nGS\n+1\nRS\n-1\nTalente\nKörperbeherrschung +1, Verbergen +1, Kraftakt –1, Willenskraft –1\nAnmerkung\n: siehe auch:\nBestiarium - Mindergeister\nPublikation(en)\n:\nAventurisches Elementarium, Seite 46"
 }

@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/bgbttrt.html",
   "title": "Stinktöpfchen",
+  "categories": [
+    "Herbarium",
+    "Rezepte",
+    "Alchimistische Rezepte",
+    "Elixiere"
+  ],
   "text": "Das Stinktöpfchen soll es jedem Lebewesen erschweren, sich in dessen Nähe aufzuhalten. In einem Gebäude hält der Gestank 1 Stunde, außerhalb von Gebäuden 10 Minuten, bei Regen 1 Minute, bei starker Witterung nur bis zum Ende der nächsten KR.\nTypische Ingredienzien:\nabgestandenes Wasser, Alraunenpulver, Drachendung, geriebene Rinde des Faulbaums, Sekret des Stinktiers\nKosten der Ingredienzienstufe:\n40 Silbertaler pro Stufe\nLabor:\narchaisches Labor\nBrauschwierigkeit:\n+/–0\nVoraussetzungen (Brauvorgang):\nluftdicht\nAP-Wert (Berufsgeheimnis):\n3 AP\nQualitätsstufen:\n1: In einem Radius von 1 Schritt um das Töpfchen stinkt es so gewaltig, dass alle Lebewesen eine Erschwernis von 1 auf alle Fertigkeitsproben erleiden.\n2: In einem Radius von 3 Schritt um das Töpfchen stinkt es so gewaltig, dass alle Lebewesen eine Erschwernis von 1 auf alle Fertigkeitsproben erleiden.\n3: In einem Radius von 3 Schritt um das Töpfchen stinkt es so gewaltig, dass alle Lebewesen eine Erschwernis von 1 auf alle Fertigkeitsproben erleiden. Außerdem erleiden sie den Status\nÜbler Geruch\nfür 30 Minuten.\n4: In einem Radius von 7 Schritt um das Töpfchen stinkt es so gewaltig, dass alle Lebewesen eine Erschwernis von 1 auf alle Fertigkeitsproben erleiden. Außerdem erleiden sie den Status\nÜbler Geruch\nfür 1 Stunde.\n5: In einem Radius von 7 Schritt um das Töpfchen stinkt es so gewaltig, dass alle Lebewesen eine Erschwernis von 1 auf alle Fertigkeitsproben erleiden. Außerdem erleiden sie den Status\nÜbler Geruch\nfür 1 Tag.\n6: In einem Radius von 7 Schritt um das Töpfchen stinkt es so gewaltig, dass alle Lebewesen eine Erschwernis von 2 auf alle Fertigkeitsproben erleiden. Außerdem erleiden sie den Status\nÜbler Geruch\nfür 1 Woche.\nPublikation(en):\nAventurische Magie II, Seite 221\nKodex der Magie, Seite 388"
 }

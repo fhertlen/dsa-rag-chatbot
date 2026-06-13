@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/Opt_Talentgruppenprobe.html",
   "title": "Die Talentgruppenprobe",
+  "categories": [
+    "Regeln",
+    "Optionale Regeln"
+  ],
   "text": "Optionale Regel\nAnstatt bei jedem Talent nachschauen zu müssen, auf welche drei unterschiedlichen Eigenschaften gewürfelt wird, kann auf die Talentgruppenprobe zurückgegriffen werden. Diese Probe funktioniert wie eine normale Fertigkeitsprobe. Der Unterschied ist, dass für jedes Talent innerhalb einer Talentgruppe die drei gleichen Eigenschaften gelten. Als Fertigkeitspunkte werden die Punkte des Talents benutzt, genau wie bei einer gewöhnlichen Fertigkeitsprobe.\nBei den Proben wurde darauf geachtet, dass die bei der Talentgruppe häufig auftretenden Eigenschaften benutzt werden. Die Talentgruppenproben stellen also somit eine Art Durchschnittsprobe dar. Durch den Einsatz dieser Optionalregel wird das Spiel etwas weniger komplex.\nTalentgruppenproben\nTalentgruppe\nTalentgruppenprobe\nKörpertalente\nMU/GE/KK\nGesellschaftstalente\nIN/CH/CH\nNaturtalente\nMU/GE/KO\nWissenstalente\nKL/KL/IN\nHandwerkstalente\nFF/FF/KO\nPublikation:\nRegelwerk (3. überarbeitete Auflage), Seite 184"
 }

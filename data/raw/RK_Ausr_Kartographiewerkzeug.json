@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/RK_Ausr_Kartographiewerkzeug.html",
   "title": "Kartographiewerkzeug",
+  "categories": [
+    "Rüstkammer",
+    "Ausrüstung"
+  ],
   "text": "﻿Gegenstand\nGewicht\nStrukturpunkte\nPreis\nKomplexität\nKartographiewerkzeug\n0,25 Stn\n4 StruPu\n50 S\nprim\nRegeltechnik:\nFingerfertigkeit erhält bei\nMalen & Zeichen (Zeichnen)\neinen Bonus von +1, wenn es darum geht, eine Karte anzufertigen.\nPublikation:\nAventurische Rüstkammer, Seite 29"
 }

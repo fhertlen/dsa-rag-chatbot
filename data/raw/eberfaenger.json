@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/eberfaenger.html",
   "title": "Eberfänger",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Dolche",
+    "Reguläre Dolche"
+  ],
   "text": "Name\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nEberfänger\n1W6+2\nGE 14\n0/-1\nkurz\n1 Stein\n40 HF\n60 S\neinf\nWaffenvorteil:\nIm Kampf gegen Tiere der Größenkategorie\nmittel\nund\nkleiner\nrichtet der Eberfänger +1 TP an.\nWaffennachteil:\nMit dem Eberfänger kann das Manöver\nUnterlaufen\nnicht genutzt werden.\nPublikation(en):\nRüstkammer der Streitenden Königreiche, Seite 7\nAventurische Rüstkammer II, Seite 46\nKodex des Schwertes, Seite 376\nArchiv der Ausrüstung, Seite 92"
 }

@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/maskenhelm.html",
   "title": "Maskenhelm",
+  "categories": [
+    "Rüstkammer",
+    "Helme"
+  ],
   "text": "Anmerkung:\nDer Maskenhelm gilt als Plattenrüstung für die Trefferzone Kopf. Man benötigt zum Auf- und Absetzen des Helms 5 Aktionen.\nHelmvorteil:\nProben auf\nEinschüchtern\nsind um 1 erleichtert.\nHelmnachteil:\nProben auf\nSinnesschärfe\nsind um 1 erschwert, wenn es ums Hören oder Sehen geht."
 }

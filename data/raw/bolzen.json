@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/bolzen.html",
   "title": "Bolzen",
+  "categories": [
+    "Rüstkammer",
+    "Waffenausrüstung",
+    "Munition"
+  ],
   "text": "Bolzen dienen als Munition für bestimmte Armbrüste.\nPreis:\n0,2 Silbertaler\nBolzen im Nahkampf\nSollte ein Bolzen im Nahkampf verwendet werden wird er als improvisierte Waffe mit der Kampftechnik\nRaufen\nmit folgendem Profil verwendet:\n﻿\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nBolzen (i)\n1W6+2\nKK 14\n-3/-\nkurz\nje nach Waffe\nje nach Waffe\nje nach Waffe\nje nach Waffe\nAnmerkung:\nEine Parade ist nicht möglich, bei einem Spiel mit Waffenbeschädigungen muss bei jedem Angriff eine Bruchfaktor-Probe erfolgen."
 }

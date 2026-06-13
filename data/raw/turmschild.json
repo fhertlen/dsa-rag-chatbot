@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/turmschild.html",
   "title": "Turmschild",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Schilde",
+    "Reguläre Schilde"
+  ],
   "text": "﻿\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nTurmschild\n1W6+1\nKK 16\n-6/+3\nkurz\n7 Stein\n-\n120 S\neinf\nAnmerkung:\ngroßer Schild, 50 Strukturpunkte; zusätzlich –2 AT auf die Hauptwaffe; verbirgt sich ein Kämpfer hinter dem Turmschild, so ist er gegen feindliche Fernkampfangriffe von vorne geschützt, ohne dass er eine Probe auf Schild-PA ablegen muss. Allerdings kann er sich dann nicht mit dem Schild fortbewegen. Um den Schild wieder anzuheben und sich mit ihm zu bewegen, benötigt der Held 1 Aktion, kann aber dann sofort auch wieder regulär getroffen werden.\nWaffenvorteil:\nBei der Abwehr von Pfeilen und Bolzen bekommt der Turmschild einen Bonus von +2 PA (nach der Verdopplung des Schild-Paradebonus).\nWaffennachteil:\nVerfügen zwei Kämpfer über den gleichen INI-Wert, schlägt der Gegner des Trägers eines Turmschildes immer zuerst zu. Führt der Gegner ebenfalls einen Turmschild, kommen die normalen Regeln zur Reihenfolge des Handelns (siehe Regelwerk Seite 227) zum Tragen. Nach einem bestätigten Patzer bei einer Attacke erhält der Träger zusätzlich 1 Stufe Betäubung. Der Träger eines Großschilds erleidet einen Abzug von 2 auf GS."
 }

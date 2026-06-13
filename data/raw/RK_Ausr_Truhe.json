@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/RK_Ausr_Truhe.html",
   "title": "Truhe",
+  "categories": [
+    "Rüstkammer",
+    "Ausrüstung"
+  ],
   "text": "﻿Gegenstand\nGewicht\nStrukturpunkte\nPreis\nKomplexität\nReisetruhe\n6 Stn\n80 StP\n22 S\neinf\nSchatztruhe\n6 Stn\n140 StP\n25 S\neinf\nSeekiste\n7 Stn\n120 StP\n20 S\neinf\nTruhe\n5 Stn\n100 StP\n18 S\neinf\nRegeltechnik:\nEine Reisetruhe/Schatztruhe/Seekiste/Truhe kann bis zu 120/150/100/80 Stein Gewicht an Gegenständen aufnehmen.\nPublikation:\nAventurische Rüstkammer 2, Seite 33"
 }

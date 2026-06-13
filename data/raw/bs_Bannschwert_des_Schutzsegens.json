@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/bs_Bannschwert_des_Schutzsegens.html",
   "title": "Bannschwert des Schutzsegens",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Magische Sonderfertigkeiten"
+  ],
   "text": "Wirkung:\nDas Bannschwert muss in die Erde gesteckt werden und funktioniert wie ein Kleiner Schutzsegen. Der Radius des Segens beträgt automatisch 4 Schritt.\nVoraussetzungen:\nkeine\nVolumen:\n5 Punkte\nAsP-Kosten:\n4 AsP*\nMerkmal:\nObjekt\nAP-Wert:\n10 Abenteuerpunkte\n*) Ja, der karmale Kleine Schutzsegen ist gewollt deutlich billiger.\nPublikation:\nAventurische Magie 3, Seite 40"
 }

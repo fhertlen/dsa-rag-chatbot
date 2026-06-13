@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/bock.html",
   "title": "Bock",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Schilde",
+    "Reguläre Schilde"
+  ],
   "text": "﻿\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nBock\n1W6+2\nKK 16\n-3/0\nkurz\n3 Stein\n30 HF\n80 S\neinf\nAnmerkung:\nkleiner Schild, 30 Strukturpunkte, Parierwaffe (PA-Bonus +1 für die Hauptwaffe). Der AT-Abzug gilt nur für den Angriff mit dem Schild, aber nicht, wenn man einen Schild und eine andere Hauptwaffe führt. Mit einem Bock kann man versuchen, ein Geschoss zu parieren, allerdings erleidet man bei der Parade zusätzlich zu den üblichen Modifikatoren (siehe Regelwerk Seite 244) noch eine Erschwernis von 2.\nWaffenvorteil:\nMit dem Bock kann das Manöver\nEntwaffnen\nausgeführt werden.\nWaffennachteil:\nMit einem Bock kann das Manöver\nSchilddeckung\nnicht ausgeführt werden (siehe Aventurisches Kompendium Seite 163). Mit dem Bock lassen sich keine Attacken großer Gegner parieren."
 }

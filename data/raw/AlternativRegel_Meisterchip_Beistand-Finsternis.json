@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/AlternativRegel_Meisterchip_Beistand-Finsternis.html",
   "title": "Beistand der Finsternis",
+  "categories": [
+    "Regeln",
+    "Alternative Regeln",
+    "Meisterschips"
+  ],
   "text": "Regel\n: Bei dieser Meisterschip-Option kann der Meister für den Einsatz von 1 Meisterschip bestimmen, dass eine Heldin einen oder mehrere W6 zur Bestimmung der TP neu würfeln muss. Das zweite Ergebnis ist bindend. Das Wesen, welches von der Option profitiert, muss die Heldin wahrnehmen können und die Handlung muss direkt gegen das Wesen gerichtet sein (indirekte Schadensquellen zählen also nicht).\nDauer\n: sofort\nHäufigkeit\n: Diese Meisterschip-Option kann beliebig oft während eines Abenteuers eingesetzt werden, jedoch nicht zweimal hintereinander gegen die gleiche Heldin.\nKosten\n: 1 Meisterschip pro 1W6\nPublikation(en):\nAventurische Meisterschaften, Seite 65"
 }

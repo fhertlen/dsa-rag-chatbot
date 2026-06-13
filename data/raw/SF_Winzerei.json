@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/SF_Winzerei.html",
   "title": "Winzerei",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Profane Sonderfertigkeiten",
+    "Allgemeine Sonderfertigkeiten"
+  ],
   "text": "Regel:\nDer Held ist in der Lage, Wein zu keltern. Mit dieser Sonderfertigkeit erwirbt der Held im Talent Lebensmittelbearbeitung das neue Anwendungsgebiet Winzerei.\nVoraussetzungen:\nLebensmittelbearbeitung 4, Pflanzenkunde 4\nAP-Wert:\n2 Abenteuerpunkte\nPublikationen:\nAventurisches Kompendium 2, Seite 78"
 }

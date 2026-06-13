@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/RK_Ausr_Schmiedehammer.html",
   "title": "Schmiedehammer",
+  "categories": [
+    "Rüstkammer",
+    "Ausrüstung",
+    "Metallbearbeitung (Werkzeuge & Utensilien)"
+  ],
   "text": "﻿Gegenstand\nGewicht\nStrukturpunkte\nPreis\nKomplexität\nSchmiedehammer\n1,25 Stn\n30 StruPu\n100 S\neinf\nRegeltechnik:\nKörperkraft erhält bei der dritten Teilprobe auf\nMetallbearbeitung (Grobschmiedearbeiten)\nbei Verwendung eines Schmiedehammers einen Bonus von +1.\nEin Schmiedehammer lässt sich als improvisierte Waffe verwenden.\nPublikation:\nAventurische Rüstkammer, Seite 43"
 }

@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/grosser-lederschild.html",
   "title": "Großer Lederschild",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Schilde",
+    "Reguläre Schilde"
+  ],
   "text": "﻿\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nGroßer Lederschild\n1W6+1\nKK 16\n-5/+2\nkurz\n2,5 Stein\n60 HF\n45 S\nprim\nAnmerkung:\nmittlerer Schild, 20 Strukturpunkte\nWaffenvorteil:\nBei Einsatz des Manövers Verteidigungshaltung steigt die PA um 1 weiteren Punkt.\nWaffennachteil:\nDas Manöver Schildstoß (siehe Aventurisches Kompendium Seite 163) richtet mit einem großen Lederschild nur 1 TP an."
 }

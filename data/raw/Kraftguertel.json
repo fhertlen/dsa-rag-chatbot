@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/Kraftguertel.html",
   "title": "Kraftgürtel",
+  "categories": [
+    "Rüstkammer",
+    "Artefakte",
+    "Talismane"
+  ],
   "text": "Wirkung:\nDrückt man auf die Augen des Ogers, wird der Träger von enormen Kräften durchdrungen. Der Gürtel wirkt als Zauberspeicher mit 3 ATTRIBUTO KÖRPERKRAFT (FW 12).\nJe nach QS erhält der Träger des Kraftgürtels verschiedene Boni. Die Boni sind kumulativ, das heißt bei QS 3 hat der Träger insgesamt KK +2 und ZK +1.\n1 QS:\n+1 KK\n2 QS:\n+1 ZK\n3 QS:\n+1 KK\n4 QS:\n+1 ZK\nFür jede QS hält die Wirkung des Kraftgürtels 10 Minuten.\nKosten:\n48 AsP, 5 zusätzlich permanent\nPreis:\n1.200 Silbertaler\nPublikation:\nAventurischer Almanach, Seite 198"
 }

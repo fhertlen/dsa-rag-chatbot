@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/Eisigel.html",
   "title": "Eisigel",
+  "categories": [
+    "Bestiarium",
+    "Daimonide"
+  ],
   "text": "MU\n14\nKL\n10 (t)\nIN\n8\nCH\n14\nFF\n7\nGE\n3\nKO\n18\nKK\n8\nLeP\n5\nAsP\n35\nKaP\n–\nINI\n13#1W6\nVW\n0\nSK\n3\nZK\n3\nGS\n0\nZersplittern: FK\n16\nTP\n4W6/3W6/2W6/1W6*\nRW\n3/6/9/12*\nRS/BE\n4/0\nAktionen:\n1\nSonderfertigkeiten:\nkeine\nTalente:\nEinschüchtern 15, Selbstbeherrschung 7, Sinnesschärfe 4, Willenskraft 7\nZauber:\nParalysis 18 (Die Opfer fliehen nicht, sondern erstarren vor Furcht.)\nGrößenkategorie:\ngroß\nTypus:\nDaimonid, nicht humanoid\nKampfverhalten:\nEin „reifer Eisigel“ lässt sein Opfer mittels Paralysis erstarren und zersplittert dann.\nFlucht:\nbewegt sich nicht\nSchmerz +1 bei:\nimmun gegen\nSchmerz\nSonderregeln:\n*)\nFür je drei Schritt, die ein Ziel vom Eisigel entfernt ist, richten die Splitter 1W6 TP weniger an. Die Splitter breiten sich in einem gleichmäßigen Radius um den Eisigel aus und gelten als Fernkampfangriff. Der Igel muss nur einmal würfeln, um zu zerbersten. Fällt die LE eines Eisigels auf 0, zersplittert er automatisch.\nUmgehen:\nEs ist möglich, den Eisigel zu umgehen. Dazu würfeln die Helden eine Vergleichsprobe auf\nVerbergen\ngegen die\nSinnesschärfe\ndes Eisigels. Die Probe ist für den Eisigel um die SK seines Opfers erschwert, innerhalb von 9 Schritt Radius aber auch um +3 erleichtert.\nSplitterbefall\n: Eine Verletzung durch die Splitter führt bei 19-20 auf dem W20 zum Befall durch einen Eisigelkern. Dieser wächst, wenn die Wunde nicht erfolgreich behandelt wird, im Körper des Betroffenen. Wenn er entfernt wird, richtet er 1W6+Tage des Befalls SP an.\nPublikation: Klingen der Nacht Seite 66."
 }

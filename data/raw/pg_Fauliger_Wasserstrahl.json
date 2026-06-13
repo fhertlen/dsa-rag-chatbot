@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/pg_Fauliger_Wasserstrahl.html",
   "title": "Fauliger Wasserstrahl",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Magische Sonderfertigkeiten",
+    "Paktgeschenke",
+    "Dämonenpakt"
+  ],
   "text": "Wirkung:\nDer Faulige Wasserstrahl trifft auf ein vom Paktierer benanntes Ziel innerhalb einer Reichweite von 16 Schritt. Der Paktierer muss 1 Aktion aufwenden, um dieses Paktgeschenk einzusetzen. Der Strahl trifft automatisch, wenn er nicht verteidigt wird. Er zählt jedoch als Fernkampfangriff mit einer Schusswaffe und kann dementsprechend geblockt werden. Ausweichen ist ebenso möglich. An Schilden erzeugt er Strukturschaden, wenn er auf sie trifft. Das getroffene Ziel erleidet 2W6+(KdV x 2) TP Schaden. Trifft der Wasserstrahl sein Ziel, werden die TP durch den RS des Ziels vermindert. Das Ziel erhält zudem bei 1-3 auf 1W6 1 Stufe des Zustands\nBetäubung\n. Der Paktierer erleidet beim Einsatz dieser Fähigkeit 1 Stufe\nDämonische Auszehrung\n.\nVerbreitung:\nCharyptoroth\nKreis:\n1\nAP-Wert:\n10 Abenteuerpunkte\nPublikation(en):\nAventurische Magie 3, Seite 89\nHavena Versunkene Gehimnisse, Seite 118\nKodex der Magie, Seite 232"
 }

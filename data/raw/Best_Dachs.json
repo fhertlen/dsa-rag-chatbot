@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/Best_Dachs.html",
   "title": "Dachs",
+  "categories": [
+    "Bestiarium",
+    "Tiere",
+    "Dachse (Arten)"
+  ],
   "text": "Größe:\n0,70 bis 0,80 Schritt (ohne Schwanz); 0,75 bis 0,90 Schritt (mit Schwanz); 0,25 bis 0,35 Schritt Schulterhöhe\nGewicht:\n5 bis 15 Stein\nMU\n12\nKL\n10 (t)\nIN\n14\nCH\n12\nFF\n13\nGE\n13\nKO\n10\nKK\n11\nLeP\n20\nAsP\n–\nKaP\n–\nINI\n13+1W6\nVW\n6\nSK\n0\nZK\n0\nGS\n6\nBiss:\nAT\n12\nTP\n1W6+2\nRW\nkurz\nKrallen:\nAT\n14\nTP\n1W6+1\nRW\nkurz\nRS/BE:\n0/0\nAktionen:\n1\nVorteile/Nachteile:\nImmunität gegen alle Schlangengifte\nSonderfertigkeiten:\nVerbeißen (Biss)\n, (empfohlen:\nSchatzsucher\n)\nTalente:\nEinschüchtern 3, Klettern 4, Körperbeherrschung 5, Kraftakt 6, Schwimmen 4, Selbstbeherrschung 6, Sinnesschärfe 7, Verbergen 6, Willenskraft 4\nAnzahl:\n1 oder 1W6+1 (Dachsfamilie) oder 2W6+2 (Dachsbau)\nGrößenkategorie:\nklein\nTypus:\nTier, nicht humanoid\nBeute:\n5 Rationen Fleisch, Fell (6 Silbertaler)\nKampfverhalten:\nMenschengroße Wesen sind im Grunde für einen Dachs keine Beute. Er verteidigt sich aber, wenn er sich bedroht fühlt.\nFlucht:\nVerlust von 50 % der Lebenspunkte\nSchmerz +1 bei:\n15 LeP, 10 LeP, 5 LeP, 3 LeP oder weniger\nTierkunde (Wildtiere):\nQS 1: Der Dachs ernährt sich vor allem von Würmern, Früchten und kleinen Nagetieren. Menschen gehören nicht zu seiner Beute, aber wenn er aufgeschreckt wird, verteidigt er sich.\nQS 2: Gelegentlich gelingt es, Dachse abzurichten, sodass sie Lasten tragen oder Schlitten ziehen können. Dachse jagen Schlangen und sind gegen deren Gift immun.\nQS 3+: Streifendachse lösen bei Elefanten Angst aus. Schneedachse lassen sich abrichten und vor Schlitten spannen. Das Süßmaul hingegen kann man mit süßen Früchten oder Honig friedlich stimmen.\nJagd:\n–1\nSonderregeln:\nPackesel:\nStreifendachse können ein Gewicht von bis zu 20 Stein tragen.\nVarianten:\nSchneedachs und Schlittendachs: +5 LeP, +2 AT, Vorteil\nKälteresistenz\nStreifendachs: keine Änderungen\nSüßmaul: +1 GE, –1 KO, –5 LeP, +2 GS, +1 AT, +1 RS\nPublikation(en):\nAventurische Tiergefährten, Seite 70\nHelden des Wolfsfrosts, Seite 92"
 }

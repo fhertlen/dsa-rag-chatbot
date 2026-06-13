@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/Sta_Eingeengt.html",
   "title": "Eingeengt",
+  "categories": [
+    "Regeln",
+    "Grundregeln",
+    "Status"
+  ],
   "text": "Befindet sich eine Person in einer beengten Umgebung, beispielsweise in niedrigen Räumen, engen Stollen oder in einem dichten Gedränge, gilt dies als beengte Umgebung. In einer solchen Situation erleidet eine Person den Status\nEingeengt\n. Sie kann sich dann nur noch eingeschränkt bewegen, was sich besonders im Kampf negativ auswirkt. Waffen mit der Reichweite kurz führen hier nicht zu Abzügen. Waffen mit der Reichweite mittel hingegen tragen eine Erschwernis von 4 auf Attacke und Parade ein, lange Waffen sogar Erschwernisse von jeweils 8. Talentanwendungen können in solchen Situationen um bis zu 2 erschwert werden. Zauber und Liturgien werden normalerweise nicht negativ beeinflusst, wenn der Wirkende eingeengt ist.\nEingeengt\nArt\nModifikator\nKurze Waffen\n+/–0 auf AT; +/–0 auf PA\nMittlere Waffen\n–4 auf AT; –4 auf PA\nLange Waffen\n–8 auf AT; –8 auf PA\nKleine Schilde\n–2 auf AT; –2 auf PA\nMittlere Schilde\n–4 auf AT; –3 auf PA\nGroße Schilde\n–6 auf AT; –4 auf PA\nPublikation: Regelwerk Seite 35"
 }

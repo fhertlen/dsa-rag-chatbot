@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/KSF_BallistischerSchuss.html",
   "title": "Ballistischer Schuss",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Profane Sonderfertigkeiten",
+    "Kampfsonderfertigkeiten"
+  ],
   "text": "(Spezialmanöver)\nRegel:\nSchüsse mit\nWaffen der Kampftechniken Bögen\nhaben in der\nReichweitenkategorie\nweit eine um 50 % höhere Reichweite. Beispielsweise würde ein Bogen mit einer Reichweite von 100 Schritt in der Kategorie weit durch einen Ballistischen Schuss eine maximale Reichweite von 150 Schritt erreichen. Ein Ballistischer Schuss ist um -2 erschwert.\nErschwernis: -\n2\nVoraussetzungen:\nIN 13, FF 13,\nPräziser Schuss/Wurf I\nKampftechniken:\nBögen\nAP-Wert:\n10 Abenteuerpunkte\nPublikation(en):\nAventurisches Kompendium, Seite 151\nKodex des Schwertes, Seite 291"
 }

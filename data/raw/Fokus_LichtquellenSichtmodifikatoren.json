@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/Fokus_LichtquellenSichtmodifikatoren.html",
   "title": "Lichtquellen und Sichtmodifikatoren",
+  "categories": [
+    "Regeln",
+    "Fokusregeln"
+  ],
   "text": "Die vorliegende Regel ist eine Fokusregel der Stufe I.\nLichtquellen reduzieren in einem bestimmten Radius Sichtmodifikatoren, die durch Dunkelheit entstehen. Im engsten Radius werden die Sichtmodifikatoren um 4 Stufen reduziert, im Bereich des doppelten /dreifachen / vierfachen Radius um 3/2/1 Stufen. Würde also ein Sichtmodifikator von 3 durch Dunkelheit die Sicht behindern, so würde bei einer Lichtquelle im engsten und doppelten Radius der Modifikator auf 0 sinken, beim dreifachen Radius auf 1 und beim vierfachen Radius auf 2.\nPublikation(en):\nAventurische Rüstkammer, Seite 10"
 }

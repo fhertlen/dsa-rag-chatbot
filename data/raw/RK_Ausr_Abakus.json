@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/RK_Ausr_Abakus.html",
   "title": "Abakus",
+  "categories": [
+    "Rüstkammer",
+    "Ausrüstung"
+  ],
   "text": "﻿Gegenstand\nGewicht\nStrukturpunkte\nPreis\nKomplexität\nAbakus\n0,5 Stn\n5 StP\n10 S\neinf\nRegeltechnik:\nBei einer gelungenen Probe auf Rechnen steigen die FP um 1 (bis zu einem Maximum von 18). Zudem kann das Intervall bei Sammelproben auf Rechnen um 25 % verringert werden.\nPublikation:\nAventurische Rüstkammer II, Seite 12"
 }

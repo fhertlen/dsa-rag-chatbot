@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/Best_Goblin.html",
   "title": "Goblin",
+  "categories": [
+    "Bestiarium",
+    "Kulturschaffende"
+  ],
   "text": "Größe:\n1,40 bis 1,60 Schritt Körpergröße\nGewicht:\n40 bis 60 Stein\nMU\n10\nKL\n10\nIN\n13\nCH\n13\nFF\n14\nGE\n15\nKO\n12\nKK\n11\nLeP\n24\nAsP\n–\nKaP\n–\nINI\n13+1W6\nAW\n8\nSK\n–1\nZK\n0\nGS\n8\nWaffenlos: AT\n11\nPA\n6\nTP\n1W6+1\nRW\nkurz\nDolch: AT\n12\nPA\n8\nTP\n1W6+2\nRW\nkurz\nSäbel: AT\n10\nPA\n7\nTP\n1W6+3\nRW\nmittel\nHolzspeer: AT\n10\nPA\n7\nTP\n1W6+2\nRW\nlang\nKnüppel: AT\n9\nPA\n3\nTP\n1W6+2\nRW\nmittel\nKurzbogen: FK\n9\nLZ 1\nTP\n1W6+4\nRW\n10/50/80\nRS/BE:\n0/0\nAktionen:\n1\nVorteile/Nachteile:\nDunkelsicht I, Herausragender Sinn (Gehör), Kälteresistenz / Schlechte Eigenschaft (Aberglaube, Neugier)\nSonderfertigkeiten:\nFinte I\nTalente:\nEinschüchtern 4, Klettern 5, Körperbeherrschung 4, Kraftakt 4, Menschenkenntnis 4, Schwimmen 3, Selbstbeherrschung 4, Sinnesschärfe 7, Überreden 3, Verbergen 7, Willenskraft 1\nAnzahl:\n1 oder 2W6+2 (Goblinbande) oder 3W20+20 (Goblinsippe)\nGrößenkategorie:\nmittel\nTypus:\nKulturschaffender, humanoid\nKampfverhalten:\nAbseits ihrer Heimat sind Goblins oft Wegelagerer und Räuber. Goblins versuchen, Kämpfe zu vermeiden und ihr Gegenüber durch Drohungen einzuschüchtern. Müssen sie dennoch zu Gewalt greifen, bevorzugen sie Bögen oder Speere.\nFlucht:\nindividuell (meist nach Verlust von 50 % der LeP oder Tod bzw. Flucht des Anführers)\nSchmerz +1 bei:\n18 LeP, 12 LeP, 6 LeP, 5 LeP oder weniger\nPublikationen:\nAventurische Meisterschaften, Seite 213\nAventurischer Almanach, Seite 151\nDas Erbe der Theaterritter, Seite 33"
 }

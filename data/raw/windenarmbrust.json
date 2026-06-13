@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/windenarmbrust.html",
   "title": "Windenarmbrust",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Armbrüste",
+    "Reguläre Armbrüste"
+  ],
   "text": "﻿Name\nTP\nLZ\nRW\nMunition\nGewicht\nLänge\nPreis\nKomplexität\nWindenarmbrust\n2W6+6\n25 Aktionen\n25/100/200\nBolzen\n7,25 Stein\n80 HF\n450 S\nkomp (4 AP)\nWaffenvorteil:\nBei Schüssen auf\nnahe\nDistanz steigen die TP um 2 weitere Punkte (also insgesamt 2W6+9, wenn der TP-Bonus für die Reichweite\nkurz\nmit eingerechnet wird).\nWaffennachteil:\nBei Schüssen auf die Distanz\nweit\nsinken die TP um 2 weitere Punkte (also insgesamt 2W6+3, wenn der TP-Malus für die Reichweite\nweit\nmit eingerechnet wird).\nPublikation(en):\nAventurische Rüstkammer II, Seite 71\nKodex des Schwertes, Seite 381\nArchiv der Ausrüstung, Seite 154"
 }

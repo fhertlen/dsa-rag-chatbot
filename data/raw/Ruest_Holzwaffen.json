@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/Ruest_Holzwaffen.html",
   "title": "Holzwaffen",
+  "categories": [
+    "Rüstkammer",
+    "Waffen"
+  ],
   "text": "Waffen aus Holz weisen mit Ausnahme von Gewicht und Schaden die gleichen Werte wie ihre aus Metall gefertigten Versionen auf. Sie sind in der Regel leichter und verursachen 3 TP weniger. Holzwaffen, deren Originalversion 2W6-Waffen sind, richten 1W6 und 1 weiteren TP weniger an. Holzwaffen sind zudem zerbrechlicher. Immer, wenn 1W6-/2W6-Waffen 6/8 oder mehr TP anrichten, zerbrechen sie.\nPublikation:\nSeemannsgarn & Krakensilber, Seite 29"
 }

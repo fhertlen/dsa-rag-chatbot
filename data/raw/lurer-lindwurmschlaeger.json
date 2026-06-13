@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/lurer-lindwurmschlaeger.html",
   "title": "Lûrer Lindwurmschläger",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Hiebwaffen",
+    "Reguläre Hiebwaffen"
+  ],
   "text": "﻿\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nLûrer Lindwurmschläger\n1W6+4\nKK 14\n0/-1\nkurz\n1 Stein\n50 HF\n90 S\nkomp (3 AP)\nAnmerkung:\nUm die Waffe bei der Heldenerschaffung zu erwerben, muss der Held der Kultur Ambosszwerge angehören.\nWaffenvorteil:\nAT gegen Wesen der Größenkategorie groß und riesig sind um 1 erleichtert.\nWaffennachteil:\nWird ein Lûrer Lindwurmschläger von Nichtzwergen geführt, erhält er einen Malus von –2 auf AT, PA und TP. Das Manöver\nFinte\nist zusätzlich um 1 erschwert."
 }

@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/SF_Gel%C3%A4ndekunde.html",
   "title": "Geländekunde",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Profane Sonderfertigkeiten",
+    "Allgemeine Sonderfertigkeiten"
+  ],
   "text": "Regel:\nEine Geländekunde gewährt eine Erleichterung von 1 auf Proben für folgende Talente, falls diese in der entsprechenden Umgebung angewandt werden können:\nFährtensuchen\n,\nOrientierung\n,\nPflanzenkunde\n,\nTierkunde\n,\nWildnisleben.\nJede der folgenden Geländekunden muss einzeln erlernt werden: Dschungelkundig, Eis- und Schneekundig, Gebirgskundig, Höhlenkundig, Kulturlandkundig, Meereskundig, Steppenkundig, Sumpfkundig, Waldkundig, Wüstenkundig.\nVoraussetzungen:\nHeld hat mindestens 6 Monate in entsprechender Umgebung gelebt.\nAP-Wert:\n15 Abenteuerpunkte\nPublikationen:\nRegelwerk (3. überar. Auflage), Seite 217"
 }

@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/Waffe_BaburinerStreitwagenbogen.html",
   "title": "Baburiner Streitwagenbogen",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Bögen",
+    "Reguläre Bögen"
+  ],
   "text": "Baburiner Streitwagenbogen (Al’Qitar) (2H)\n﻿Name\nTP\nLZ\nRW\nMunition\nGewicht\nLänge\nPreis\nKomplexität\nBaburiner Streitwagenbogen (Al’Qitar) (2H)\n1W6+4\n2 Aktionen\n15/60/100\nPfeile\n0,75 Stn\n110 HF\n75 S\nkomp (4 AP)\nAnmerkung:\nDer Schütze kann Erschwernisse beim Fernkampf durch die Geschwindigkeit seiner\neigenen Bewegung\num 2 senken.\nWaffenvorteil:\nAuf Reichweite\nkurz\nrichtet der Streitwagenbogen +2 TP an.\nWaffennachteil:\nAuf Reichweite\nweit\nrichtet der Streitwagenbogen -2 TP an.\nPublikation(en):\nDas Dornenreich, Seite 147\nRüstkammer des Dornenreiches, Seite 7"
 }

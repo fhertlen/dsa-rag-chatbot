@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/wurfnetz.html",
   "title": "Wurfnetz",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Wurfwaffen",
+    "Reguläre Wurfwaffen"
+  ],
   "text": "﻿\nTP\nLZ\nRW\nMunition\nGewicht\nLänge\nPreis\nKomplexität\nWurfnetz\nkeine\n1 Aktion\n1/3/5\n-\n2 Stein\n350 HF\n35 S\nprim\nAnmerkung:\nStatt TP zu verursachen erleidet das Opfer den Status Fixiert, bis durch eine Sammelprobe auf\nKörperbeherrschung (Entwinden)\ndas Netz gelöst oder die Strukturpunkte des Seils (10 Strukturpunkte) mit einer scharfen Waffe auf 0 gesenkt wurden. Für jede reguläre Aktion kann der Held eine Probe auf\nKörperbeherrschung\nablegen. Waffen, die über eine längere Reichweite als kurz verfügen, richten beim Zerschneiden nur halbe TP an.\nWaffenvorteil:\nEinem Wurfnetz kann man nur ausweichen, eine Parade mit dem Schild ist nicht möglich.\nWaffennachteil:\nBei einem Patzer fesselt sich der Schleuderer selbst und erleidet alle Auswirkungen des Wurfnetzes."
 }

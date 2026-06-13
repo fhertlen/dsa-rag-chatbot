@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/ruestungsstacheln.html",
   "title": "Rüstungsstacheln",
+  "categories": [
+    "Rüstkammer",
+    "Rüstungsausstattung"
+  ],
   "text": "Regel:\nWessen Rüstung Rüstungsstacheln aufweist, der kann seinen Gegner damit eventuell verletzen. Greift ein Gegner mit einer kurzen Waffe an und sein Angriff ist erfolgreich, muss er mit 1W6 würfeln. Bei 5-6 hat er sich an den Stacheln verletzt und erleidet 1 SP. Dies gilt auch für Tiere mit Angriffen auf kurzer Reichweite. Allerdings erleidet der Träger einer mit Rüstungsstacheln ausgestatteten Rüstung bei einem bestätigten oder unbestätigten Patzer bei Attacke oder Parade (zusätzlich zu sonstigen potenziellen Patzerauswirkungen) 1 SP.\nKosten:\n10 % der Rüstungskosten\nRüstungen:\nKnochenrüstung, Hornrüstung, Lederrüstung, Plattenrüstung, Schuppenrüstung\nPublikation(en):\nAventurische Rüstkammer, Seite 121"
 }

@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/messer.html",
   "title": "Messer",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Dolche",
+    "Reguläre Dolche"
+  ],
   "text": "﻿Name\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nMesser\n1W6+1\nGE 14\n0/-2\nkurz\n0,25 Stein\n25 HF\n10 S\nprim\nWaffenvorteil:\nEin Messer richtet gegen Seile und Netze +2 TP an.\nWaffennachteil:\nDas Manöver\nKreuzblock\nist gegen Kettenwaffen, Stangenwaffen und Zweihandhiebwaffen nicht durchführbar.\nPublikation(en):\nAventurische Rüstkammer I, Seite 78\nKodex des Schwertes, Seite 376\nArchiv der Ausrüstung, Seite 116"
 }

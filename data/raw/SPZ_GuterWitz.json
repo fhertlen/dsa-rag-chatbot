@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/SPZ_GuterWitz.html",
   "title": "Guter Witz",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Magische Sonderfertigkeiten"
+  ],
   "text": "Wirkung:\nDas Spielzeug erzählt einen guten Witz, der Kulturschaffende in einem Radius von 7 Schritt zum Lachen bringt. Der Spielzeugzauber funktioniert nur bei Personen mit SK, die der Schelm ignorieren kann. Hat der Schelm Vorteile oder Sonderfertigkeiten, die diese Schwelle ändern können, kann er sie für diesen Spielzeugzauber benutzen. Der Witz muss von den Opfern verstanden werden, das Spielzeug erzählt ihn in einer beliebigen Sprache, die der Schelm beherrscht und vor dem Wirken des Spielzeugzaubers auswählt.\nVoraussetzungen:\nSpielbewegung\nVolumen:\n2 Punkte\nAsP-Kosten:\n3 AsP\nMerkmal:\nObjekt\nAP-Wert:\n3 Abenteuerpunkte\nPublikation: Aventurische Magie II Seite 38"
 }

@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/kurzbogen-der-yakosh-dey-yakosh-nipa.html",
   "title": "Kurzbogen der Yakosh-Dey (Yakosh-Nipa)",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Bögen",
+    "Reguläre Bögen"
+  ],
   "text": "Name\nTP\nLZ\nRW\nMunition\nGewicht\nLänge\nPreis\nKomplexität\nKurzbogen der Yakosh-Dey (Yakosh-Nipa)\n1W6+4\n1 Aktion\n10/40/70\nPfeile\n0,5 Stein\n120 HF\n40 S\neinf\nWaffenvorteil:\nSchüsse auf die Distanz nah richten 1 TP zusätzlich an (also insgesamt 1W6+6, wenn der TP-Bonus  für die Reichweite nah miteingerechnet wird).\nWaffennachteil:\nSchüsse auf die Distanz nah sind nicht aufgrund der Reichweite erleichtert.\nPublikation(en):\nRüstkammer der Dampfenden Dschungel, Seite 10"
 }

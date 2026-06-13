@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/Waffenbalsam.html",
   "title": "Waffenbalsam",
+  "categories": [
+    "Herbarium",
+    "Rezepte",
+    "Alchimistische Rezepte",
+    "Elixiere"
+  ],
   "text": "[...] Es dauert 5 Kampfrunden, um eine Waffe mit Waffenbalsam einzureiben.\nTypische Ingredienzien:\nAsche von Greifenfedern, Bärenfett, Brabaker Vitriol, Horuschenkerne, Silberstaub, Smaragd, Schuppen eines Höhlendrachen, Topas, Wasser aus einem fließenden Gewässer\nKosten der Ingredienzienstufen:\n65 Silbertaler pro Stufe\nLabor:\nAlchimistisches Labor\nBrauschwierigkeit:\n–2\nQualitätsstufen\n1: Waffe gilt für 5 Minuten als magisch.\n2: Waffe gilt für 15 Minuten als magisch.\n3: Waffe gilt für 2 Stunden als magisch, +1 TP.\n4: Waffe gilt für 8 Stunden als magisch, +1 TP.\n5: Waffe gilt für einen Tag als magisch und ist unzerbrechlich, +1 TP.\n6: Waffe gilt für eine Woche als magisch und ist unzerbrechlich, +1 TP.\nPublikation(en):\nRegelwerk, Seite 273\nKodex der Magie, Seite 389"
 }

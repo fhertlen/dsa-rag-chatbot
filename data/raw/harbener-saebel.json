@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/harbener-saebel.html",
   "title": "Harbener Säbel",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Schwerter",
+    "Reguläre Schwerter"
+  ],
   "text": "﻿\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nHarbener Säbel\n1W6+3\nGE/KK 15\n0/0\nmittel\n0,9 Stein\n75 HF\n200 S\neinf\nWaffenvorteil:\nGegen Rüstungen mit RS 3 oder weniger richtet der Harbener Säbel +1 TP an. Droht der Verlust der Waffe durch einen Patzer oder ein\nEntwaffnungs\n-Manöver, würfele mit 1W6. Bei 1-2 wurde die Waffe nicht fallengelassen, allerdings können bis zum Ende der nächsten KR keine AT ausgeführt werden.\nWaffennachteil:\nParaden gegen Zweihandwaffen sind mit dem Harbener Säbel um 1 erschwert. Der Harbener Säbel kann nicht zweihändig geführt werden (siehe Regelwerk Seite 266).\nPublikationen:\nDie Rüstkammer der Siebenwindküste, Seite 9\nHavena - Versunkene Geheimnisse, Seite 87"
 }

@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/KSF_BerittenerFlugkampf.html",
   "title": "Berittener Flugkampf",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Profane Sonderfertigkeiten",
+    "Kampfsonderfertigkeiten"
+  ],
   "text": "(passiv)\nRegel:\nMit dieser Sonderfertigkeit kann ein Reiter sein Flugreittier\nBefehle\ndurchführen lassen.\nVoraussetzungen:\nFliegen 10, Reiten 10\nKampftechnik:\nalle\nAP-Wert:\n10 Abenteuerpunkte\nAnmerkung:\nSpeziell für Flugtiere gibt es zudem den Befehl\nFlugangriff\n.\nPublikation(en):\nAventurisches Kompendium, Seite 151\nKodex des Schwertes, Seite 292"
 }

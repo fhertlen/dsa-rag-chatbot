@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/SPZ_Beleidigungen.html",
   "title": "Beleidigungen",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Magische Sonderfertigkeiten"
+  ],
   "text": "Wirkung:\nDas Spielzeug kann einen kurzen Satz sprechen und beleidigt jemanden, der sich in einem Radius von 7 Schritt um das Spielzeug befindet.\nVoraussetzungen:\nSpielbewegung\nVolumen:\n2 Punkte\nAsP-Kosten:\n2 AsP\nMerkmal:\nObjekt\nAP-Wert:\n3 Abenteuerpunkte\nPublikation: Aventurische Magie II Seite 38"
 }

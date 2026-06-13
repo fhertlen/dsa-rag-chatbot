@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/koscher-kurzbogen.html",
   "title": "Koscher Kurzbogen",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Bögen",
+    "Reguläre Bögen"
+  ],
   "text": "﻿Name\nTP\nLZ\nRW\nMunition\nGewicht\nLänge\nPreis\nKomplexität\nKoscher Kurzbogen\n1W6+3\n1 Aktion\n10/50/80\nPfeile\n0,4 Stein\n110 HF\n45 S\neinf\nWaffenvorteil:\nBeim\nZielen\nerhöht sich die Erleichterung um insgesamt 1 (gleich wie lange man zielt).\nWaffennachteil:\nBei Schüssen auf die Distanz\nweit\nsinken die TP um 1 weiteren Punkt (also insgesamt 1W6+1, wenn der TP-Malus für die Reichweite\nweit\nmiteingerechnet wird).\nPublikation(en):\nRüstkammer der Flusslande, Seite 11\nHelden der Flusslande, Seite 67"
 }

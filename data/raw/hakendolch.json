@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/hakendolch.html",
   "title": "Hakendolch",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Dolche",
+    "Reguläre Dolche"
+  ],
   "text": "Name\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nHakendolch\n1W6+1\nGE 14\n-1/0\nkurz\n1,25 Stein\n60 HF\n80 S\neinf\nAnmerkung:\nParierwaffe (PA-Bonus +1 für die Hauptwaffe)\nWaffenvorteil:\nWurde mit dem Hakendolch erfolgreich pariert, würfle mit 1W6. Bei einer 1-2 hat sich die Waffe des Gegners kurz verhakt, was zu einer Erschwernis von 1 auf AT für den Gegner in der nächsten KR führt. Diese Regel gilt nicht für Angriffe von Unbewaffneten.\nWaffennachteil:\nBereits eine gewürfelte 19 bei Attacke erfordert einen Bestätigungswurf, ob es zu einem Patzer kommt.\nPublikation(en):\nAventurische Rüstkammer I, Seite 68\nKodex des Schwertes, Seite 375\nArchiv der Ausrüstung, Seite 99"
 }

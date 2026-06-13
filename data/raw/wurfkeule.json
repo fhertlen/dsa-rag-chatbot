@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/wurfkeule.html",
   "title": "Wurfkeule",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Wurfwaffen",
+    "Reguläre Wurfwaffen"
+  ],
   "text": "﻿\nTP\nLZ\nRW\nMunition\nGewicht\nLänge\nPreis\nKomplexität\nWurfkeule\n1W6+2\n1 Aktion\n2/10/15\n-\n1 Stein\n50 HF\n5 S\nprim\nWaffenvorteil:\nWer durch eine Wurfkeule 6+ SP erleidet, muss eine Probe auf\nKörperbeherrschung (Balance)\nablegen, bei Misslingen erhält er den Status\nLiegend\n. Die Probe ist für jeden SP über 6 um 1 erschwert.\nWaffennachteil:\nGegen Rüstungen mit RS 4 und höher richtet die Wurfkeule –2 TP an."
 }

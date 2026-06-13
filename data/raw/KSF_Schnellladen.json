@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/KSF_Schnellladen.html",
   "title": "Schnellladen (Kampftechnik)",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Profane Sonderfertigkeiten",
+    "Kampfsonderfertigkeiten"
+  ],
   "text": "(passiv)\nRegel:\nDas Nachladen von Bögen und das Bereitmachen von Wurfwaffen verkürzen sich um 1 Aktion. Das Nachladen von Armbrüsten dauert nur die Hälfte der angegebenen Aktionen. Diese Sonderfertigkeit muss für die drei Fernkampftechniken Armbrüste, Bögen und Wurfwaffen einzeln erworben werden.\nVoraussetzungen:\nFF 13\nKampftechniken:\nArmbrüste, Blasrohre, Bögen, Diskusse, Schleudern oder Wurfwaffen\nAP-Wert:\nArmbrüste: 5 Abenteuerpunkte; Blasrohre: 5 Abenteuerpunkte; Bögen: 20 Abenteuerpunkte; Diskusse: 5 Abenteuerpunkte; Feuerspeien: 5 Abenteuerpunkte; Schleudern: 5 Abenteuerpunkte; Wurfwaffen: 10 Abenteuerpunkte\nAnmerkung:\n#\n\"(...) Ohne passende Scheide kann ein Held in der Regel nicht die Sonderfertigkeit Schnellziehen anwenden, ohne Köcher nicht Schnellladen (sofern man die Pfeile nicht griffbereit hat). (...)\" [Regelwerk, S. 374 \"Waffenzubehör\"]\n# Feuerspeien hat zwar einen AP-Wert, fehlt aber bei den Kampftechniken\nPublikation(en):\nRegelwerk (4. Auflage), Seite 249 [Armbrüste, Bögen, Wurfwaffen]\nAventurisches Kompendium, Seite 155 [Schleudern]\nAventurische Rüstkammer, Seite 123 [Blasrohre, Diskusse oder Schleudern]\nKodex des Schwertes, Seite 303 [Feuerspeien]"
 }

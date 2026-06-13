@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/ogerfaenger.html",
   "title": "Ogerfänger",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Dolche",
+    "Reguläre Dolche"
+  ],
   "text": "﻿Name\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nOgerfänger\n1W6+2\nGE 14\n0/-1\nkurz\n1 Stein\n35 HF\n100 S\neinf\nWaffenvorteil:\nVerursacht der Ogerfänger SP, klappen die Widerhaken automatisch aus. Der Träger der Waffe kann sie nur in der Hand behalten, wenn ihm eine Vergleichsprobe auf\nKraftakt (Ziehen & Zerren)\ngelingt. Er kann ab der folgenden KR versuchen, die Waffe aus seinem Gegner zu reißen. Dazu ist eine Raufen-AT erschwert um -2 notwendig, bei Gelingen noch eine Probe auf\nKraftakt (Ziehen & Zerren)\n. Gelingt diese Probe, verursacht das Herausziehen 1W6+2 + QS SP. Bei Misslingen bleibt die Waffe stecken. Ab der folgenden KR ist im Kampf die Raufen- AT um -4 erschwert, aber auch andere Personen in Angriffsdistanz zum Opfer können die Waffe versuchen herauszuziehen. Ein steckenbleibender Ogerfänger verursacht alle 5 Minuten 1 SP. Um ihn zu entfernen, muss entweder der Ogerfänger mit Kraft herausgezogen (1W6+2 SP) oder vorsichtig mit einer Probe auf Heilkunde Wunden herausgelöst werden. Eine misslungene Probe verursacht 1W3 SP, dauert aber auch nur 1 Minute.\nWaffennachteil:\nWurde mit dem Ogerfänger erfolgreich pariert, muss eine Probe auf\nKraftakt (Ziehen & Zerren)\nabgelegt werden, bei dessen Misslingen der Träger des Ogerfängers seine Waffe verliert.\nPublikation(en):\nAventurische Rüstkammer, Seite 80\nKodex des Schwertes, Seite 376\nArchiv der Ausrüstung, 119"
 }

@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/VSF_Hexenstimme.html",
   "title": "Hexenstimme",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Tierische Sonderfertigkeiten",
+    "Vertrautentricks"
+  ],
   "text": "Wirkung:\nDie Hexe kann mit ihrer Stimme durch ihr Vertrautentier sprechen, um kurze Botschaften zu überbringen. Dabei kann sie nicht automatisch hören oder anderweitig verstehen, was dem Vertrautentier vor Ort geantwortet wurde.\nTierarten:\nalle\nAsP-Kosten:\n5 AsP pro Minute\nWirkungsdauer:\nje nach AsP-Einsatz\nMerkmal:\nHellsicht\nAP-Wert:\n12 Abenteuerpunkte\nPublikationen:\nKrallenspuren, Seite 26"
 }

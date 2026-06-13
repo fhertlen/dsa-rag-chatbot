@@ -1,5 +1,10 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/SF_Kunstreiten.html",
   "title": "Kunstreiten",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Profane Sonderfertigkeiten",
+    "Allgemeine Sonderfertigkeiten"
+  ],
   "text": "Regel:\nMit der Sonderfertigkeit Kunstreiten erwirbt der Held das neue Anwendungsgebiet Kunstreiten im Talent Reiten. Wenn er ein entsprechend ausgebildetes Reittier hat, kann er mit diesem einige ungewöhnliche Kunststücke vollbringen oder spektakuläre Manöver einleiten, um Verfolger abzuschütteln.\nVoraussetzungen:\nReiten 8\nAP-Wert:\n3 Abenteuerpunkte\nPublikationen:\nAventurisches Kompendium 2, Seite 74"
 }

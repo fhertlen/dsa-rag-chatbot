@@ -1,5 +1,9 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/AW_Kampfglueck.html",
   "title": "Kampfglück",
+  "categories": [
+    "Sonderfertigkeiten",
+    "Magische Sonderfertigkeiten"
+  ],
   "text": "Wirkung:\nDer Animist kann die Wahrscheinlichkeit erhöhen, dass ihm Kritische Erfolge gelingen. Würfelt er einen Kritischen Erfolg (also im Regelfall eine 1 auf W20), so muss er keinen Bestätigungswurf würfeln. Die Attacke oder die Verteidigung ist in diesem Fall automatisch ein kritischer Erfolg. Die Fähigkeit wirkt 10 KR lang.\nVoraussetzungen:\nkeine\nVolumen:\n4 Punkte\nAsP-Kosten:\n4 AsP\nMerkmal:\nObjekt\nAP-Wert:\n10 Abenteuerpunkte\nPublikationen:\nAventurische Magie 3, Seite 19"
 }

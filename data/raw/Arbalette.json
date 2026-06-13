@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/Arbalette.html",
   "title": "Arbalette",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Armbrüste",
+    "Reguläre Armbrüste"
+  ],
   "text": "Name\nTP\nLZ\nRW\nMunition\nGewicht\nLänge\nPreis\nKomplexität\nArbalette\n2W6+4\n10 Aktionen\n10/50/100\nKugeln\n5 Stein\n150 HF\n750 S\nkomp (4 AP)\nWaffenvorteil:\nDie Abzüge für Schüsse auf\nZiele der Größenkategorie\nklein\nund\nwinzig\nsinken um 1.\nWaffennachteil:\nBei einer gewürfelten 20, egal ob der Patzer bestätigt wird oder nicht, kommt es zu einer schweren Ladehemmung. Der Schütze benötigt 2 Aktionen, um die Ladehemmung zu beseitigen. Spielst du mit der Optionalregel der\nPatzertabellen\n, addieren sich diese Aktionen auf die Zeit für eine weitere erwürfelte Ladehemmung.\nMögliche Varianten:\nBolzenschuss Torsionswaffe\nPublikation(en):\nKodex des Schwertes, Seite 381\nArchiv der Ausrüstung, Seite 222"
 }

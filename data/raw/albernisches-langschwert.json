@@ -1,5 +1,11 @@
 {
   "url": "https://dsa.ulisses-regelwiki.de/albernisches-langschwert.html",
   "title": "Albernisches Langschwert",
+  "categories": [
+    "Rüstkammer",
+    "Waffen",
+    "Schwerter",
+    "Reguläre Schwerter"
+  ],
   "text": "﻿\nTP\nL+S\nAT/PA-Mod\nRW\nGewicht\nLänge\nPreis\nKomplexität\nAlbernisches Langschwert\n1W6+4\nGE/KK 14\n-1/-1\nmittel\n1 Stein\n90 HF\n180 S\neinf\nWaffenvorteil:\nMit dem Albernischen Langschwert kann man das Manöver Schildspalter ausführen, auch wenn die Kampftechnik Schwerter dies eigentlich nicht gestattet. Gegen Fechtwaffen und Schwerter erhält sein Träger einen Bonus von +1 AT.\nWaffennachteil:\nGegen Waffen der Kampftechniken Zweihandhiebwaffen und Zweihandschwerter erleidet man\neinen zusätzlichen Malus von 2 auf PA."
 }
